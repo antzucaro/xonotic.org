@@ -1,3 +1,17 @@
+/* Fonts */
+@font-face {
+  font-family: 'Xolonium';
+  src: url('../fonts/xolonium-webfont.eot');
+  src: url('../fonts/xolonium-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/xolonium-webfont.woff') format('woff'),
+  url('../fonts/xolonium-webfont.ttf') format('truetype'),
+  url('../fonts/xolonium-webfont.svg#XoloniumNormal') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+body, h1, h2, h3, h4, h5 {
+  font-family: "Xolonium", Helvetica, Arial, sans-serif;
+}
 .top-bar {
   height: 50px;
 }
