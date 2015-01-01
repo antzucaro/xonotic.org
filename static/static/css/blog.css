@@ -10,10 +10,16 @@
   font-style: normal;
 }
 body, h1, h2, h3, h4, h5 {
+  color: rgb(195, 195, 195);
   font-family: "Xolonium", Helvetica, Arial, sans-serif;
+}
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/bg.jpg') no-repeat fixed center center / cover #000;
+  font-family: 'Georgia', serif;
 }
 p {
   font-size: 1.4rem;
+  color: rgb(155, 155, 155);
 }
 .top-bar {
   height: 50px;
@@ -37,16 +43,10 @@ p {
 .top-bar-section li:not(.has-form) a:not(.button):hover {
  background: #7F2828;
 }
-body {
-  font-family: 'Georgia', serif;
-}
-p {
-  color: rgb(68, 68, 68);
-}
 
 /* Post date */
 .post-date {
-  color: rgb(125, 125, 125);
+  color: rgb(85, 85, 85);
   font-style: italic;
   margin-bottom: 15px;
 }
