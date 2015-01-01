@@ -1,4 +1,4 @@
-{{ template "chrome/header.html" . }}
+{{ partial "header.html" . }}
     <!-- CONTENT -->
     {{ range first 10 .Data.Pages }}
     <div class="row">
@@ -17,4 +17,4 @@
 
     <!-- END CONTENT -->
 
-{{ template "chrome/footer.html" . }}
+{{ partial "footer.html" . }}
