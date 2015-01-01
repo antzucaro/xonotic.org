@@ -14,7 +14,7 @@ body, h1, h2, h3, h4, h5 {
   font-family: "Xolonium", Helvetica, Arial, sans-serif;
 }
 body {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/bg.jpg') no-repeat fixed center center / cover #000;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/bg.jpg') no-repeat fixed center center / cover #000;
   font-family: 'Georgia', serif;
 }
 p {
@@ -29,6 +29,9 @@ p {
 }
 .top-bar-section ul li {
   background: none;
+}
+.top-bar-section ul li > a {
+  font-family: 'Xolonium';
 }
 .top-bar-section li:not(.has-form) a:not(.button) {
   line-height: 50px;
