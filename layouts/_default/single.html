@@ -7,6 +7,8 @@
 
         {{ .Content }}
 
+        {{ partial "info_panel.html" . }}
+
         <section id="prev">
           {{if .Prev}}Previous post: <a class="previous" href="{{.Prev.Permalink}}"><i class="icon-arrow-left"></i> {{.Prev.Title}}</a><br>{{end}}
         </section>
