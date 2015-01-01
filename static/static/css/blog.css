@@ -18,7 +18,7 @@ body {
   font-family: 'Georgia', serif;
 }
 p {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   color: rgb(155, 155, 155);
 }
 .top-bar {
@@ -27,21 +27,24 @@ p {
 .top-bar .name h1 a {
   padding: 0px 15px 0px 0px;
 }
+.top-bar-section ul li {
+  background: none;
+}
 .top-bar-section li:not(.has-form) a:not(.button) {
   line-height: 50px;
 }
 .top-bar, .contain-to-grid {
-  background: #A53838;
+  background: linear-gradient( rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.2) 95% );
   margin-bottom: 15px;
 }
 .top-bar.expanded .title-area {
-  background: #A53838;
+  background: none;
 }
 .top-bar-section li:not(.has-form) a:not(.button) {
-  background: #A53838;
+  background: none;
 }
 .top-bar-section li:not(.has-form) a:not(.button):hover {
- background: #7F2828;
+ background: #333;
 }
 
 /* Post date */
