@@ -12,11 +12,13 @@
 body, h1, h2, h3, h4, h5 {
   font-family: "Xolonium", Helvetica, Arial, sans-serif;
 }
+p {
+  font-size: 1.4rem;
+}
 .top-bar {
   height: 50px;
 }
 .top-bar .name h1 a {
-  font-size: 1.8em;
   padding: 0px 15px 0px 0px;
 }
 .top-bar-section li:not(.has-form) a:not(.button) {
@@ -35,34 +37,22 @@ body, h1, h2, h3, h4, h5 {
 .top-bar-section li:not(.has-form) a:not(.button):hover {
  background: #7F2828;
 }
-.top-bar-section ul li > a {
-    font-size: 1.2rem;
-}
 body {
   font-family: 'Georgia', serif;
 }
 p {
   color: rgb(68, 68, 68);
-  font-size: 1.5rem;
 }
 
 /* Post date */
-.post-title {
-    font-size: 1.5rem;
-}
 .post-date {
   color: rgb(125, 125, 125);
-  font-size: 1.2rem;
   font-style: italic;
   margin-bottom: 15px;
 }
 .post-block .post-date {
     margin-bottom: 5px;
 }
-.post-description {
-    font-size: 1.2rem;
-}
-
 .about-image {
   float: right;
   margin: 10px 10px 10px 0px;
@@ -92,7 +82,6 @@ p {
   text-align: center;
 }
 .wp-caption-text {
-  font-size: 1rem;
   font-style: italic;
   color: rgb(125, 125, 125);
 }
@@ -110,7 +99,6 @@ code {
     color: #3E3E3E;
     background-color: #EAEAEA;
     border: 1px solid #DBDBDB;
-    font-size: 15px;
 }
 footer {
     float: right;
@@ -134,7 +122,6 @@ footer {
 }
 #footer p {
   color: white;
-  font-size: 1.2rem;
   margin-bottom: 0.5rem;
   text-align: center;
 }
