@@ -1,0 +1,22 @@
+{{ template "chrome/header.html" . }}
+    <!-- CONTENT -->
+    <div class="row">
+      <div class="small-12 large-offset-1 large-10 columns">
+        <h2>{{ .Title }}</h2>
+        <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
+
+        {{ .Content }}
+
+        <section id="prev">
+          {{if .Prev}}Previous post: <a class="previous" href="{{.Prev.Permalink}}"><i class="icon-arrow-left"></i> {{.Prev.Title}}</a><br>{{end}}
+        </section>
+
+        <section id="next">
+          {{if .Next}}Next post: <a class="next" href="{{.Next.Permalink}}">{{.Next.Title}} <i class="icon-arrow-right"></i></a>{{end}}
+        </section>
+
+      </div> <!-- END MAIN COLUMN -->
+    </div> <!-- END ROW -->
+    <!-- END CONTENT -->
+{{ template "chrome/disqus.html" . }}
+{{ template "chrome/footer.html" . }}

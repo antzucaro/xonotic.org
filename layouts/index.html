@@ -1,0 +1,20 @@
+{{ template "chrome/header.html" . }}
+    <!-- CONTENT -->
+    {{ range first 10 .Data.Pages }}
+    <div class="row">
+      <div class="small-12 large-offset-1 large-10 columns">
+        {{ .Title }}
+        <hr />
+      </div> 
+    </div>
+    {{ end }}
+
+    <div class="row">
+      <div class="small-12 large-offset-1 large-10 columns">
+        <h4>View older posts in <a href="/posts" title="Posts archive">the archive</a>...</h4>
+      </div>
+    </div>
+
+    <!-- END CONTENT -->
+
+{{ template "chrome/footer.html" . }}

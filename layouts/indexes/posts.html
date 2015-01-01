@@ -1,0 +1,20 @@
+{{ template "chrome/header.html" . }}
+
+{{ range .Data.Pages }}
+<div class="row">
+  <div class="small-offset-1 small-6 columns">
+    <span class="post-title"><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a> <br /></span>
+    <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
+    <span class="post-description">{{ .Description }}</span>
+  </div>
+  <div class="small-4 columns">
+    <p>
+      {{ range .Params.categories }} 
+      <span class="label">{{ . }}</span>
+      {{ end }}
+    </p>
+  </div>
+</div>
+{{ end }}
+
+{{ template "chrome/footer.html" . }}

@@ -1,0 +1,15 @@
+        <span class="post-title"><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a> <br /></span>
+        <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
+
+        {{ if isset .Params "headline" }}
+        <div class='wp-caption aligncenter'>
+          <a href="{{ .Permalink }}" title="{{ .Title }}">
+            <img alt="Headline image for {{ .Title }}" src="{{ .Params.headline }}">
+          </a>
+        </div>
+        {{ end }}
+
+        <p>{{ .Summary }}</p>
+        <footer>
+            <a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+        </footer>

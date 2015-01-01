@@ -1,0 +1,6 @@
+---
+indexes:
+  category: "categories"
+  tag: "tags"
+baseurl: "http://www.xonotic.org/"
+---

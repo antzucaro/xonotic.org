@@ -1,0 +1,5 @@
+# Uploaded media files
+static/uploads/
+
+# The destination/output directory
+public/

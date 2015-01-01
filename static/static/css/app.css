@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'XoloniumNormal';
+  src: url('../fonts/xolonium-webfont.eot');
+  src: url('../fonts/xolonium-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/xolonium-webfont.woff') format('woff'),
+  url('../fonts/xolonium-webfont.ttf') format('truetype'),
+  url('../fonts/xolonium-webfont.svg#XoloniumNormal') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background-color: rgb(15, 15, 15);
+}
+
+body, h1, h2, h3, h4, h5, p, span {
+  font-family: "XoloniumNormal", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #D0D0D0;
+}
+
+.top-bar {
+  background-color: rgb(15, 15, 15);
+}
+
+.section-dl {
+  background: url('../img/section-dl-bg.jpg') no-repeat scroll center center / cover #000;
+  text-align: center;
+}
+
+.fa-cloud-download {
+  color: #BD362F;
+  font-size: 120px;
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.25);
+}

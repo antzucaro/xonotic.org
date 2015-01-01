@@ -1,0 +1,129 @@
+/* Fonts */
+.top-bar-section ul li > a, button, .button, .tabs, .side-nav, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Copse', sans-serif;
+}
+.top-bar {
+  height: 50px;
+}
+.top-bar .name h1 a {
+  font-size: 1.8em;
+  padding: 0px 15px 0px 0px;
+}
+.top-bar-section li:not(.has-form) a:not(.button) {
+  line-height: 50px;
+}
+.top-bar, .contain-to-grid {
+  background: #A53838;
+  margin-bottom: 15px;
+}
+.top-bar.expanded .title-area {
+  background: #A53838;
+}
+.top-bar-section li:not(.has-form) a:not(.button) {
+  background: #A53838;
+}
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+ background: #7F2828;
+}
+.top-bar-section ul li > a {
+    font-size: 1.2rem;
+}
+
+body {
+  font-family: 'EB Garamond', serif;
+}
+p {
+  color: rgb(68, 68, 68);
+  font-size: 1.5rem;
+}
+
+/* Post date */
+.post-title {
+    font-size: 1.5rem;
+}
+.post-date {
+  color: rgb(125, 125, 125);
+  font-size: 1.2rem;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.post-block .post-date {
+    margin-bottom: 5px;
+}
+.post-description {
+    font-size: 1.2rem;
+}
+
+.about-image {
+  float: right;
+  margin: 10px 10px 10px 0px;
+}
+
+/* Post listings */
+.post-listing ol {
+    list-style-type: none;
+    margin: 0;
+}
+.post-listing .post-date {
+    margin: 0;
+}
+.post-listing ol li {
+    float: left;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+/* Polaroids */
+.aligncenter {
+  margin-left: auto;
+  margin-right: auto;
+}
+.wp-caption {
+  margin-bottom: 10px;
+  text-align: center;
+}
+.wp-caption-text {
+  font-size: 1rem;
+  font-style: italic;
+  color: rgb(125, 125, 125);
+}
+.wp-caption img {
+  background-color: #F3F3F3;
+  border: 1px solid #DDDDDD;
+  border-radius: 3px 3px 3px 3px;
+  max-width: 100%;
+  padding: 4px 4px 4px 4px;
+  text-align: center;
+}
+/* code snippets */
+code {
+    color: #3E3E3E;
+    background-color: #EAEAEA;
+    border: 1px solid #DBDBDB;
+    font-size: 15px;
+}
+footer {
+    float: right;
+    margin-bottom: 1.5rem;
+}
+
+#prev {
+    margin-bottom: 1.5rem;
+}
+#next {
+    margin-bottom: 2.5rem;
+}
+/* Footer */
+#footer {
+  background: #A53838;
+  font-style: italic;
+  margin: 15px 0px 0px 0px;
+  padding-top: 5px;
+  width: 100%;
+}
+#footer p {
+  color: white;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
