@@ -101,6 +101,15 @@ p {
   text-align: center;
 }
 
+/* panel */
+.panel {
+  background-color: #151515;
+  border-color: rgb(40, 40, 40);
+}
+.panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p, .panel li, .panel dl {
+  color: #777777;
+}
+
 /* code snippets */
 code {
     color: rgb(195, 195, 195);
