@@ -31,6 +31,7 @@ p {
   background: none;
 }
 .top-bar-section ul li > a {
+  color: rgb(200, 200, 200);
   font-family: 'Xolonium';
 }
 .top-bar-section li:not(.has-form) a:not(.button) {
