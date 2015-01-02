@@ -112,9 +112,10 @@ p {
 
 /* code snippets */
 code {
-    color: rgb(195, 195, 195);
     background-color: rgb(40, 40, 40);
     border: rgb(70, 70, 70);
+    color: rgb(195, 195, 195);
+    font-size: 1rem;
 }
 footer {
     float: right;
