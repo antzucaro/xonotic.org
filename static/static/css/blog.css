@@ -103,9 +103,9 @@ p {
 
 /* code snippets */
 code {
-    color: #3E3E3E;
-    background-color: #EAEAEA;
-    border: 1px solid #DBDBDB;
+    color: rgb(195, 195, 195);
+    background-color: rgb(40, 40, 40);
+    border: rgb(70, 70, 70);
 }
 footer {
     float: right;
