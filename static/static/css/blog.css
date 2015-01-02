@@ -33,6 +33,7 @@ p {
 .top-bar-section ul li > a {
   color: rgb(200, 200, 200);
   font-family: 'Xolonium';
+  text-shadow: 0px 1px 1px rgba(200, 200, 200, 0.4);
 }
 .top-bar-section li:not(.has-form) a:not(.button) {
   line-height: 50px;
@@ -117,10 +118,6 @@ code {
     color: rgb(195, 195, 195);
     font-size: 1rem;
 }
-footer {
-    float: right;
-    margin-bottom: 1.5rem;
-}
 
 #prev {
     margin-bottom: 1.5rem;
@@ -131,7 +128,7 @@ footer {
 
 /* Footer */
 #footer {
-  background: #A53838;
+  background: linear-gradient( rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.2) 95% );
   font-style: italic;
   margin: 15px 0px 0px 0px;
   padding-top: 5px;
