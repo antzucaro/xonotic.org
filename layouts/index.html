@@ -1,20 +1,135 @@
 {{ partial "header.html" . }}
-    <!-- CONTENT -->
-    {{ range first 10 .Data.Pages }}
-    <div class="row">
-      <div class="small-12 large-offset-1 large-10 columns">
-        {{ .Title }}
-        <hr />
-      </div> 
+
+<!-- DOWNLOAD SECTION -->
+<section class="section-dl text-center">
+  <img src="/static/img/xonotic-logo.png">
+  <h2>The Free and Open Source Arena Shooter</h2>
+  <a href="#" class="button round alert">
+      <i class="fa fa-download"></i> Download <br />
+      <em>v0.7 for Linux, Windows, and Mac</em>
+  </a>
+</section>
+
+<!-- SUMMARY SECTION -->
+<section class="section-summary text-center">
+  <div class="row">
+    <div class="small-12 columns">
+      <h3>Xonotic is a free and fast-paced first person shooter for Linux, Mac, and Windows. It combines addictive, arena-style gameplay with rapid movement and a wide array of weapons. Xonotic is available under the permissive GPLv2 license.</h3>
     </div>
-    {{ end }}
+  </div>
+</section>
 
-    <div class="row">
-      <div class="small-12 large-offset-1 large-10 columns">
-        <h4>View older posts in <a href="/posts" title="Posts archive">the archive</a>...</h4>
-      </div>
+<!-- WEAPON SECTION -->
+<section class="section-weapon">
+  <div class="row">
+    <div class="small-6 columns">
+      <h3>Distinctive Weapons</h3>
+      <h5>Xonotic has 9 core weapons and 16 full weapons in its armory. Each
+        has a primary fire and a UT-like secondary fire. They are each useful
+      in particular situations, so weapon choice is critical. Frag away!</h5>
     </div>
 
-    <!-- END CONTENT -->
+    <div class="small-6 columns">
+      <img src="/static/img/carousel_weapons.jpg" alt="9 distinctive weapons">
+    </div>
 
+  </div>
+</section>
+
+<!-- GAME MODE SECTION -->
+<section class="section-game-mode">
+  <div class="row">
+
+    <div class="small-6 columns">
+      <img src="/static/img/carousel_game_modes.jpg" alt="Tons of game modes">
+    </div>
+
+    <div class="small-6 columns">
+      <h3>Tons of Game Modes</h3>
+      <h5>Through the support of our diverse community Xonotic has a huge variety of game
+        modes for you to play. There's the normal game modes you'd expect from
+    an arena shooter like Deathmatch (FFA), Capture The Flag, and Clan Arena,
+    plus more whacky modes like Nexball and Freeze Tag. Multiplayer Race is also support!</h5>
+    </div>
+
+  </div>
+</section>
+
+<!-- MAPS SECTION -->
+<section class="section-maps">
+  <div class="row">
+
+    <div class="small-6 columns">
+      <h3>New and Classic Maps</h3>
+      <h5>Xonotic ships ready to play with 25 official maps, with dozens of
+        community-made ones just a click away. Classic Nexuiz maps are also
+      supported, including those converted from Quake 3!</h5>
+
+      <h5>Those interested in making maps of their own can use our map editor,
+    which also ships with the game.
+    </div>
+
+    <div class="small-6 columns">
+      <img src="/static/img/carousel_maps.jpg" alt="Maps ready to go!">
+    </div>
+
+  </div>
+</section>
+
+<!-- STATS SECTION -->
+<section class="section-stats">
+  <div class="row">
+
+    <div class="small-6 columns">
+      <img src="/static/img/carousel_stats.jpg" alt="Integrated Player Statistics">
+    </div>
+
+    <div class="small-6 columns">
+      <h3>Integrated Player Statistics</h3>
+      <h5>Track your progress with XonStat, the integrated player statistics
+        application. See vital stats like your kill:death ratio, weapon damage
+      and accuracy, and recent games. Tracking is completely opt-in, and no
+    login is required!</h5>
+    </div>
+
+  </div>
+</section>
+
+<!-- HUD SECTION -->
+<section class="section-hud">
+  <div class="row">
+
+    <div class="small-6 columns">
+      <h3>Customizable Heads-Up Display</h3>
+      <h5>Tailor the information on your screen to what you’re used to with our
+        easy to use HUD editor. Stick with the defaults, add all the whiz-bang widgets, or go minimalist – it is completely up to you!</h5>
+    </div>
+
+    <div class="small-6 columns">
+      <img src="/static/img/carousel_hud.jpg" alt="Easily customizable Heads-Up Display (HUD)">
+    </div>
+
+  </div>
+</section>
+
+<!-- COMPETITIVE/CASUAL SECTION -->
+<section class="section-competitive-casual">
+  <div class="row">
+
+    <div class="small-6 columns">
+      <img src="/static/img/carousel_competitive_casual.jpg" alt="Support for both casual and competitive players.">
+    </div>
+
+    <div class="small-6 columns">
+      <h3>Casual and Competitive</h3>
+      <h5>Xonotic is easy to learn but hard to master! We strive to provide
+        thrilling action for the casual player but also e-sport opportunities
+      for those interested in friendly competition. Features such as simple items, 
+      fully customizable configs and servers, a functioning anticheat system, spectator 
+      mode, and the opportunity to watch and record games make Xonotic
+      appealing to competitive players.</h5>
+    </div>
+
+  </div>
+</section>
 {{ partial "footer.html" . }}

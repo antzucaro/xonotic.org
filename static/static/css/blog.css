@@ -9,6 +9,8 @@
   font-weight: normal;
   font-style: normal;
 }
+
+/* Foundation Overrides */
 body, h1, h2, h3, h4, h5 {
   color: rgb(195, 195, 195);
   font-family: "Xolonium", Helvetica, Arial, sans-serif;
@@ -54,6 +56,23 @@ p {
 .top-bar-section li:not(.has-form) a:not(.button):hover {
  background: #333;
 }
+.panel {
+  background-color: #151515;
+  border-color: rgb(40, 40, 40);
+}
+.panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p, .panel li, .panel dl {
+  color: #777777;
+}
+
+/* Main section */
+#dl-icon {
+    color: rgb(234, 34, 34);
+    font-size: 5rem;
+    margin: 2rem 0 0 0;
+}
+#dl-icon:hover {
+  text-shadow: 2px 2px rgba(120, 8, 31, 1);
+}
 
 /* Post date */
 .post-date {
@@ -63,10 +82,6 @@ p {
 }
 .post-block .post-date {
     margin-bottom: 5px;
-}
-.about-image {
-  float: right;
-  margin: 10px 10px 10px 0px;
 }
 
 /* Post listings */
@@ -103,15 +118,6 @@ p {
   max-width: 100%;
   padding: 4px 4px 4px 4px;
   text-align: center;
-}
-
-/* panel */
-.panel {
-  background-color: #151515;
-  border-color: rgb(40, 40, 40);
-}
-.panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p, .panel li, .panel dl {
-  color: #777777;
 }
 
 /* code snippets */
