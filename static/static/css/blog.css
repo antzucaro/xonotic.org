@@ -64,14 +64,32 @@ p {
   color: #777777;
 }
 
-/* Main section */
-#dl-icon {
-    color: rgb(234, 34, 34);
-    font-size: 5rem;
-    margin: 2rem 0 0 0;
+/* Sections */
+body > section.pad {
+  padding: 8rem;
 }
-#dl-icon:hover {
-  text-shadow: 2px 2px rgba(120, 8, 31, 1);
+
+/* Main section */
+body > section > a.button.alert {
+  box-shadow: 0px 0.1em 0px rgba(255, 255, 255, 0.1) inset, 0px -0.15em 0px rgba(0, 0, 0, 0.2) inset, 0px 0.15em 0px rgba(0, 0, 0, 0.075);
+  margin: 3rem;
+}
+
+/* Section Backgrounds */
+.section-summary {
+  background-color: #1D1D1D;
+}
+
+.section-game-mode {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)) repeat scroll 0% 0%, url('../img/section-bg1.jpg') no-repeat fixed center center / cover #000;
+}
+
+.section-stats {
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)) repeat scroll 0% 0%, url('../img/section-bg2.jpg') no-repeat fixed center center / cover #000;
+}
+
+.section-competitive-casual {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)) repeat scroll 0% 0%, url('../img/section-bg3.jpg') no-repeat fixed center center / cover #000;
 }
 
 /* Post date */
