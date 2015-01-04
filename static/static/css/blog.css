@@ -66,7 +66,7 @@ p {
 
 /* Sections */
 body > section.pad {
-  padding: 8rem;
+  padding: 7rem;
 }
 
 /* Main section */
@@ -80,6 +80,10 @@ body > section > a.button.alert {
   background-color: #1D1D1D;
 }
 
+.section-weapon, .section-maps, .section-hud {
+  background: black;
+}
+
 .section-game-mode {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)) repeat scroll 0% 0%, url('../img/section-bg1.jpg') no-repeat fixed center center / cover #000;
 }
@@ -89,7 +93,7 @@ body > section > a.button.alert {
 }
 
 .section-competitive-casual {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)) repeat scroll 0% 0%, url('../img/section-bg3.jpg') no-repeat fixed center center / cover #000;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) repeat scroll 0% 0%, url('../img/section-bg3.jpg') no-repeat fixed center center / cover #000;
 }
 
 /* Post date */
