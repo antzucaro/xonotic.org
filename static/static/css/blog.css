@@ -79,21 +79,22 @@ body > section > a.button.alert {
 .section-summary {
   background-color: #1D1D1D;
 }
-
 .section-weapon, .section-maps, .section-hud {
   background: black;
 }
-
 .section-game-mode {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)) repeat scroll 0% 0%, url('../img/section-bg1.jpg') no-repeat fixed center center / cover #000;
 }
-
 .section-stats {
   background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)) repeat scroll 0% 0%, url('../img/section-bg2.jpg') no-repeat fixed center center / cover #000;
 }
-
 .section-competitive-casual {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) repeat scroll 0% 0%, url('../img/section-bg3.jpg') no-repeat fixed center center / cover #000;
+}
+
+/* Thumbnails */
+.th {
+  border-color: #0E0E0E;
 }
 
 /* Post date */
