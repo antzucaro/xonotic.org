@@ -79,6 +79,9 @@ body > section > a.button.alert {
 .section-summary {
   background-color: #1D1D1D;
 }
+.section-summary > .screenshots {
+  margin-top: 3rem;
+}
 .section-weapon, .section-maps, .section-hud {
   background: black;
 }
