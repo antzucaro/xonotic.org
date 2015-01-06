@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+  <div class="small-12-columns">
+    <h2>The Xonotic Blog</h2>
+  </div>
+</div>
+
+{{ range first 10 .Data.Pages }}
+<div class="row">
+  <div class="small-12 columns">
+  <span class="post-title"><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a> <br /></span>
+  <p class="post-date">Posted by {{ .Params.author }} on {{ .Date.Format "January 2, 2006" }}</p>
+  <p>{{ .Summary }}</p>
+
+  {{ range .Params.categories }}
+  <span class="label">{{ . }}</span>
+  {{ end }}
+
+  <div class="right">
+    <a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+  </div>
+
+  <hr />
+  </div> 
+</div>
+{{ end }}
+
+<div class="row">
+  <div class="small-12 columns">
+    <h4>View older posts in <a href="#" title="Posts archive">the archive</a>...</h4>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}
