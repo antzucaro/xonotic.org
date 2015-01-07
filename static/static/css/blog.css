@@ -23,6 +23,9 @@ p {
   font-size: 1.3rem;
   color: rgb(155, 155, 155);
 }
+hr {
+  border-color: #1b1b1b;
+}
 .top-bar {
   height: 50px;
 }
