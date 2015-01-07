@@ -1,0 +1,9 @@
+This is layouts/archive/single.html
+
+{{ .Type }}
+{{ .IsNode }}
+{{ .IsPage }}
+
+{{ range .Site.Pages }}
+  {{ .Title }}
+{{ end }}
