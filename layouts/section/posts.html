@@ -9,7 +9,7 @@
 {{ range first 10 .Data.Pages }}
 <div class="row">
   <div class="small-12 columns">
-  <span class="post-title"><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a> <br /></span>
+  <h3><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h3>
   <p class="post-date">Posted by {{ .Params.author }} on {{ .Date.Format "January 2, 2006" }}</p>
   <p>{{ .Summary }}</p>
 
