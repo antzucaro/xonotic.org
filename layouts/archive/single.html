@@ -1,9 +1,27 @@
-This is layouts/archive/single.html
+{{ partial "header.html" . }}
 
-{{ .Type }}
-{{ .IsNode }}
-{{ .IsPage }}
+<div class="row">
+  <div class="small-12 columns">
+    <h2>Blog Post Archive</h2>
+  </div>
+</div>
 
-{{ range .Site.Pages }}
-  {{ .Title }}
+{{ range (where .Site.Pages "Type" "posts") }}
+<div class="row">
+  <div class="small-9 columns">
+    <h3><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h3>
+    <p class="post-date">Posted by {{ .Params.author }} on {{ .Date.Format "January 2, 2006" }}</p>
+  </div>
+
+  <div class="small-3 columns">
+    {{ range .Params.categories }}
+    <span class="label">{{ . }}</span>
+    {{ end }}
+  </div>
+
+  <hr />
+
+</div>
 {{ end }}
+
+{{ partial "footer.html" . }}
