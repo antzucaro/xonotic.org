@@ -19,8 +19,12 @@ I'll start out in a little bit of a rush, trying to sum up the most important de
 
 ### Player models
 
-[caption id="" align="alignleft" width="300" caption="Ignis, Female Version"][![Ignis, Female Version](http://pics.nexuizninjaz.com/images/f6i2wct8fna1tvux1q.jpg)](http://pics.nexuizninjaz.com/images/f6i2wct8fna1tvux1q.jpg)
-[/caption]
+{{% polaroid
+   "http://pics.nexuizninjaz.com/images/f6i2wct8fna1tvux1q.jpg"
+   "http://pics.nexuizninjaz.com/images/f6i2wct8fna1tvux1q.jpg"
+   "Ignis, Female Version"
+%}}
+
 The player models are finally getting the update they deserve. Dib and tZork (hope I didn't miss anyone) are working on getting Oblivion's awesome player models working and looking fine in the game. Dib is also working on fixing the weapon scale, which previously was too big.
 
 More screenshots in the [image gallery](http://xonotic.org/media).
@@ -28,13 +32,23 @@ More screenshots in the [image gallery](http://xonotic.org/media).
 
 ### Maps
 
-[caption id="" align="alignleft" width="195" caption="WIP screenshot of Glowarena remake by tZork"][![WIP screenshot of Glowarena remake by tZork](http://pics.nexuizninjaz.com/images/zkiws2z0x8qekb1hqvj2.jpg)](http://pics.nexuizninjaz.com/images/zkiws2z0x8qekb1hqvj2.jpg)[/caption]
+{{% polaroid
+   "http://pics.nexuizninjaz.com/images/zkiws2z0x8qekb1hqvj2.jpg"
+   "http://pics.nexuizninjaz.com/images/zkiws2z0x8qekb1hqvj2.jpg"
+   "WIP screenshot of Glowarena remake by tZork"
+%}}
 
-[caption id="" align="alignleft" width="195" caption="WIP screenshot of Space Elevator by FruitieX"][![WIP screenshot of Space Elevator by FruitieX](http://pics.nexuizninjaz.com/images/5n4zm98lx8ympaip0la.jpg)](http://pics.nexuizninjaz.com/images/5n4zm98lx8ympaip0la.jpg)[/caption]
+{{% polaroid
+   "http://pics.nexuizninjaz.com/images/5n4zm98lx8ympaip0la.jpg"
+   "http://pics.nexuizninjaz.com/images/5n4zm98lx8ympaip0la.jpg"
+   "WIP screenshot of Space Elevator by FruitieX"
+%}}
 
-[caption id="" align="alignleft" width="195" caption="WIP screenshot of Dance by FruitieX"][![WIP screenshot of Dance by FruitieX](http://pics.nexuizninjaz.com/images/29xg8ajq1cdzrnqk1s4.jpg)](http://pics.nexuizninjaz.com/images/29xg8ajq1cdzrnqk1s4.jpg)[/caption]
-
-  
+{{% polaroid
+   "http://pics.nexuizninjaz.com/images/29xg8ajq1cdzrnqk1s4.jpg"
+   "http://pics.nexuizninjaz.com/images/29xg8ajq1cdzrnqk1s4.jpg"
+   "WIP screenshot of Dance by FruitieX"
+%}}
 
 Most of the Nexuiz maps weren't really up to today's quality standards, so the old favorites are being remade by mappers like tZork, Cortez, sev, FruitieX (me), Cuinnton and others. Currently it _looks _like at least the following maps will have remakes: Glowarena (tZork), Dance (FruitieX), Space elevator/Gasolinepowered (Cuinnton/FruitieX), Aggressor (FruitieX) Stormkeep (FruitieX), Runningmanctf (FruitieX, I'm promising much here :D), Downer (Cortez), Evilspace (Cortez), Soylent (sev), Castles (Cuinnton), Space CTF aka cb_ctf1 (C. Brutail) and probably more that I've missed :). Aside from remakes, I'm also seeing brand new maps appearing in the forum, and even in the repo (condemned_castles by MooKow). Which of these that appear in the initial release is something I have no idea about yet :)
 
@@ -48,15 +62,21 @@ Another immediately visible thing in the initial Xonotic release should be the c
 
 [youtube]http://www.youtube.com/watch?v=Ac3197XbkkM[/youtube]
 
-[caption id="" align="alignleft" width="200" caption="WIP Panel HUD skin by sev"][![WIP Panel HUD skin by sev](http://pics.nexuizninjaz.com/images/hph3jau64w6eewq9dnl.jpg)](http://pics.nexuizninjaz.com/images/hph3jau64w6eewq9dnl.jpg)[/caption]
-
-  
+{{% polaroid
+   "http://pics.nexuizninjaz.com/images/hph3jau64w6eewq9dnl.jpg"
+   "http://pics.nexuizninjaz.com/images/hph3jau64w6eewq9dnl.jpg"
+   "WIP Panel HUD skin by sev"
+%}}
 
 ### Menu
 
-[caption id="" align="alignleft" width="200" caption="WickedX menu theme, also by sev"][![WIP menu theme, also by sev](http://pics.nexuizninjaz.com/images/pj13gstvgqpbamgxrxzm.jpg)](http://pics.nexuizninjaz.com/images/pj13gstvgqpbamgxrxzm.jpg)[/caption]
+{{% polaroid
+   "http://pics.nexuizninjaz.com/images/pj13gstvgqpbamgxrxzm.jpg"
+   "http://pics.nexuizninjaz.com/images/pj13gstvgqpbamgxrxzm.jpg"
+   "WickedX menu theme, also by sev"
+%}}
+
 We've also had a menu uplift, with new animation code by esteel and the new default menu theme looking like this:
-  
 
 ### Physics/balance
 
