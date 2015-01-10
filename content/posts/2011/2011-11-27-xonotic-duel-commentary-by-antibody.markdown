@@ -18,7 +18,7 @@ Though the matches don't have set dates, there are always a lot spectators watch
 
 Have fun watching!
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=x_QUxA8_mpI[/youtube]
+{{% youtube "x_QUxA8_mpI" %}}
 
 If you'd like to spectate a match, be sure to join  the [Xonotic pickup channel](irc://irc.quakenet.org/xonotic.pickup) on IRC (#xonotic.pickup @ irc.quakenet.org) so you don't miss the start.
 ﻿Additionally, you can discuss this video on the [official Xonotic forums](http://forums.xonotic.org/showthread.php?tid=2371).

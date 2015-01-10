@@ -86,7 +86,7 @@ The next release will also have a new map to frag your opponents to fleshy gibs:
 **8-bit Arena** is a multy gamemod map, still in WIP status. The map will support deathmatch, capture the flag, and nexball gamemods. It was built a very unique 8-bit style with retro gaming references, and homages made to a classic and beautiful era of computer history. The map also features a very cool, conceptual eye-candy element: touch sensitive floor tiles! There's still some quite work left to do on the map, but you can always check out the latest version from the [automatic map compile server](http://beta.xonotic.org/autobuild-bsp/?d). For technical details, see and check out the branch:
 [xonotic/xonotic-maps.pk3dir.git/cbrutail/map-8bit_arena](http://git.xonotic.org/?p=xonotic/xonotic-maps.pk3dir.git;a=shortlog;h=refs/heads/cbrutail/map-8bit_arena).
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=2mChGS-zAcY[/youtube]
+{{% youtube "2mChGS-zAcY" %}}
 
 ### New Minstanex-gun model
 
@@ -103,7 +103,7 @@ That's right folks, you've read it right! There's a new gamemod and a mutator in
 **Sandbox** is a one-man project coded by MirceaKitsune.  This gamemod offers you the ability to spawn all kind of models found in the game - place them around the map, recolor or resize them, link them together etc. There's also an internal data storage and a clipboard system, so you can save your modelsets, load them to clipboard, and paste them anytime you want. The mod offers both offline and online play - this gives you the opportunity to share your saved modelsets with the aid of the clipboard with other players on the server! It's still early in development, but MirceaKitsune already made huge progress in just a few days. While it's not yet so flexible as the famous Garry's Mod for Half-Life2,  the project is geared towards further goals like adding physics, predefined clipboard sets for easier model creations, make model bones possible to pose from in-game etc. Below you can see a small video featuring the already implemented and working functions. You can find the sandbox git branch at:
 [xonotic/xonotic-data.pk3dir.git/mirceakitsune/sandbox](http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=shortlog;h=refs/heads/mirceakitsune/sandbox)
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=2KFYPQRLLys[/youtube]
+{{% youtube "2KFYPQRLLys" %}}
 
 You can try out the mod online at MirceaKitsune's Xonotic server (you need to check out his branch first, and recompile your engine in order to be able to play). For more info on the mod, check out it's [developer thread on the Xonotic forum](http://forums.xonotic.org/showthread.php?tid=2266)
 
@@ -118,7 +118,7 @@ The mod also has some new player and weapon models, although yet untextured.
 
 [![Human playermodel of Overkill #1](http://www.xonotic.org/m/uploads/2011/11/human01-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/human01/)[![Human playermodel of Overkill #2](http://www.xonotic.org/m/uploads/2011/11/human02-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/human02/)[![Human playermodel of Overkill #3](http://www.xonotic.org/m/uploads/2011/11/human03-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/human03/)[![Human playermodel of Overkill #4](http://www.xonotic.org/m/uploads/2011/11/human04-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/human04/)
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=gxc-kREijH4[/youtube]
+{{% youtube "gxc-kREijH4" %}}
 
 tZork and Morphed's mod became very popular, no doubt, and it has a public testing server, that you can visit anytime:[
 [MoN] Overkill. Now with votable game modes. (87.250.159.246:27000)](http://dpmaster.deathmask.net/?game=xonotic&server=87.250.159.246:27000)

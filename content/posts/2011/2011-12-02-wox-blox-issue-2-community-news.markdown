@@ -41,11 +41,11 @@ If you'd like to follow and spectate the matches, don't forget to join [the xono
 
 The challenge attracted many players in November too: **Mirio, Leeloo, Justin, kunio the frogg, sev, Halogene, It'sMe, Sless, Grunt, nowego4, Dissolves, nifrek, **and** Soelen**. Soelen has also recorded a Youtube video that shows his _mad trickjumping skillz_, and how he beat the map with in just 13:37 seconds with the help of some imaginary friends ;) (WARNING! Video is slightly **NSFW**, and features harsh language).
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=g_wqpGsxFos[/youtube]
+{{% youtube "g_wqpGsxFos" %}}
 
 Besides that hilarious video, **the winner in November was **nifrek **with a time of 0:17:42!!**
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=AobeAQM4f8w[/youtube]
+{{% youtube "AobeAQM4f8w" %}}
 
 As usual, Cortez has already announced the challenge for December, this time with multiple maps to complete (map names are also download links if you'd like to check out them and take part in the race):
 
@@ -116,7 +116,7 @@ I don't even know where to start with this section on WoX-BloX, there are just s
 **"My Little Pony"**
 Ponies. With guns. Ponies....** Xonotic PONIES! MirceaKitsune** has created a set of adorable MLP models that you can use in the game.  Let's join the fun, jump around, sing happy songs, dance, fling shotguns or just simply blow eachother to smithereens in My Little Xonotic Pony models!
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=IZYbusZeUXY[/youtube]
+{{% youtube "IZYbusZeUXY" %}}
 
 You can get the latest version (v3 by the time of posting the blog) of the models [here](http://www.filedropper.com/xmdl-ponyv30), but always check the [My little pony... Xonotic pony? thread](http://forums.xonotic.org/showthread.php?tid=2040) on the forum for updates.
 
@@ -154,7 +154,7 @@ If you've ever wondered, where do Strenght items come from, **Leeloo** gives you
 **Strange new DM map "Hyperspace"**
 Do you like warpzones? **ThePWTULN** sure does, and his new map named **Hyperspace** does have a few of them. This stylish deathmatch map aims to have simple, yet stunning TRON-esque visuals, and features interesting non-euclidean map geometry.
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=ORh6NfQRDxg[/youtube]
+{{% youtube "ORh6NfQRDxg" %}}
 
 Hyperspace is still in BETA stage, but feel free to [download](http://ompldr.org/vYjlpbQ) it, and tell ThePWTULN your opinions about the map [on the forum](http://forums.xonotic.org/showthread.php?tid=2336).
 
@@ -206,7 +206,7 @@ The challenge attracted many players in November too: Mirio, Leeloo, Justin, kun
 
 The winner in November was nifrek with 0:17:42 ! GG!
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=AobeAQM4f8w[/youtube]
+{{% youtube "AobeAQM4f8w" %}}
 
 As usual, Cortez has already announced the challenge for December, this time with multiple maps to complete (map names are also download links if you'd like to check out them and take part in the race):
 
@@ -252,7 +252,7 @@ The first thing to mention is... well... it's weird. In a good way. Or not, you 
 Ponies. With guns. Ponies. Xonotic PONIES!
 MirceaKitsune has created a set of adorable MLP models that you can use in the gane.  Let's join the fun, jump around, sing happy songs, dance, fling shotguns or just simply blow eachother to smithereens in My Little Xonotic Pony models!
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=IZYbusZeUXY[/youtube]
+{{% youtube "IZYbusZeUXY" %}}
 
 You can get the latest version (v3 by the time of posting the blog) of the models here, but always check the My little pony... Xonotic pony? thread on the forum for updates.
 
@@ -280,7 +280,7 @@ The Quad Generator by Leeloo #4The Quad Generator by Leeloo #5
 
 Do you like warpzones? ThePWTULN sure does, and his new map named Hyperspace does have a few of them. This stylish  deathmatch map aims to have simple, yet stunning TRON-esque visuals, and features interesting non-euclidean map geometry.
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=ORh6NfQRDxg[/youtube]
+{{% youtube "ORh6NfQRDxg" %}}
 
 Hyperspace is still in BETA stage, but feel free to download it, and tell ThePWTULN your opinions about the map on the forum.
 

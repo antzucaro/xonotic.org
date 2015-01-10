@@ -29,7 +29,7 @@ For more information regarding the weapon re-design, check out it's [official th
 
 **tZork** implemented the quite popular feature among more competitive players known as "Simple Items,” known from Quake3 and QuakeLive for example. But what are "simple items"? The function of simple items is to replace weapon pickup and item models with a simple sprite image that faces the player at all times. A small WIP preview of this feature can be seen in the video below:
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=t-tOt0Q-yMc[/youtube]
+{{% youtube "t-tOt0Q-yMc" %}}
 
 The sprite models that you can see on the video are WIP models made by K__, who made a streamlined set of simple items:
 
@@ -67,7 +67,7 @@ The branch is still heavily experimental and could contain bugs, so until it hit
 
 Further boosting the impressive visual quality of Xonotic, **MirceaKitsune** added cubemap reflections to the playermodels. As the change cannot be well shown with only screenshots, check out the video below to see the new, shiny looks of our playermodels!
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=hxuIKk189dI&hd=1[/youtube]
+{{% youtube "hxuIKk189dI" %}}
 
 The merge request for the cubemap reflections is already done. If you'd like to take a sneak-peak before it reaches master, do a git check out on: 
 [xonotic/xonotic-data.pk3dir.git/mirceakitsune/player_cubemaps](http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=shortlog;h=refs/heads/mirceakitsune/player_cubemaps)
@@ -79,7 +79,7 @@ Again, **MirceaKitsune** coded with help from **divVerent** a mapping feature, t
 
 and dowload the pk3 of the [example map](http://beta.xonotic.org/autobuild-bsp/city_new-york-full-5873b14a2a35a280e41f6005fe0106556bf9a547-07de2bd22bf0cf9cde26891013c6bd6183223b28.pk3):
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=AEfT6LOYm-M&hd=1[/youtube]
+{{% youtube "AEfT6LOYm-M" %}}
 
 ## New maps: 8-bit Arena and Vociferous
 

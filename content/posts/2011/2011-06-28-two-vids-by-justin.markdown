@@ -16,8 +16,8 @@ tags:
 
 Here are two fantastic videos by community member Justin that highlight exactly what one can do with Xonotic's default physics.
 
-[youtube]http://www.youtube.com/watch?v=Dz2k7IT1-Ng[/youtube]
+{{% youtube "Dz2k7IT1-Ng" %}}
 
-[youtube]http://www.youtube.com/watch?v=LAq3VSJtLSs[/youtube]
+{{% youtube "LAq3VSJtLSs" %}}
 
 For more gameplay videos check out Xonotic's [official YouTube channel](http://www.youtube.com/user/xonotic#p/f) or the [gameplay videos thread](http://forums.xonotic.org/showthread.php?tid=1375&page=1) on the forums!

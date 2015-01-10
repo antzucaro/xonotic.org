@@ -14,7 +14,7 @@ tags:
 Ladies and gentlemen,  let me present you a new Xonotic fragmovie by [[0]](http://stats.xonotic.org/player/716)[Trev&Nacho](http://stats.xonotic.org/player/716)!
 The movie is  5:46 long, and features some pretty awesome and mindblowing frags by Trev, who's from the Australian community of Xonotic.
 
-[youtube width="640" height="385"]http://www.youtube.com/watch?v=rGO4sXGzPXo&amp;hd=1[/youtube]
+{{% youtube "rGO4sXGzPXo" %}}
 
 If you'd like to drop him a line or two, head on to our official forum, and [let him know](http://forums.xonotic.org/showthread.php?tid=3918) how awesome he is!
 

@@ -60,7 +60,7 @@ There's quite a lot going on code-wise. This is probably the part that's the mos
 
 Another immediately visible thing in the initial Xonotic release should be the completely new HUD system, developed and initially brainstormed by me and Dib: the "Panel HUD". It takes each HUD element and divides them into rectangular panels, each panel freely movable and resizeable with the mouse cursor, similar to how you manipulate your windows on your computer. Thus you'll be able to create your own HUD layout easily, and with some extra effort and image editing skills, your entirely own skin. The default layout/skin has not been decided on yet, it's up to the community to provide the best!
 
-[youtube]http://www.youtube.com/watch?v=Ac3197XbkkM[/youtube]
+{{% youtube Ac3197XbkkM %}}
 
 {{% polaroid
    "http://pics.nexuizninjaz.com/images/hph3jau64w6eewq9dnl.jpg"

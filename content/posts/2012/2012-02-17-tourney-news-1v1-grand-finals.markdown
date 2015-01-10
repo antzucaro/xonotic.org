@@ -22,17 +22,17 @@ The _semifinals_ were played between **fisume vs PCLizard** and **L0 vs Mirio**,
 
 In the _winner brackets finals_ **PCLizard** won against **Lo** after great fights on 3 separate maps (_Warfare_, _Xoylent_ and _Final Rage_)****. You can watch the matches with commentaries from **kojn** and **Mirio** below:
 
-[youtube width="640" height="385"]9E5ulN8hOLE[/youtube]
+{{% youtube "9E5ulN8hOLE" %}}
 
-[youtube width="640" height="385"]eMx_qTUjkYg[/youtube]
+{{% youtube "eMx_qTUjkYg" %}}
 
-[youtube width="640" height="385"]JPymuc-4JGQ[/youtube]
+{{% youtube "JPymuc-4JGQ" %}}
 
 The _loser brackets_ _finals _were played on the maps _Warfare_ and _Darkzone_ between **fisume** and **L0**, with the winner turning out to be fisume. With that win fisume earned a ticket to the grand finals! GG for both players and congrats to** L0**, who wins 3rd place in the tournament!
 
-[youtube width="640" height="385"]DBoAiEGT_wo[/youtube]
+{{% youtube "DBoAiEGT_wo" %}}
 
-### [youtube width="640" height="385"]gvHLccuhFaU[/youtube]
+{{% youtube "gvHLccuhFaU" %}}
 
 ### Grand finals
 

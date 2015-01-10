@@ -16,7 +16,7 @@ We all knew this day would once come. We've been waiting for years, read numerou
 
 ## kojn has FINALLY released his frag movie!
 
-**[youtube]http://www.youtube.com/watch?v=h6z3rGsoKdQ[/youtube]**
+{{% youtube "h6z3rGsoKdQ" %}}
 
 High quality download links (998MB, XviD avi):
 [affro.net](http://www.affro.net/kojn/deathmatchers_the_movie.avi)

@@ -61,7 +61,7 @@ Pure servers are a new concept in Xonotic, which basically tells you that on thi
 
 The physics and balance have both changed a lot, while still staying true to being a fast paced action game. Movement has been simplified in both the code and in the way it feels, it is now easier to gain speed and to do turns without losing a lot of speed. There is still some benefit to using strafing to gain speed, but this has been lowered to make the game more accessible to new players.
 
-[youtube]http://www.youtube.com/watch?v=5SZgyP-0C0Q[/youtube]
+{{% youtube "5SZgyP-0C0Q" %}}
 
 The entire weapon balance has been rewritten from scratch, and while we still have the old weapons, some of them have been given entirely new functions. Others have been tuned to be more balanced in relation to the other weapons. Some of the weapons have also gotten new models and/or textures, and we also have a brand new weapon: the minelayer. (Screenshots can be found of the minelayer below)
 
