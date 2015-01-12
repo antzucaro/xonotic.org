@@ -91,7 +91,7 @@ body > section > a.button.alert {
 .section-summary > .screenshots {
   margin-top: 3rem;
 }
-.section-weapon, .section-maps, .section-hud {
+.section-weapon, .section-maps, .section-hud, .section-links {
   background: black;
 }
 .section-game-mode {
@@ -102,6 +102,23 @@ body > section > a.button.alert {
 }
 .section-competitive-casual {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) repeat scroll 0% 0%, url('../img/section-bg3.jpg') no-repeat fixed center center / cover #000;
+}
+.section-links ul {
+  list-style: none outside none; 
+  margin:0; 
+  padding: 0; 
+  text-align: center;
+}
+.section-links li {
+  font-size: 5rem;
+  margin: 0 30px; 
+  display: inline;
+}
+.section-links a {
+  color: #B0B0B0;
+}
+.section-links a:hover {
+  color: #6E6E6E;
 }
 
 /* Thumbnails */
