@@ -121,6 +121,11 @@ body > section > a.button.alert {
   color: #6E6E6E;
 }
 
+/* Slogan */
+.slogan {
+  text-shadow: 2px 2px #363636;
+}
+
 /* Thumbnails */
 .th {
   border-color: #0E0E0E;
