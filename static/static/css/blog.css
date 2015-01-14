@@ -178,18 +178,18 @@ body > section > a.button.alert {
 }
 
 /* code snippets */
+pre {
+    background-color: #151515;
+    border: 1px solid #282828;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
 code {
-    background-color: rgb(40, 40, 40);
+    background-color: #151515;
     border: rgb(70, 70, 70);
     color: rgb(195, 195, 195);
-    font-size: 1rem;
-}
-
-#prev {
-    margin-bottom: 1.5rem;
-}
-#next {
-    margin-bottom: 2.5rem;
+    font-size: 0.85rem;
+    padding: 0;
 }
 
 /* Footer */
