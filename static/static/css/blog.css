@@ -11,12 +11,13 @@
 }
 
 /* Foundation Overrides */
-body, h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5 {
   color: rgb(195, 195, 195);
   font-family: "Xolonium", Helvetica, Arial, sans-serif;
 }
 body {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/bg.jpg') no-repeat fixed center center / cover #000;
+  color: rgb(155, 155, 155);
   font-family: 'Georgia', serif;
 }
 p {
@@ -25,6 +26,9 @@ p {
 }
 hr {
   border-color: #1b1b1b;
+}
+ul, ol, dl {
+  font-size: 1.1rem;
 }
 .top-bar {
   height: 50px;
