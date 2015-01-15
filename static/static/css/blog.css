@@ -173,8 +173,7 @@ body > section > a.button.alert {
   color: rgb(125, 125, 125);
 }
 .wp-caption img {
-  background-color: #F3F3F3;
-  border: 1px solid #DDDDDD;
+  border: 1px solid #222222;
   border-radius: 3px 3px 3px 3px;
   max-width: 100%;
   padding: 4px 4px 4px 4px;
