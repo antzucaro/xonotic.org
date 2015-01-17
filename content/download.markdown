@@ -6,7 +6,6 @@ slug: download
 title: Download
 wordpress_id: 839
 type: page
-url: "/download/"
 ---
 
 ### LATEST RELEASE: Xonotic 0.7.0 for Linux, Windows, and Mac
