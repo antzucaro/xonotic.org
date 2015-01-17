@@ -15,6 +15,8 @@ tags:
 
 Community member [Hero](http://forums.xonotic.org/member.php?action=profile&uid=2859), of the Profound Velocity clan, has released a new video detailing exactly how to strafe-jump. Learn to master this technique and you'll be flying around maps before you know it. Enjoy the video, and thank you Hero for making it!
 
+{{% youtube "WeRMWqliCrA" %}}
+
 Join Hero and other members of his clan in the #profoundvelocity channel on Quakenet's IRC network.
 
 Join the discussion on this post [here](http://forums.xonotic.org/showthread.php?tid=3936).

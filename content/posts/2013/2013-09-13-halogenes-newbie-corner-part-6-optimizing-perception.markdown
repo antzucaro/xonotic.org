@@ -139,7 +139,7 @@ crosshair_size 0.28 (adjust to your liking)
 
 [![fine-tuning](http://www.xonotic.org/m/uploads/2013/09/fine-tuning.png)](http://www.xonotic.org/m/uploads/2013/09/fine-tuning.png)
 
-If you have already set up weapon binds following my [previous tutorials](http://www.xonotic.org/tag/newbie/) and are really confident about them, you might even choose to remove the rendered first person weapon model so it doesn't block your view:
+If you have already set up weapon binds following my [previous tutorials](/tags/newbie/) and are really confident about them, you might even choose to remove the rendered first person weapon model so it doesn't block your view:
 
 ```
 r_drawviewmodel 0

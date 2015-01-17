@@ -15,16 +15,20 @@ We're very happy to announce our next official release of Xonotic! **Xonotic ver
 ### Download Here
 
 [Download via torrent](http://dl.xonotic.org/xonotic-0.7.0.zip.torrent)
+
 [Download via HTTP](http://dl.xonotic.org/xonotic-0.7.0.zip)
 
 MD5: eda7e8acadbefaf4b2efcfb70bbe98e2
 Package size: 993M
 
 Other resources:
+
 [Lower quality download via HTTP](http://dl.xonotic.org/xonotic-0.7.0-low.zip) (627M, md5: a16167f0a56303ff00fdfbc79d6e8487)
+
 [Map editor download via HTTP](http://dl.xonotic.org/xonotic-0.7.0-mappingsupport.zip) (166M, md5: 1ee3939f3bd84281d2609cf34397eb01)
 
 You can also download and play Xonotic on Desura:
+
 [![Desura Digital Distribution](http://button.desura.com/play/outline/games/12648.png)](http://www.desura.com/games/xonotic)
 
 While you're downloading the game, check out some of the highlights of this release...
@@ -64,8 +68,6 @@ The in-game message system has been completely re-written for this release. It p
 ### All new compiler
 
 We have migrated to an all new QuakeC compiler, [gmqcc](https://github.com/graphitemaster/gmqcc). The work of graphitemaster and Blub\0, gmqcc generates faster, more optimized program files when compared to its predecessor. It gives game code developers new features and tools that will be of tremendous value to the game in the future.
-
-[View extensive changelog...](http://mirror.bitmissile.com/xonotic/releases/changelog_xonotic07.txt)
 
 ### **In Closing**
 

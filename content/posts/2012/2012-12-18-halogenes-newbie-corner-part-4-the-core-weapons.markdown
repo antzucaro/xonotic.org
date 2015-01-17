@@ -27,7 +27,7 @@ In this blog post I'll explain the functions of the core weapons.
 
 [![](http://www.xonotic.org/m/uploads/2012/12/Laser2.png)](http://www.xonotic.org/2012/12/halogenes-newbie-corner-part-4-the-core-weapons/laser2/)
 
-I already explained the laser as versatile movement tool in [Part 2](http://www.xonotic.org/2012/10/halogenes-newbie-corner-part-2-laser-jumping-and-wall-lasering-2/) of my Newbie Corner. Apart from moving yourself around, you can also use it for juggling around _other_ players, irritating annyoing campers or generally messing with other people's movement. Pushing people around or forcing a prolonged bunny hop can be especially effective on space maps. Unless shooting at sitting ducks (such as campers), you might want to aim at your target's feet to make use of its splash damage, as the laser projectile needs some time to travel even though it is rather fast, thus aiming directly at moving targets can be rather tricky.
+I already explained the laser as versatile movement tool in [Part 2](/posts/2012/halogenes-newbie-corner-part-2-laser-jumping-and-wall-lasering-2/) of my Newbie Corner. Apart from moving yourself around, you can also use it for juggling around _other_ players, irritating annyoing campers or generally messing with other people's movement. Pushing people around or forcing a prolonged bunny hop can be especially effective on space maps. Unless shooting at sitting ducks (such as campers), you might want to aim at your target's feet to make use of its splash damage, as the laser projectile needs some time to travel even though it is rather fast, thus aiming directly at moving targets can be rather tricky.
 
 The laser does not eat any ammo. Secondary fire will switch to the previously used weapon.
 
