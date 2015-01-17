@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+  <div class="small-12 columns">
+    <h2>Tag Listing for "{{ .Title }}" <a href="./index.xml" title="RSS"><i class="fa fa-rss-square"></i></a></h2>
+  </div>
+</div>
+
+{{ range .Data.Pages }}
+<div class="row">
+  <div class="small-9 columns">
+    <h3><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h3>
+    <p class="post-date">Posted by {{ .Params.author }} on {{ .Date.Format "January 2, 2006" }}</p>
+  </div>
+
+  <div class="small-3 columns">
+    {{ range .Params.categories }}
+    <span class="label">{{ . }}</span>
+    {{ end }}
+  </div>
+
+  <hr />
+
+</div>
+{{ end }}
+
+{{ partial "footer.html" . }}
