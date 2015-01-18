@@ -14,7 +14,7 @@ Yo!
 
 For those who browse the forums regularly this is kinda old and late news, but after the success of the [LMS Melee only tournament](http://forums.xonotic.org/showthread.php?tid=1906), the [[BOT] clan](http://www.bot-nexuiz.de.tl/) we all know and love (if you don't, you should ;) ) organised:
 
-[](../?attachment_id=1269)[![](http://www.xonotic.org/m/uploads/2011/10/1v1-1024x819.jpg)](http://www.xonotic.org/2011/10/xonotic-1v1-tournament-by-bot/1v1/)
+[![](http://www.xonotic.org/m/uploads/2011/10/1v1-1024x819.jpg)](http://www.xonotic.org/2011/10/xonotic-1v1-tournament-by-bot/1v1/)
 
 ### Xonotic Duel Tourney
 
