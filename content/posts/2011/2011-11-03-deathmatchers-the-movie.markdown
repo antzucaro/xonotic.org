@@ -19,10 +19,11 @@ We all knew this day would once come. We've been waiting for years, read numerou
 {{% youtube "h6z3rGsoKdQ" %}}
 
 High quality download links (998MB, XviD avi):
-[affro.net](http://www.affro.net/kojn/deathmatchers_the_movie.avi)
-[nl.dl.xonotic.org](http://nl.dl.xonotic.org/deathmatchers_the_movie.avi)
-[nexfiles.com](http://nexfiles.com/video/deathmatchers_the_movie.avi)
-[praeclan.com](http://www.praeclan.com/video/deathmatchers_the_movie.avi)
+
+  * [affro.net](http://www.affro.net/kojn/deathmatchers_the_movie.avi)
+  * [nl.dl.xonotic.org](http://nl.dl.xonotic.org/deathmatchers_the_movie.avi)
+  * [nexfiles.com](http://nexfiles.com/video/deathmatchers_the_movie.avi)
+  * [praeclan.com](http://www.praeclan.com/video/deathmatchers_the_movie.avi)
 
 "Deathmatches - The Movie" is 10:54 long, and features some awesome teamwork footages of the Deathmatchers clan (DMs||) vs a pickup team and [BOT]. Every clip is either vs [BOT] in clan games in 3v3/5v5 CTF, pickup games, duel, tdm, or versus experienced Xonotic players.
 

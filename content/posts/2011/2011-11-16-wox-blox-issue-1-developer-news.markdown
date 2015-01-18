@@ -13,9 +13,9 @@ categories:
 [
 ](http://www.xonotic.org/?attachment_id=1350)Hello folks!
 
-So, as we've promised, here's the first real issue of WoX-BloX! For those who've missed the [good news](http://www.xonotic.org/2011/10/good-news-everyone/), WoX-BloX translates to "World of Xonotic - Blogs": an insider developer blog for the masses, so you don't have to mess with reading cryptic [ git commit logs](http://git.xonotic.org/), go treasure hunting in the depths of our [forums](http://forums.xonotic.org), or lurk for hours on the  [developers' IRC channel](irc://irc.freenode.net/xonotic) for information morsels to feed your hunger for Xonotic WIP news (however, you're welcomed to do so, if you want :D ).
+So, as we've promised, here's the first real issue of WoX-BloX! For those who've missed the [good news](/posts/2011/good-news-everyone/), WoX-BloX translates to "World of Xonotic - Blogs": an insider developer blog for the masses, so you don't have to mess with reading cryptic [git commit logs](http://git.xonotic.org/), go treasure hunting in the depths of our [forums](http://forums.xonotic.org), or lurk for hours on the  [developers' IRC channel](irc://irc.freenode.net/xonotic) for information morsels to feed your hunger for Xonotic WIP news (however, you're welcomed to do so, if you want :D ).
 
-[![What's cookin', Doc?](http://www.xonotic.org/m/uploads/2011/11/woxbloxpress-500x375.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/woxbloxpress-2/)
+![What's cookin', Doc?](http://www.xonotic.org/m/uploads/2011/11/woxbloxpress-500x375.jpg)
 
 ## Development news
 
@@ -94,7 +94,9 @@ A new **MinstaNex-gun** model is in WIP for a very long time now, but it seems i
 
 [![New MinstaNex - Concept art](http://www.xonotic.org/m/uploads/2011/11/minstanexb-500x281.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/minstanexb/)
 
-[](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/minstanex07b/)[![](http://www.xonotic.org/m/uploads/2011/11/minstanex08-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/minstanex08/)[![Minstanex first person view](http://www.xonotic.org/m/uploads/2011/11/minstanex08b-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/minstanex08b/)
+[![](http://www.xonotic.org/m/uploads/2011/11/minstanex08-200x200.jpg)](http://www.xonotic.org/m/uploads/2011/11/minstanex08.jpg)
+
+[![Minstanex first person view](http://www.xonotic.org/m/uploads/2011/11/minstanex08b-200x200.jpg)](http://www.xonotic.org/m/uploads/2011/11/minstanex08b.jpg)
 
 ### New game mod and a mutator WIP: Sandbox and Overkill
 

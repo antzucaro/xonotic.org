@@ -19,18 +19,19 @@ Welcome back reading WoX-BloX! For those who are still not familiar what this is
 As you could read in [a previous blog post](http://www.xonotic.org/2011/11/global-gamers-turns-5-celebrates-with-xonotic/), 11/11/11, Global Gamers officially turned 5 years old! Global Gamers is an IRC network formed on a simple concept: gaming should be fun! To promote that fun they host multiple game servers for classics like Quake2 as well as cutting-edge hits like BF3, and of course, Xonotic! On 12th November as a part of their celebrational events they held a four-match Xonotic free-for-all contest. The matches for the contest were a blast, with participants from AU, US and EU too!
 The first three winners were:
 
-**#1 fisume^ (459 points)
-#2 ChaLK (420 points)
-#3 CrancK (347 points)
-**
+1. fisume^ (459 points)
+2. ChaLK (420 points)
+3. CrancK (347 points)
+
 Congratulations to the winners, and GG for all the other **25 players** who celebrated with Global Gamers! You can find **demos from fisume^'s point of view** [here](http://uploaded.to/file/bsrar33g), and a complete list with endgame screenshots of all participants with their scores [here](http://www.globalgamers.net/gg-xonotic-scores.zip). Also, Jehar from [TastySpleenTV](http://tastyspleen.tv/) has made a very nice screencast commentary lasting more than two hours!
 
 [Jehar's screencast Part1 @ own3D.tv](http://www.own3d.tv/TastyspleenTV#/watch/278491)
+
 [Jehar's screencast Part2 @ own3D.tv](http://www.own3d.tv/TastyspleenTV#/watch/278560)
 
 ### 1on1 Tourney by [BOT]
 
-[As we've reported a few weeks ago](http://www.xonotic.org/2011/10/xonotic-1v1-tournament-by-bot/), [BOT] is organising a 1on1 tournament. The [groups stage](http://xonduel.tourney.cc/groups/) is already over, the tournament participants are now battling in [brackets](http://xonduel.tourney.cc/brackets/) in double elimination system. Unfortunately, a few contestants have dropped out in the groups stage: **Debugger, itsme, Halogene, ai, mepper, C.Brutail, aNictS, Lord Canistra, Calinou, Samual, qbit, naryl and Vargos**. **s0rk** and **FruitieX** were eliminated in the first rounds of the brackets stage. GG for them, and thanks for participating!
+[As we've reported a few weeks ago](/posts/2011/xonotic-1v1-tournament-by-bot/), [BOT] is organising a 1on1 tournament. The [groups stage](http://xonduel.tourney.cc/groups/) is already over, the tournament participants are now battling in [brackets](http://xonduel.tourney.cc/brackets/) in double elimination system. Unfortunately, a few contestants have dropped out in the groups stage: **Debugger, itsme, Halogene, ai, mepper, C.Brutail, aNictS, Lord Canistra, Calinou, Samual, qbit, naryl and Vargos**. **s0rk** and **FruitieX** were eliminated in the first rounds of the brackets stage. GG for them, and thanks for participating!
 If you'd like to follow and spectate the matches, don't forget to join [the xonotic pickup channel](irc://irc.quakenet.org/xonotic.pickup) on IRC (#xonotic.pickup @ irc.quakenet.org), the usual meeting and gathering point of the contestants, so you might be able to catch the starting of the matches!
 
 ### The Race Challenge
@@ -43,7 +44,7 @@ The challenge attracted many players in November too: **Mirio, Leeloo, Justin, k
 
 {{% youtube "g_wqpGsxFos" %}}
 
-Besides that hilarious video, **the winner in November was **nifrek **with a time of 0:17:42!!**
+Besides that hilarious video, **the winner in November was nifrek with a time of 0:17:42!!**
 
 {{% youtube "AobeAQM4f8w" %}}
 
@@ -51,28 +52,15 @@ As usual, Cortez has already announced the challenge for December, this time wit
 
 	
   1. stormkeeprace - one of the official race maps included in Xonotic 0.5.
-
-	
   2. [warfarerace](http://ompldr.org/vYmo2Yw/warfare_race.pk3) - **Pinkrobot** made this adaptation back in 2008 and now it's updated it for Xonotic!
-
-	
   3. [Slalom](http://ompldr.org/vYmo2ZA/slalom.pk3) - by **FruitieX.**
-
-	
   4. [Streetrace](http://ompldr.org/vYmo2ZQ/streetrace.pk3) - by **Pinkrobot**, which is also retextured for the race challenge.
-
-	
   5. [darkzonerace](http://ompldr.org/vYmo2Zw/darkzonerace.pk3) - Cortez applied the old sheme from **divVerent** and **FruitieX** to his darkzone remake.
 
 **Rules:**
-
 	
   * 0.5 physics only! 
-
-	
   * The fastest player has to make a demo or video to show off how he done it (so everyone gets a clue how to play that map)!
-
-	
   * Deadline: 1st January.
 
 Don't forget to post your times at the [official Xonotic forum](http://forums.xonotic.org/showthread.php?tid=2384)!
@@ -85,20 +73,11 @@ Xonotic has a very fun, though unfortunately underplayed game mode, called **Nex
 However, with currently two maps in the official mappool (and one of them is pretty much broken actually) and one in the works, there's a real need for some more ball fields to play on. To invite mappers to produce new nexball maps for a _possible tournament in the future_, **Cortez** announced a **Nexball mapping contest! **The prize for the winner will be that his map will be played exclusively in the final, while other submissions will most likely end up as normal maps in the tourney.
 The team of judges will consist of **Antibody**, **MirceaKitsune** and **merlijn**.
 The rules are quiet simple:
-
 	
   * It has to be a nexball map
-
-	
   * Has to be optimized for a 2on2
-
-	
   * Maps with more then 1 ball are ok, but the limit is 50 balls per map. Otherwise the map won't be accepted.
-
-	
   * The theme of the map is up to you.
-
-	
   * Be creative!
 
 Deadline: 2nd January 2012  23:59 GMT +1
@@ -114,7 +93,7 @@ If you have any questions regarding Nexball mapping, feel free to ask on [the co
 I don't even know where to start with this section on WoX-BloX, there are just so much awesome creative minds in our beloved community, kudos where it's due, realy, you guys are just amazing! The first thing to mention is... well... it's weird. In a good way. Or not, you decide, I'm not into this meme at all.
 
 **"My Little Pony"**
-Ponies. With guns. Ponies....** Xonotic PONIES! MirceaKitsune** has created a set of adorable MLP models that you can use in the game.  Let's join the fun, jump around, sing happy songs, dance, fling shotguns or just simply blow eachother to smithereens in My Little Xonotic Pony models!
+Ponies. With guns. Ponies....**Xonotic PONIES!** MirceaKitsune has created a set of adorable MLP models that you can use in the game.  Let's join the fun, jump around, sing happy songs, dance, fling shotguns or just simply blow eachother to smithereens in My Little Xonotic Pony models!
 
 {{% youtube "IZYbusZeUXY" %}}
 
@@ -171,125 +150,5 @@ Prepare your eardrums folks, 'cause **bitbomb** is here with some announcer and 
 I have to thank everybody who contributed to the project by any means from the community, let it be a simple texture, a line of code, maps, models, sounds, artwork, some funny comments or feedback on the forum etc. You're great folks, it's a pleasure to play with you and develop Xonotic for good guys like ya all! Finally, feel free to listen to core team developers **Samual** and **divVerent**'s new songs on piano linked below
 
 [Intrepid Dream.mp3 by Samual - 5mb - 2 minutes 56 seconds](http://samual.nexuizninjaz.com/sounds/Intrepid%20Dream.mp3)
+
 [divVerent's Sonata No.3 played by Halogene on Soundcloud](http://soundcloud.com/halogene/divverents-sonata-no-3)
-
-Heyya folks!
-
-Welcome back reading WoX-BloX! For those who are still not familiar what this is all about, let me introduce the World of Xonotic Blogs, where you can get the latest news about Xonotic, let it be either about development, tournaments, or other cool Xonotic related happenings. In this issue the we'll cover up some of the most important buzz happening in our beloved community.
-Global Gamers 5 years anniversary
-
-As you could read in a previous blog post, 11/11/11, Global Gamers officially turned 5 years old! Global Gamers is an IRC network formed on a simple concept: gaming should be fun! To promote that fun they host multiple game servers for classics like Quake2 as well as cutting-edge hits like BF3, and of course, Xonotic! On 12th November as a part of their celebrational events they held a four-match Xonotic free-for-all contest. The matches for the contest were a blast, with participants from AU, US and EU too!
-The first three winners were:
-
-#1 fisume^ (459 points)
-#2 ChaLK (420 points)
-#3 CrancK (347 points)
-
-Congratulations to the winners, and GG for all the other 25 players who celebrated with Global Gamers! You can find demos from fisume^'s point of view here, and a complete list with endgame screenshots of all participants with their scores here.
-Also, Jehar from TastySpleenTV has made a very nice screencast commentary lasting more than two hours!
-
-Jehar's screencast Part1 @ own3D.tv
-Jehar's screencast Part2 @ own3D.tv
-Community contests:
-1on1 Tourney by [BOT]
-
-As we've reported a few weeks ago, [BOT] is organising a 1on1 tournament. The groups stage is already over, the tournament participants are now battling in brackets in double elimination system. Unfortunately, a few contestants have dropped out in the groups stage: Debugger, itsme, Halogene, ai, mepper, C.Brutail, aNictS, Lord Canistra, Calinou, Samual, qbit, naryl and Vargos.
-s0rk and FruitieX were eliminated in the first rounds of the brackets stage. GG for them, and thanks for participating!
-If you'd like to follow and spectate the matches, don't forget to join the xonotic pickup channel on IRC (#xonotic.pickup @ irc.quakenet.org), the usual meeting and gathering point of the contestants, so you might be able to catch the starting of the matches!
-The Race Challenge
-
-The Race Challenge is a very unique monthly community contest organised by Cortez. As the name suggests, the participants has to try to beat eachother and the clock in "race" game mode: they have to run through checkpoints on maps as fast as possible. The first challenge was held in February, and since that, Cortez has announced it every month, providing a great deal of entertainment for the players. November's announced challenge was Speedy-Lane by FruitieX and Cortez.
-
-Speedy-Lane by FruitieX and Cortez
-
-The challenge attracted many players in November too: Mirio, Leeloo, Justin, kunio the frogg, sev, Halogene, It'sMe, Sless, Grunt, nowego4, Dissolves, nifrek, and Soelen. Soelen has also recorded a Youtube video that shows his mad trickjumping skillz, and how he beat the map with in just 13:37 seconds with the help of some imaginary friends ;) (WARNING! Video is slightly NSFW, and features harsh language).
-
-The winner in November was nifrek with 0:17:42 ! GG!
-
-{{% youtube "AobeAQM4f8w" %}}
-
-As usual, Cortez has already announced the challenge for December, this time with multiple maps to complete (map names are also download links if you'd like to check out them and take part in the race):
-
-stormkeeprace - one of the official race maps included in Xonotic 0.5.
-warfarerace - Pinkrobot made this adaption back in 2008 and now it's updated it for Xonotic!
-Slalom - by FruitieX.
-Streetrace - by Pinkrobot, which is also retextured for the race challenge.
-darkzonerace - Cortez applied the old sheme from divVerent and FruitieX to his darkzone remake.
-
-Rules:
-
-0.5 physics only!
-The fastest player has to make a demo or video to show off how he done it (so everyone gets a clue how to play that map)!
-Deadline: 1st January.
-
-Don't forget to post your times at the official Xonotic forum!
-
-StormkeepraceWarfareraceSlalomStreetraceDarkzonerace
-Nexball mapping contest
-
-Xonotic has a very fun, though unfortunately underplayed gamemode, called Nexball, originally developed for Nexuiz by Revenant, later recoded by MrBougo. The goal of the game mode is simple: you have to score points for your team in a soccer or basketball/handball style ballgame.
-However, with currently two maps in the official mappool (and one of them is pretty much broken actually) and one in the works, there's a real need for some more ball fields to play on. To invite mappers to produce new nexball maps for a possible tournament in the future, Cortez announced a Nexball mapping contest! The prize for the winner will be that his map will be played exclusively in the final, while other submissions will most likely end up as normal maps in the tourney.
-The team of judges will consist of Antibody, MirceaKitsune and merlijn.
-The rules are quiet simple:
-
-It has to be a nexball map
-Has to be optimized for a 2on2
-Maps with more then 1 ball are ok, but the limit is 50 balls per map. Otherwise the map won't be accepted.
-The theme of the map is up to you.
-Be creative!
-
-Deadline: 2nd January 2012 23:59 GMT +1
-
-There are already some submission, but keep up those maps coming folks, this tourney will be a great fun! To get you inspired, here are some screenshots, that were submitted by  Morphed, nowego4 and forseti:
-
-Morphed's Mayaballnowego4's SWAT-SDforseti's submission
-
-If you have any questions regarding Nexball mapping, feel free to ask on the contest's thread on the forum, or join #xonotic.editing @ irc.quakenet.org on IRC.
-Creative community: models, maps, audio
-
-I don't even know where to start with this section on WoX-BloX, there are just so much awesome creative minds in our beloved community, kudos where it's due, realy, you guys are just amazing!
-The first thing to mention is... well... it's weird. In a good way. Or not, you decide, I'm not into this meme at all.
-Ponies. With guns. Ponies. Xonotic PONIES!
-MirceaKitsune has created a set of adorable MLP models that you can use in the gane.  Let's join the fun, jump around, sing happy songs, dance, fling shotguns or just simply blow eachother to smithereens in My Little Xonotic Pony models!
-
-{{% youtube "IZYbusZeUXY" %}}
-
-You can get the latest version (v3 by the time of posting the blog) of the models here, but always check the My little pony... Xonotic pony? thread on the forum for updates.
-
-Though they're still early WIP, I shall advise you all to keep a close eye on anark10n's WIP weapon models. Early screenshots, but to be honest, I'd realy like to se some of these badass tools of destruction sometime ingame too! Keep up the good work!
-
-"Energy gun" by anark10n"Energy gun" by anark10n"Energy gun" by anark10n
-
-"Shotgun 2" by anark10n"Shotgun 2" by anark10n"Shotgun 2" by anark10n
-
-You can see even more of anark10n's work in his post of the Screenshots of what you're doing thread on the forum.
-
-On mapping grounds Cortez is at it again (from where the hell does this guy get all this energy and free time anyway? :D ), with a retexturing project of a well known, good old Nexuiz map Bleach with the exomorph texture set.
-
-Bleach retextured by Cortez #1Bleach retextured by Cortez #2Bleach retextured by Cortez #3Bleach retextured by Cortez #4
-
-It seems when Justin is not zooming back and forth with bunny hops on race maps, he likes to try out his skills in brush building also, and I have to say, he has some talent there too!
-
-Justin's WIP map #1Justin's WIP map #2
-
-If you've ever wondered, where do Strenght items come from, Leeloo gives you the answer: they are of course produced in the Quad Generator facility! I realy dig the visuals and the overall feel of this map, very great job, you should download it and give it a try! The map is still WIP, but it's in a very playable condition. If you've found a bug, or you have some suggestions for Leeloo how he can even further improve the map, don't be shy to post about it in the map's thread on the forum!
-
-The Quad Generator by Leeloo #1The Quad Generator by Leeloo #2The Quad Generator by Leeloo #3
-
-The Quad Generator by Leeloo #4The Quad Generator by Leeloo #5
-
-Do you like warpzones? ThePWTULN sure does, and his new map named Hyperspace does have a few of them. This stylish  deathmatch map aims to have simple, yet stunning TRON-esque visuals, and features interesting non-euclidean map geometry.
-
-{{% youtube "ORh6NfQRDxg" %}}
-
-Hyperspace is still in BETA stage, but feel free to download it, and tell ThePWTULN your opinions about the map on the forum.
-
-Last, but not least, Nodenum has created a very interesting experimental map called Geodasic. The speciality of the map is that as it's creator tells it was fully generated with experimental C++ code entirely. The map is a single big geodesic sphere filled with jump pads and some weapons. Seems like Sierpinski finally got it's successor... ;) You can download the map here, and if you liked it, or you have to comment to add, shout it out at Geodasic's forum thread.
-
-Geodasic by Nodenum #1Geodasic by Nodenum #2
-
-Prepare your eardrums folks, 'cause bitbomb is here with some announcer and character voices! Stepping out of nowhere, bitbomb's first forum post ever was offering his help and showing his great work of proposed character taunts and some realy booming annoucer voices - now that's what I call giving a good first impression of yourself :D You can listen to his work of announcer sounds and character taunts on the forum, and while at it, please give him some feedback too ;).
-
-In closing lines, I have to thank everybody who contributed to the project by any means from the community, let it be a simple texture, a line of code, maps, models, sounds, artwork, some funny comments or feedback on the forum etc. You're great folks, it's a pleasure to play with you and develop Xonotic for good guys like ya all!
-In the end, feel free to listen to second-in-hand coder's Samual piano play, who has been practicing on this mighty fine musical instrument for a very long time (roughly 20 years).
-
