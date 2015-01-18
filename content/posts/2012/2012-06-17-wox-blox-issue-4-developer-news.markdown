@@ -27,14 +27,11 @@ For more information regarding the weapon re-design, check out it's [official th
 
 ## **Simple Items**
 
-**tZork** implemented the quite popular feature among more competitive players known as "Simple Items,” known from Quake3 and QuakeLive for example. But what are "simple items"? The function of simple items is to replace weapon pickup and item models with a simple sprite image that faces the player at all times. A small WIP preview of this feature can be seen in the video below:
+**tZork** implemented the quite popular feature among more competitive players known as "Simple Items,” known from Quake3 and QuakeLive for example. But what are "simple items"? The function of simple items is to replace weapon pickup and item models with a simple sprite image that faces the player at all times. 
 
-{{% youtube "t-tOt0Q-yMc" %}}
+The sprite models are made by K__, who made a streamlined set of simple items:
 
-The sprite models that you can see on the video are WIP models made by K__, who made a streamlined set of simple items:
-
-[
-![](http://www.xonotic.org/m/uploads/2012/06/simple_items-500x375.jpg)](http://www.xonotic.org/m/uploads/2012/06/simple_items.jpg)
+[![](http://www.xonotic.org/m/uploads/2012/06/simple_items-500x375.jpg)](http://www.xonotic.org/m/uploads/2012/06/simple_items.jpg)
 
 To learn more, take a visit to the [Simple items](http://forums.xonotic.org/showthread.php?tid=2766&page=5) thread on our forums.
 
@@ -44,10 +41,11 @@ To learn more, take a visit to the [Simple items](http://forums.xonotic.org/show
 The first graph shows a player's average accuracy for a given weapon along with the accuracy for that weapon for up to the past 20 games. The graph replaces what was once a big table of numbers containing the accuracy and damage details. One thing to note is that a weapon won't show up under the graph until the tracked player has used it five or more times in the past 90 days. 
 The second graph shows the effective damage a player dealt per splash damage weapon (Rocket Launcher, Mortar, Electro, etc.). Missed shots (eg. spam) don't count, so with this new graph you can really keep track of how well you're on target.
 
-[
-![Click on the graph for more images!](http://www.xonotic.org/m/uploads/2012/06/0505_accuracy_after-500x187.jpg)](http://www.xonotic.org/m/uploads/2012/06/0505_accuracy_after.jpg)
-[](http://www.xonotic.org/m/uploads/2012/06/20120616_xonstat_dmg_graph.jpg)
-[](http://www.xonotic.org/m/uploads/2012/06/20120618_ranks.jpg)
+[![Click on the graph for more images!](http://www.xonotic.org/m/uploads/2012/06/0505_accuracy_after-500x187.jpg)](http://www.xonotic.org/m/uploads/2012/06/0505_accuracy_after.jpg)
+
+![](http://www.xonotic.org/m/uploads/2012/06/20120616_xonstat_dmg_graph.jpg)
+
+![](http://www.xonotic.org/m/uploads/2012/06/20120618_ranks.jpg)
 
 Note: if you happen to loose your player key file (key_0.d0si), and you'd like merge the new one with the old, simply write an email or pm to either [Antibody](http://forums.xonotic.org/member.php?action=profile&uid=530) or [Mirio](http://forums.xonotic.org/member.php?action=profile&uid=213) on the Xonotic forums. They can consolidate your player data so all stats information is stored under one account.
 
@@ -55,10 +53,11 @@ Note: if you happen to loose your player key file (key_0.d0si), and you'd like m
 
 Thanks to **terencehill** the HUD has a new **important items timer panel** that can only be enabled and seen in spectator mode. The new panel, as its name suggests, prints out the the time remaining in seconds for spawn of the most important items like the Mega Health, Mega Armor, Strenght etc. As usual, the panel has lots of configuration options, so one can fine tune its layout and information printout for personal taste.
 
-[
-![](http://www.xonotic.org/m/uploads/2012/06/xonotic20120615234247-00-500x400.jpg)](http://www.xonotic.org/m/uploads/2012/06/xonotic20120615234247-00.jpg)
-[](http://www.xonotic.org/m/uploads/2012/06/xonotic20120615230334-00.jpg)
-[](http://www.xonotic.org/m/uploads/2012/06/xonotic20120615230325-00.jpg)
+[![](http://www.xonotic.org/m/uploads/2012/06/xonotic20120615234247-00-500x400.jpg)](http://www.xonotic.org/m/uploads/2012/06/xonotic20120615234247-00.jpg)
+
+![](http://www.xonotic.org/m/uploads/2012/06/xonotic20120615230334-00.jpg)
+
+![](http://www.xonotic.org/m/uploads/2012/06/xonotic20120615230325-00.jpg)
 
 The branch is still heavily experimental and could contain bugs, so until it hits master, you can try it out by checking out the branch: 
 [xonotic/xonotic-data.pk3dir.git/terencehill/itemstime](http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=shortlog;h=refs/heads/terencehill/itemstime;js=1)
@@ -67,7 +66,7 @@ The branch is still heavily experimental and could contain bugs, so until it hit
 
 Further boosting the impressive visual quality of Xonotic, **MirceaKitsune** added cubemap reflections to the playermodels. As the change cannot be well shown with only screenshots, check out the video below to see the new, shiny looks of our playermodels!
 
-{{% youtube "hxuIKk189dI" %}}
+<object style="visibility: visible;" id="vvq-2525-youtube-2" data="http://www.youtube.com/v/hxuIKk189dI&amp;#038;rel=0&amp;#038;fs=1&amp;#038;showsearch=0&amp;#038;showinfo=0" type="application/x-shockwave-flash" height="385" width="640"><param value="opaque" name="wmode"><param value="true" name="allowfullscreen"><param value="always" name="allowscriptaccess"></object>
 
 The merge request for the cubemap reflections is already done. If you'd like to take a sneak-peak before it reaches master, do a git check out on: 
 [xonotic/xonotic-data.pk3dir.git/mirceakitsune/player_cubemaps](http://git.xonotic.org/?p=xonotic/xonotic-data.pk3dir.git;a=shortlog;h=refs/heads/mirceakitsune/player_cubemaps)
@@ -79,26 +78,26 @@ Again, **MirceaKitsune** coded with help from **divVerent** a mapping feature, t
 
 and dowload the pk3 of the [example map](http://beta.xonotic.org/autobuild-bsp/city_new-york-full-5873b14a2a35a280e41f6005fe0106556bf9a547-07de2bd22bf0cf9cde26891013c6bd6183223b28.pk3):
 
-{{% youtube "AEfT6LOYm-M" %}}
+<object style="visibility: visible;" id="vvq-2525-youtube-3" data="http://www.youtube.com/v/AEfT6LOYm-M&amp;#038;rel=0&amp;#038;fs=1&amp;#038;showsearch=0&amp;#038;showinfo=0" type="application/x-shockwave-flash" height="385" width="640"><param value="opaque" name="wmode"><param value="true" name="allowfullscreen"><param value="always" name="allowscriptaccess"></object>
 
 ## New maps: 8-bit Arena and Vociferous
 
-In the [first issue of WoX-BloX](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/), we gave word about **8-bit Arena**,  which is a map built in a very unique 8-bit style with retro gaming references, and homages made to a classic and beautiful era of computer history. It was originally planned to support CTF and Nexball too, but it turned out that the glowy floor-tiles on a larger map would put too much pressure on a server, so those game modes were dropped. Apart from its unique style, the map might be interesting on the technical side for mappers too, as it showcases some mapping tricks never seen in any Xonotic maps before:
+In the [first issue of WoX-BloX](/posts//2011/wox-blox-issue-1-developer-news/), we gave word about **8-bit Arena**,  which is a map built in a very unique 8-bit style with retro gaming references, and homages made to a classic and beautiful era of computer history. It was originally planned to support CTF and Nexball too, but it turned out that the glowy floor-tiles on a larger map would put too much pressure on a server, so those game modes were dropped. Apart from its unique style, the map might be interesting on the technical side for mappers too, as it showcases some mapping tricks never seen in any Xonotic maps before:
 
   * Bobbing elements that are not func_bobbing entities, so they do not network any data from the server to the clients
-
   * Warpzones that don't network data, so while they provide seamless transportation, cannot be seen through
-
   * Floor tiles, that glow when a player steps on them
 
 [![](http://www.xonotic.org/m/uploads/2012/06/8bit_arena1-500x400.jpg)](http://www.xonotic.org/m/uploads/2012/06/8bit_arena1.jpg)
-[](http://www.xonotic.org/m/uploads/2012/06/8bit_arena2.jpg)
-[](http://www.xonotic.org/m/uploads/2012/06/8bit_arena3.jpg)
-[](http://www.xonotic.org/m/uploads/2012/06/8bit_arena4.jpg)
+
+![](http://www.xonotic.org/m/uploads/2012/06/8bit_arena2.jpg)
+
+![](http://www.xonotic.org/m/uploads/2012/06/8bit_arena3.jpg)
+
+![](http://www.xonotic.org/m/uploads/2012/06/8bit_arena4.jpg)
 
 After **C.Brutail** [proposed a new, more collaborative mapping procedure for official Xonotic maps](http://forums.xonotic.org/showthread.php?tid=2875), he started the very first [map incubator thread for Vociferous](http://forums.xonotic.org/showthread.php?tid=3061), which is the WIP title for a new, competitive oriented TDM map. The map is still very early in planning and designing stages, but ideas are already pouring from the more experienced players, so there's big hope that the map will feature a good flow and a well planned tactical layout that is necessary for a competitive map.
 
 ## Ending words
 
 Phew, that was massive! I hope we could get you all up to date with this developer blog, and excited about the new features, that Xonotic 0.7 will bring to you! I'm most certain that the upcoming months will be very exciting regarding development, especially because of the new weapon design. Many thanks to **fisume**, who helped me in writing this blog! The next issue of WoX-BloX will be about community news. Stay tuned, and happy fragging!
-
