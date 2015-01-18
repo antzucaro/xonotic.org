@@ -28,17 +28,16 @@ Team games are a different animal, however. With team games we see win-switchers
 
 Wait, did you say score? Yes, I said score. In order to make individual comparisons work, I had to use the individual's score as a means of comparison in lieu of just win or loss (1 or 0 for the S value). Each player's score is first converted into score per second, which takes his or her alivetime in the game into account. The scores for two players A and B are then compared with the following formula to obtain the scorefactor, S:
 
-![](http://media.antzucaro.com/uploads/2012/08/scorefactor.png)
+![](http://antzucaro.com/uploads/2012/08/scorefactor.png)
 
 This formula yields a value between 0 and 1, which tells us the “winner” in the comparison. A value less than 0.5 means player A won, a value greater than 0.5 mean player B won, and a value of exactly 0.5 represents a draw. Note that the sum total of A and B's scorefactor here is 1, so B's scorefactor is simply 1-Sa. 
 
 The resulting S value is plugged into the original formula I covered in my initial post, which is then used to calculate the final points gained or lost. For the sake of completeness, I'll relist it here:
 
-![](http://media.antzucaro.com/uploads/2012/08/elodelta.png)
+![](http://antzucaro.com/uploads/2012/08/elodelta.png)
 
 The big change here is that S can now take on a range of values between 0 and 1. It's that range that allows players to get an accurate points value for their contribution to the game, no matter the team they're on. It's a big improvement over the black and white algorithm that we had before. 
 
 ### In Conclusion
 
 So what we have now for non-duel games is something that scales the points gained or lost according to how well you score versus everyone else in the game. For duel games, the initial algorithm remains in place. The end result is a ranking system that I think everyone can find fair, albeit imperfect. That being said, I suggest that you take all of the ranks and scores with a grain of salt: there is no number that is a true indicator of what you bring to the table as a player. Get in the game and focus on what is truly important: having fun! Happy fragging, and I'll see you out there!
-

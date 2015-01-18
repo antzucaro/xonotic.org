@@ -18,5 +18,7 @@ tags:
 {{% youtube "w85Wrf9vxBU" %}}
 
 You can download the teaser from one the following links:
+
 Mirror #1: [Hetzner Online (Germany)](http://88.198.17.137/_files/Teaser%20for%20Killing%20X-Zone%20-%20Xonotic%20Community%20movie.mp4)
+
 Mirror #2: [Maverickservers (California)](http://download.maverickservers.com/Teaser%20for%20Killing%20X-Zone%20-%20Xonotic%20Community%20movie.mp4)

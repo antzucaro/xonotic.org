@@ -29,7 +29,7 @@ The Elo system is based on wins and losses versus your opponents. You gain point
 
 Let’s cut right to the chase and talk about how XonStat determines the points increase or decrease for each match. Unfortunately for this part we’ll have to look at the gory mathematical details. We’ll use a theoretical match between players A and B, and we’ll look specifically at the points increase/decrease for player A (forgive me for the bad screen caps):
 
-![](http://media.antzucaro.com/uploads/2012/07/elo/elo.png)
+![](http://antzucaro.com/uploads/2012/07/elo/elo.png)
 
 In the notation above E is the expected outcome, S is the actual outcome (1 for a win, 0 for a loss), and K is the experience adjustment factor. We’ll talk more about K in a minute, but for now just think of it as a constant.
 
@@ -43,33 +43,25 @@ In XonStat we also use the K value to account for players who have not played an
 
 ### A Real Example
 
-Enough with this A and B business. Let’s do an example with real values! Imagine I (Elo 350) play Mirio (Elo 450) in a duel and Mirio wins. Assuming both of us are experienced players with over 32 games played, we’ll each have a K value of 20. Since Mirio won, his S value is 1 while mine is 0.
+Enough with this A and B business. Let’s do an example with real values! Imagine I (Elo 350) play Mirio (Elo 450) in a duel and Mirio wins. Assuming both of us are experienced players with over 32 games played, we’ll each have a K value of 40. Since Mirio won, his S value is 1 while mine is 0.
 
 Mirio’s points value from his win will be:
-
     
-    <code>40*(1- 13.33/(13.33+7.50)) = 14.40
-    </code>
+    40*(1- 13.33/(13.33+7.50)) = 14.40
 
 My points from the loss will be:
-
     
-    <code>40*(0- 7.50/(7.50+13.33)) = -14.40
-    </code>
+    40*(0- 7.50/(7.50+13.33)) = -14.40
 
 Now let’s turn the tables and see the points values for if I win the match! This time Mirio’s S value will be 0 and mine will be 1.
 
 Mirio’s points from his loss will be:
-
     
-    <code>40*(0- 13.33/(13.33+7.50)) = -25.60
-    </code>
+    40*(0- 13.33/(13.33+7.50)) = -25.60
 
 My points from the win will be:
-
     
-    <code>40*(1- 7.50/(7.50+13.33)) = 25.60
-    </code>
+    40*(1- 7.50/(7.50+13.33)) = 25.60
 
 Take note of the points differences when the winners are transposed. If I won the match, I was rewarded with more points because I was expected to lose. Hooray to the underdog!
 
@@ -84,4 +76,3 @@ As you may have guessed by now, we use the aggregated Elo scores of players to d
 ### In Conclusion
 
 In this post I’ve covered the details of the Elo implementation within XonStat, the statistics database for Xonotic. I’ve covered individual and team games as well as how the basic structure of Elo is used to determine point gains and losses from matches. I also discussed a little about how experience alters the ratings and how ranking works. I hope you’ve found this subject matter entertaining! As always, you can contact me in the forums at forums.xonotic.org or on IRC at #xonotic on Quakenet (I’m Antibody or dfdashh) with any questions or comments. 
-
