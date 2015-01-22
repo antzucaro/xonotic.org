@@ -18,7 +18,7 @@ tags:
 
 ### Introduction
 
-Behind the scenes a lot has been going on in the organization of the Xonotic project.  If you're watching [url=http://git.xonotic.org]git.xonotic.org[/url], [url=http://forums.xonotic.org]forums.xonotic.org[/url], [url=http://dev.xonotic.org]dev.xonotic.org[/url], [url=http://img.xonotic.org]img.xonotic.org[/url], #xonotic on irc.quakenet.org / irc.freenode.org then you probably have an idea of who has been contributing but there has been no clear definition to the public on leadership roles.
+Behind the scenes a lot has been going on in the organization of the Xonotic project.  If you're watching [git.xonotic.org](http://git.xonotic.org), [forums.xonotic.org](http://forums.xonotic.org), [dev.xonotic.org](http://dev.xonotic.org), [img.xonotic.org](http://img.xonotic.org), #xonotic on irc.quakenet.org / irc.freenode.org then you probably have an idea of who has been contributing but there has been no clear definition to the public on leadership roles.
 
 Through forum discussions and IRC chats, the core team has designed an organizational structure and appointed key individuals to positions. In the system design, we've tried to keep the hierarchy as low as possible.  Xonotic is free open-source software and we're interested in evolving together with freedoms in tact but too much freedom in system design can lead to nothing getting accomplished.  This is why we've appointed the following list of people to guide the direction of the project and ensure the quality of the experience.
 
@@ -28,17 +28,12 @@ Through forum discussions and IRC chats, the core team has designed an organizat
 
 The Core team consists of 6 members who discuss and vote on large project changes.  This international group of leaders is a classic group of collaborators who above all else, will try and do what's best for the game and community.
 
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=4]divVerent[/url]
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=1]-z-[/url]
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=34]merlijn[/url]
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=8]morphed[/url]
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=13]mand1nga[/url]
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=39]tZork[/url]
+  * [divVerent](http://forums.xonotic.org/member.php?action=profile&uid;=4)
+  * [-z-](http://forums.xonotic.org/member.php?action=profile&uid;=1)
+  * [merlijn](http://forums.xonotic.org/member.php?action=profile&uid;=34)
+  * [morphed](http://forums.xonotic.org/member.php?action=profile&uid;=8)
+  * [mand1nga](http://forums.xonotic.org/member.php?action=profile&uid;=13)
+  * [tZork](http://forums.xonotic.org/member.php?action=profile&uid;=39)
 
 ### List of Coordinators
 
@@ -46,59 +41,53 @@ Coordinators are here to guide contributors, provide information both in and out
 
 #### Art
 
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=14]Diabolik[/url] a.k.a Dib
+  * [Diabolik](http://forums.xonotic.org/member.php?action=profile&uid;=14) a.k.a Dib
 
 #### 2d Art / Web
 
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=1]-z-[/url] (web / game)
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=29]FruitieX[/url] (game / web)
+  * [-z-](http://forums.xonotic.org/member.php?action=profile&uid;=1) (web / game)
+  * [FruitieX](http://forums.xonotic.org/member.php?action=profile&uid;=29) (game / web)
 
 #### 3d Art
 
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=8]morphed[/url]
+  * [morphed](http://forums.xonotic.org/member.php?action=profile&uid;=8)
 
 #### Level Design
 
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=29]FruitieX[/url]
+  * [FruitieX](http://forums.xonotic.org/member.php?action=profile&uid;=29)
 
 #### Music / Sound FX
 
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=13]mand1nga[/url]
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=34]merlijn[/url]
+  * [mand1nga](http://forums.xonotic.org/member.php?action=profile&uid;=13)
+  * [merlijn](http://forums.xonotic.org/member.php?action=profile&uid;=34)
 
 #### Engine Code
 
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=4]divVerent[/url]
+  * [divVerent](http://forums.xonotic.org/member.php?action=profile&uid;=4)
 
 #### Game Code
 
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=4]divVerent[/url]
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=29]FruitieX[/url]
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=39]tZork[/url]
+  * [divVerent](http://forums.xonotic.org/member.php?action=profile&uid;=4)
+  * [FruitieX](http://forums.xonotic.org/member.php?action=profile&uid;=29)
+  * [tZork](http://forums.xonotic.org/member.php?action=profile&uid;=39)
 
 #### Marketing / PR
 
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=1]-z-[/url]
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=13]mand1nga[/url]
+  * [-z-](http://forums.xonotic.org/member.php?action=profile&uid;=1)
+  * [mand1nga](http://forums.xonotic.org/member.php?action=profile&uid;=13)
 
 #### Legal
 
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=4]divVerent[/url]
-
-  * [url=http://forums.xonotic.org/member.php?action=profile&uid;=34]merlijn[/url]
+  * [divVerent](http://forums.xonotic.org/member.php?action=profile&uid;=4)
+  * [merlijn](http://forums.xonotic.org/member.php?action=profile&uid;=34)
 
 **Note:** Many of the core members are serving double roles as coordinators.  This is not a considered a conflict of interests in decision making because these members are largely filling the role until someone else who fits the description can fill it.
 
-These coordination positions are time-consuming roles that require dedication, knowledge of the area and sharpened communication skills.  If you believe you can be of assistance in this area, you may contact the team at [url=mailto:admin@xonotic.org]admin@xonotic.org[/url].  Don't forget, you can still contribute in other ways without the responsibilities of a coordinator.
+These coordination positions are time-consuming roles that require dedication, knowledge of the area and sharpened communication skills.  If you believe you can be of assistance in this area, you may contact the team at [admin@xonotic.org](mailto:admin@xonotic.org).  Don't forget, you can still contribute in other ways without the responsibilities of a coordinator.
 
 ### Other Contributors and Supporters
 
-See [url=http://dev.xonotic.org/projects/xonotic]dev.xonotic.org/xonotic[/url] for the most up-to-date list of contributors.
+See [dev.xonotic.org/xonotic](http://dev.xonotic.org/projects/xonotic) for the most up-to-date list of contributors.
 
 #### Needed positions
 
@@ -114,6 +103,4 @@ To customize redmine for the project needs
 **PHP Developers**
 To write MyBB plugins for the project's needs
 
-Contact Team Xonotic at [url=mailto:admin@xonotic.org]admin@xonotic.org[/url]
-
-[url=http://www.xonotic.org/2010/06/19/the-organizational-structure-of-xonotic/]original blog post[/url]
+Contact Team Xonotic at [admin@xonotic.org](mailto:admin@xonotic.org)
