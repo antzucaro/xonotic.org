@@ -3,7 +3,7 @@ author: C.Brutail
 comments: false
 date: 2012-01-17 07:11:08+00:00
 layout: post
-slug: wox-blox-issue-3---community-news
+slug: wox-blox-issue-3-community-news
 title: 'WoX-BloX Issue #3 – Community news'
 wordpress_id: 1918
 categories:
