@@ -10,11 +10,15 @@
         {{ partial "info_panel.html" . }}
 
         <section id="prev">
-          {{if .Prev}}Previous post: <a class="previous" href="{{.Prev.Permalink}}"><i class="icon-arrow-left"></i> {{.Prev.Title}}</a><br>{{end}}
+          {{if .PrevInSection }}
+          Previous post: <a class="previous" href="{{.PrevInSection.Permalink}}"><i class="icon-arrow-left"></i> {{.PrevInSection.Title}}</a><br>
+          {{end}}
         </section>
 
         <section id="next">
-          {{if .Next}}Next post: <a class="next" href="{{.Next.Permalink}}">{{.Next.Title}} <i class="icon-arrow-right"></i></a>{{end}}
+          {{if .NextInSection }}
+          Next post: <a class="next" href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}} <i class="icon-arrow-right"></i></a>
+          {{end}}
         </section>
 
       </div> <!-- END MAIN COLUMN -->
