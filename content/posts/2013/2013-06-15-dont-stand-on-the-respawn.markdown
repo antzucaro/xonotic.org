@@ -16,8 +16,8 @@ tags:
 Shortly before the release of 0.7 community member [Lady*D](http://forums.xonotic.org/member.php?action=profile&uid=3846) released her latest movie. It's called "Don't Stand on the Respawn" and it features some of our CTS community's fastest players.
 
 {{% polaroid
-  "http://www.xonotic.org/m/uploads/2013/06/dont_stand_on_the_respawn.png"
-  "http://www.xonotic.org/m/uploads/2013/06/dont_stand_on_the_respawn.png"
+  "/m/uploads/2013/06/dont_stand_on_the_respawn.png"
+  "/m/uploads/2013/06/dont_stand_on_the_respawn.png"
   "Don't Stand on the Respawn"
 %}}
 

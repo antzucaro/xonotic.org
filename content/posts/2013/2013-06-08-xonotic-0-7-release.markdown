@@ -33,37 +33,37 @@ You can also download and play Xonotic on Desura:
 
 While you're downloading the game, check out some of the highlights of this release...
 
-[![CTF flag model on dance](http://www.xonotic.org/m/uploads/2013/06/xonotic20130607214802-00-200x200.jpg)](http://www.xonotic.org/m/uploads/2013/06/xonotic20130607214802-00.jpg)
+[![CTF flag model on dance](/m/uploads/2013/06/xonotic20130607214802-00-200x200.jpg)](/m/uploads/2013/06/xonotic20130607214802-00.jpg)
 
 ### Massive updates to game modes
 
 Xonotic 0.7 features updates to the classic game modes that define the game, including a [complete rewrite](http://forums.xonotic.org/showthread.php?tid=3491) of **Capture The Flag**. New gameplay elements such as flag-passing and stalemates have been introduced along with new visual effects and game notification messages. Other game modes such as Clan Arena, Arena, Last Man Standing, Onslaught, Assault, Freezetag, Nexball, and Domination have also received updates for bugs, minor features, and relocations to the mutator system.
 
-[![Spine bending while aiming upwards](http://www.xonotic.org/m/uploads/2013/06/xonotic20130607220340-00-200x200.jpg)](http://www.xonotic.org/m/uploads/2013/06/xonotic20130607220340-00.jpg)
+[![Spine bending while aiming upwards](/m/uploads/2013/06/xonotic20130607220340-00-200x200.jpg)](/m/uploads/2013/06/xonotic20130607220340-00.jpg)
 
 ### Animation blending
 
 Our last release ushered in a new wave of possibilities with client-side rendering of players which allowed us to implement full animation blending to playermodel rendering, among other unique features. Because of this we can now play two separate animations on a player at the same time. This means we can show a specific walking direction on the legs _and_ play an attacking animation on the torso simultaneously. This implementation also lets us bend the playermodel skeleton based on the direction they are looking, which provides a seamless appearence of where other players are aiming.
 
-[![Simple Items](http://www.xonotic.org/m/uploads/2013/06/simpleitems.jpg)](http://www.xonotic.org/m/uploads/2013/06/xonotic20130607215456-00.jpg)
+[![Simple Items](/m/uploads/2013/06/simpleitems.jpg)](/m/uploads/2013/06/xonotic20130607215456-00.jpg)
 
 ### More competitive features
 
 This release also includes many new competitive-oriented features. The long-anticipated arrival of **simple items** provides 2D rendering of sprites for item pickups instead of models, allowing items to be identifiable from a much further distance. **Super spectating** is also available, which allows for a wider array of options for video recordings and broadcasters with options such as follow powerup and follow killer. New and improved **spawn rules** better fit competitive gameplay in duels or team matches alike.
 
-[![Darkzone remake for Xonotic](http://www.xonotic.org/m/uploads/2013/06/newmaps-200x200.jpg)](http://www.xonotic.org/m/uploads/2013/06/newmaps.jpg)
+[![Darkzone remake for Xonotic](/m/uploads/2013/06/newmaps-200x200.jpg)](/m/uploads/2013/06/newmaps.jpg)
 
 ### Mapping updates
 
 Once again we have rolled out a fair portion of mapping updates to the game, including 4 new maps: **Abyss**: A large indoor CTF map by kuniuthefrogg designed for public and competitive gameplay. **Fuse**: A stunning new duel map by cityy which captures the aspects of Xonotic movement and game design perfectly. **SilentSiege**: A medium size duel map made by Justin with stormkeep-like gameplay. **Oilrig**: A revived map from the older origins of our project, providing great visuals and deathmatch gameplay that will really shine through with the older members of our community. Additionally we have paid a lot of attention to the existing maps again, and updated them with new features and gameplay improvements along the way.
 
-[![Death messages and join messages pushed to chatbox](http://www.xonotic.org/m/uploads/2013/06/chatbox.jpg)](http://www.xonotic.org/m/uploads/2013/06/chatbox.jpg)
+[![Death messages and join messages pushed to chatbox](/m/uploads/2013/06/chatbox.jpg)](/m/uploads/2013/06/chatbox.jpg)
 
 ### Better handling of in-game messages
 
 The in-game message system has been completely re-written for this release. It provides an entirely new set of abilities for centerprints, console messages, and hud notifications. The system gives players the flexibility to customize and control all of the game messages as well as the ability to add full translation support. The notification system also integrates with many of the other game mode updates.
 
-[![GMQCC logo](http://www.xonotic.org/m/uploads/2013/06/gmqcc-logo-200x200.jpg)](http://www.xonotic.org/m/uploads/2013/06/gmqcc-logo.jpg)
+[![GMQCC logo](/m/uploads/2013/06/gmqcc-logo-200x200.jpg)](/m/uploads/2013/06/gmqcc-logo.jpg)
 
 ### All new compiler
 
