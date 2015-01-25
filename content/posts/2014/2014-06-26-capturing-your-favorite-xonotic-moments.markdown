@@ -9,6 +9,8 @@ wordpress_id: 3722
 categories:
 - Community
 - Tutorials
+aliases:
+- /2014/06/capturing-your-favorite-xonotic-moments
 ---
 
 Over the past few days I've been experimenting with custom screenshot binds and demo recording to make capturing and sharing my favorite Xonotic moments as seamless as possible. The issue I am trying to solve is one you've likely encountered if you've been playing for a while: having figured out how to record snippets of your demos (`cl_capturevideo 1/0`), what's the best way to keep track of when to hit the record button? Even more troubling, what video recording settings yield a good space and encoding time to quality balance? I believe I've found simple ways to achieve both of these things. Read on for the details.

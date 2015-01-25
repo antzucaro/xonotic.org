@@ -11,6 +11,8 @@ categories:
 tags:
 - newbie
 - tutorial
+aliases:
+- /2014/04/halogenes-newbie-corner-comprehensive-tutorial
 ---
 
 [![newbie-corner-banner2](/m/uploads/2012/09/newbie-corner-banner2.png)](/m/uploads/2012/09/newbie-corner-banner2.png)
