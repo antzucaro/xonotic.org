@@ -10,7 +10,7 @@ categories:
 - Announcements
 ---
 
-[![](http://www.xonotic.org/m/uploads/2011/11/gg-logo.jpg)](http://www.globalgamers.net)
+[![](/m/uploads/2011/11/gg-logo.jpg)](http://www.globalgamers.net)
 
 Friday, 11-11-11, Global Gamers officially turns 5 years old! - On behalf of the entire Xonotic community, CONGRATULATIONS GLOBAL GAMERS!
 
@@ -22,4 +22,4 @@ Meanwhile, be sure to try out all the fun game servers GG has to offer you, and 
 
 GG Global Gamers, and Happy 5th Birthday!
 
-[![Happy 5th Birthday Global Gamers!](http://www.xonotic.org/m/uploads/2011/11/xonotic000467-1024x819.jpg)](http://www.xonotic.org/2011/11/global-gamers-turns-5-celebrates-with-xonotic/xonotic000467/)
+[![Happy 5th Birthday Global Gamers!](/m/uploads/2011/11/xonotic000467-1024x819.jpg)](http://www.xonotic.org/2011/11/global-gamers-turns-5-celebrates-with-xonotic/xonotic000467/)

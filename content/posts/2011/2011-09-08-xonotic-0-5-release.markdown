@@ -36,9 +36,9 @@ You can also download and play this release on Desura:
 ### Multi-language support
 
 <ul class="clearing-thumbs clearing-feature" data-clearing> 
-  <li class="clearing-featured-img"><a href="http://www.xonotic.org/m/uploads/2011/09/english.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/english-200x200.jpg"></a></li> 
-  <li><a href="http://www.xonotic.org/m/uploads/2011/09/german.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/german.jpg"></a></li> 
-  <li><a href="http://www.xonotic.org/m/uploads/2011/09/russian.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/russian.jpg"></a></li> 
+  <li class="clearing-featured-img"><a href="/m/uploads/2011/09/english.jpg"><img src="/m/uploads/2011/09/english-200x200.jpg"></a></li> 
+  <li><a href="/m/uploads/2011/09/german.jpg"><img src="/m/uploads/2011/09/german.jpg"></a></li> 
+  <li><a href="/m/uploads/2011/09/russian.jpg"><img src="/m/uploads/2011/09/russian.jpg"></a></li> 
 </ul>
 
 Localization spanning across the menu and most of the game now allows for easy translation into many different languages! Currently included are German, Spanish, French, Italian, Hungarian, Dutch, Portuguese, Romanian, Russian and Finnish. (Click image to view some examples)
@@ -46,13 +46,13 @@ Localization spanning across the menu and most of the game now allows for easy t
 ### New and updated maps
 
 <ul class="clearing-thumbs clearing-feature" data-clearing> 
-  <li class="clearing-featured-img"><a href="http://www.xonotic.org/m/uploads/2011/09/afterslime-1.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/afterslime-1-200x200.jpg"></a></li> 
-  <li><a href="http://www.xonotic.org/m/uploads/2011/09/courtfun-3.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/courtfun-3.jpg"></a></li> 
-  <li><a href="http://www.xonotic.org/m/uploads/2011/09/leave-em-behind-1.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/leave-em-behind-1.jpg"></a></li> 
-  <li><a href="http://www.xonotic.org/m/uploads/2011/09/newtonian-nightmare-1.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/newtonian-nightmare-1.jpg"></a></li> 
-  <li><a href="http://www.xonotic.org/m/uploads/2011/09/runningman-2.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/runningman-2.jpg"></a></li> 
-  <li><a href="http://www.xonotic.org/m/uploads/2011/09/techassault-1.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/techassault-1.jpg"></a></li> 
-  <li><a href="http://www.xonotic.org/m/uploads/2011/09/xoylent-1.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/xoylent-1.jpg"></a></li> 
+  <li class="clearing-featured-img"><a href="/m/uploads/2011/09/afterslime-1.jpg"><img src="/m/uploads/2011/09/afterslime-1-200x200.jpg"></a></li> 
+  <li><a href="/m/uploads/2011/09/courtfun-3.jpg"><img src="/m/uploads/2011/09/courtfun-3.jpg"></a></li> 
+  <li><a href="/m/uploads/2011/09/leave-em-behind-1.jpg"><img src="/m/uploads/2011/09/leave-em-behind-1.jpg"></a></li> 
+  <li><a href="/m/uploads/2011/09/newtonian-nightmare-1.jpg"><img src="/m/uploads/2011/09/newtonian-nightmare-1.jpg"></a></li> 
+  <li><a href="/m/uploads/2011/09/runningman-2.jpg"><img src="/m/uploads/2011/09/runningman-2.jpg"></a></li> 
+  <li><a href="/m/uploads/2011/09/techassault-1.jpg"><img src="/m/uploads/2011/09/techassault-1.jpg"></a></li> 
+  <li><a href="/m/uploads/2011/09/xoylent-1.jpg"><img src="/m/uploads/2011/09/xoylent-1.jpg"></a></li> 
 </ul>
 
 7 new default maps were added the game (afterslime, courtfun, leave_em_behind, newtonian-nightmare, runningman, techassault, xoylent), and many others have been updated with new details and gameplay tweaks. Community mappers have also stepped up to add over 100 additional maps which can be played in the game.
@@ -60,16 +60,16 @@ Localization spanning across the menu and most of the game now allows for easy t
 ### Vehicles
 
 <ul class="clearing-thumbs clearing-feature" data-clearing> 
-  <li class="clearing-featured-img"><a href="http://www.xonotic.org/m/uploads/2011/09/xonotic000962.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/xonotic000962-200x200.jpg"></a></li> 
-  <li><a href="http://www.xonotic.org/m/uploads/2011/09/xonotic000963.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/xonotic000963.jpg"></a></li> 
-  <li><a href="http://www.xonotic.org/m/uploads/2011/09/xonotic000964.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/xonotic000964.jpg"></a></li> 
+  <li class="clearing-featured-img"><a href="/m/uploads/2011/09/xonotic000962.jpg"><img src="/m/uploads/2011/09/xonotic000962-200x200.jpg"></a></li> 
+  <li><a href="/m/uploads/2011/09/xonotic000963.jpg"><img src="/m/uploads/2011/09/xonotic000963.jpg"></a></li> 
+  <li><a href="/m/uploads/2011/09/xonotic000964.jpg"><img src="/m/uploads/2011/09/xonotic000964.jpg"></a></li> 
 </ul>
 
 We now have vehicles! They are mostly functional at this point and fairly mature with few bugs remaining. However, we still consider this feature to be experimental, and they will need major rebalancing in the future, so no maps for vehicles are included by default, although a few of the aforementioned community maps support them quite well in CTF and DM.
 
 ### Weapons and player movement
 
-<a href="http://www.xonotic.org/m/uploads/2011/09/xonotic000966.jpg"><img src="http://www.xonotic.org/m/uploads/2011/09/xonotic000966-200x200.jpg"></a>
+<a href="/m/uploads/2011/09/xonotic000966.jpg"><img src="/m/uploads/2011/09/xonotic000966-200x200.jpg"></a>
 
 We have almost completely rethought the weapon balance and part of player physics, enhancing the core elements of Nexuiz' gameplay style which were so fun in the past while also progressing with new features and tactics.
 

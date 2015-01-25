@@ -12,11 +12,11 @@ categories:
 
 As you probably already know, [BOT] clan organised an online 1v1 tournament in the beginning of the fall, and the matches are coming along very nicely! The tournament has already progressed to the brackets of the semi finals with:
 
-[![[BOT] tournament semi finalists: fisume vs PCLizard](http://www.xonotic.org/m/uploads/2011/12/fisume_vs_pcl-1024x819.jpg)](http://www.xonotic.org/2011/12/xonotic-1v1-tourney-semi-finals/fisume_vs_pcl/)
+[![[BOT] tournament semi finalists: fisume vs PCLizard](/m/uploads/2011/12/fisume_vs_pcl-1024x819.jpg)](http://www.xonotic.org/2011/12/xonotic-1v1-tourney-semi-finals/fisume_vs_pcl/)
 
 **fisume vs PCLizard**
 
-[![[BOT] tournament semi finalists: L0 vs Mirio](http://www.xonotic.org/m/uploads/2011/12/lo_vs_mirio-1024x819.jpg)](http://www.xonotic.org/2011/12/xonotic-1v1-tourney-semi-finals/lo_vs_mirio/)
+[![[BOT] tournament semi finalists: L0 vs Mirio](/m/uploads/2011/12/lo_vs_mirio-1024x819.jpg)](http://www.xonotic.org/2011/12/xonotic-1v1-tourney-semi-finals/lo_vs_mirio/)
 
 **L0 vs Mirio**
 

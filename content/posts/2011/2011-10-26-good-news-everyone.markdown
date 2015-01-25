@@ -25,7 +25,7 @@ For the sake of solving [persisting popularity issues](http://forums.xonotic.org
 
 ### Ladies and Gentlemen, we present you:
 
-[![](http://www.xonotic.org/m/uploads/2011/10/xonotic-500x400.jpg)](http://www.xonotic.org/m/uploads/2011/10/xonotic.jpg)
+[![](/m/uploads/2011/10/xonotic-500x400.jpg)](/m/uploads/2011/10/xonotic.jpg)
 
 **The WoX-BloX! News about Xonotic, development, and the community!**
 
