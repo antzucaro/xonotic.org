@@ -19,4 +19,4 @@ On behalf of Team Xonotic and the entire Xonotic community I'd like to give a bi
 
 P.S. - Our servers still love you even though you gave them a slight bump :D
 
- ![](http://www.xonotic.org/m/uploads/2012/09/traffic_spike.jpg)
+ ![](/m/uploads/2012/09/traffic_spike.jpg)

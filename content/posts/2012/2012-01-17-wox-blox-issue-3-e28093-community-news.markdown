@@ -23,7 +23,7 @@ That's right folks, you've read it correctly - **Xonotic version 0.6 is on its w
 
 Okay, now that I have made you excited enough, let's have a look at what our lovely community is up to! We have news, new and ongoing tournaments, exciting challanges and many more!
 
-[![Ignis reads Wox-Blox #3](http://www.xonotic.org/m/uploads/2012/01/woxblox03-1024x819.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/woxblox03/)
+[![Ignis reads Wox-Blox #3](/m/uploads/2012/01/woxblox03-1024x819.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/woxblox03/)
 
 ## Results of the Nexball mapping contest
 
@@ -42,9 +42,9 @@ The Nexball mapping contest initiated by **Cortez** was fruitful, and once again
 
 CONGRATULATIONS TO ALL CONTESTANTS!
 
-[![Mayanball by Morphed](http://www.xonotic.org/m/uploads/2012/01/mayanball-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/mayanball/)[![SWAT-SD by nowego4](http://www.xonotic.org/m/uploads/2012/01/swat-sd-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/swat-sd/)[![Bloodball by Maddin](http://www.xonotic.org/m/uploads/2012/01/bloodball-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bloodball/)[![Dearbumperball by Soelen](http://www.xonotic.org/m/uploads/2012/01/bumperball-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bumperball/)[![Gears'n'Balls by freefang](http://www.xonotic.org/m/uploads/2012/01/gearsnballs-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/gearsnballs/)
+[![Mayanball by Morphed](/m/uploads/2012/01/mayanball-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/mayanball/)[![SWAT-SD by nowego4](/m/uploads/2012/01/swat-sd-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/swat-sd/)[![Bloodball by Maddin](/m/uploads/2012/01/bloodball-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bloodball/)[![Dearbumperball by Soelen](/m/uploads/2012/01/bumperball-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bumperball/)[![Gears'n'Balls by freefang](/m/uploads/2012/01/gearsnballs-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/gearsnballs/)
 
-[![Aerial-match by forseti](http://www.xonotic.org/m/uploads/2012/01/aerial-match-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/aerial-match/)[![Ariel by kuniu the frogg](http://www.xonotic.org/m/uploads/2012/01/ariel-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/ariel/)[![Basket_Case by PinkRobot](http://www.xonotic.org/m/uploads/2012/01/basket-case-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/basket-case/)[![Dustball by monad](http://www.xonotic.org/m/uploads/2012/01/dustball-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/dustball/)[![Deardrugball by Soelen](http://www.xonotic.org/m/uploads/2012/01/drugball-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/drugball/)
+[![Aerial-match by forseti](/m/uploads/2012/01/aerial-match-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/aerial-match/)[![Ariel by kuniu the frogg](/m/uploads/2012/01/ariel-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/ariel/)[![Basket_Case by PinkRobot](/m/uploads/2012/01/basket-case-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/basket-case/)[![Dustball by monad](/m/uploads/2012/01/dustball-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/dustball/)[![Deardrugball by Soelen](/m/uploads/2012/01/drugball-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/drugball/)
 
 For more [detailed rankings](http://forums.xonotic.org/showthread.php?tid=2280&pid=33334#pid33334) and the reviews of the judges, take a look at the [forum thread](http://forums.xonotic.org/showthread.php?tid=2280&pid=33334#pid33334) of the Nexball mapping contest! If you'd like to check out the maps online, feel free to hop in to [Pink Robot's Lovely Nexball Server" (IP: 159.253.4.32:26000)](http://dpmaster.deathmask.net/?game=xonotic&server=159.253.4.32:26000) and kick some balls! I'm pretty sure you'll need a little exercise of virtual soccer and basketball in preparation for the announced...
 
@@ -52,7 +52,7 @@ For more [detailed rankings](http://forums.xonotic.org/showthread.php?tid=2280&p
 
 The [[BOT] clan](http://www.bot-nexuiz.de.tl/) is at it again, organising a very promising and fun team challenge, the first ever **2 vs 2 Nexball tourney** of Xonotic!
 
-[![](http://www.xonotic.org/m/uploads/2012/01/bot_nexball.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bot_nexball/)
+[![](/m/uploads/2012/01/bot_nexball.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bot_nexball/)
 
 **General rules:**
 	
@@ -72,7 +72,7 @@ The map list will consist of the submitted maps from the Nexball mapping contest
 
 **Cortez** continues his monthly race challanges, for January it's Capture the Flag race. Your goal is to do a capture on the map_ Tripzone_ (a CTF conversion of the classical DM map Darkzone) by **divVerent** as fast as possible. Beware - there is more to this map than meets the eye. This challenge is not an easy one, so good luck and have fun!
 
-[![Tripzone RED base](http://www.xonotic.org/m/uploads/2012/01/tripzone1-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/tripzone1/)[![Tripzone BLUE middle](http://www.xonotic.org/m/uploads/2012/01/tripzone2-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/tripzone2/)[![Tripzone NEUTRAL joint](http://www.xonotic.org/m/uploads/2012/01/tripzone3-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/tripzone3/)
+[![Tripzone RED base](/m/uploads/2012/01/tripzone1-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/tripzone1/)[![Tripzone BLUE middle](/m/uploads/2012/01/tripzone2-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/tripzone2/)[![Tripzone NEUTRAL joint](/m/uploads/2012/01/tripzone3-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/tripzone3/)
 
 **Rules:**
 	
@@ -110,13 +110,13 @@ Not a week goes by without somebody showing up with an awesome map, soundtrack, 
   * [Safe-District](http://ompldr.org/vYnRvZQ/safe-district_v2.pk3)
   * [Xoylent CTF](http://ompldr.org/vYzB1bQ/xoylent_ctf_b1.pk3)
 
-[![Bleach](http://www.xonotic.org/m/uploads/2012/01/bleach01-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bleach01/)[![Bleach](http://www.xonotic.org/m/uploads/2012/01/bleach02-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bleach02/)[![Bleach](http://www.xonotic.org/m/uploads/2012/01/bleach03-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bleach03/)[![Bleach](http://www.xonotic.org/m/uploads/2012/01/bleach04-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bleach04/)
+[![Bleach](/m/uploads/2012/01/bleach01-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bleach01/)[![Bleach](/m/uploads/2012/01/bleach02-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bleach02/)[![Bleach](/m/uploads/2012/01/bleach03-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bleach03/)[![Bleach](/m/uploads/2012/01/bleach04-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/bleach04/)
 
-[![Modern West Town](http://www.xonotic.org/m/uploads/2012/01/modern01-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/modern01/)[![Modern West Town](http://www.xonotic.org/m/uploads/2012/01/modern02-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/modern02/)[![Modern West Town](http://www.xonotic.org/m/uploads/2012/01/modern03-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/modern03/)
+[![Modern West Town](/m/uploads/2012/01/modern01-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/modern01/)[![Modern West Town](/m/uploads/2012/01/modern02-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/modern02/)[![Modern West Town](/m/uploads/2012/01/modern03-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/modern03/)
 
-[![Safe-District](http://www.xonotic.org/m/uploads/2012/01/safe01-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/safe01/)[![Safe-District](http://www.xonotic.org/m/uploads/2012/01/safe02-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/safe02/)[![Safe-District](http://www.xonotic.org/m/uploads/2012/01/safe03-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/safe03/)
+[![Safe-District](/m/uploads/2012/01/safe01-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/safe01/)[![Safe-District](/m/uploads/2012/01/safe02-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/safe02/)[![Safe-District](/m/uploads/2012/01/safe03-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/safe03/)
 
-[![Xoylent CTF](http://www.xonotic.org/m/uploads/2012/01/xoylentctf01-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/xoylentctf01/)[![Xoylent CTF](http://www.xonotic.org/m/uploads/2012/01/xoylentctf02-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/xoylentctf02/)[![Xoylent CTF](http://www.xonotic.org/m/uploads/2012/01/xoylentctf03-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/xoylentctf03/)
+[![Xoylent CTF](/m/uploads/2012/01/xoylentctf01-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/xoylentctf01/)[![Xoylent CTF](/m/uploads/2012/01/xoylentctf02-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/xoylentctf02/)[![Xoylent CTF](/m/uploads/2012/01/xoylentctf03-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/xoylentctf03/)
 
 Better late than never, **D_W** fulfilled an old promise of his and provided us with alternate sound effects. His first mini pack has various sounds, but mostly ones involving item pickups. Included are armour and general item pickup sounds, item respawn, jump pad, gib, and gib splat sounds. You can download his work [here](http://uploading.com/files/b7b345m2/Sound%2BMini%2BPack%2B01.rar/). For sources and feedback please visit his thread of "[D_W's Sound Effect Extravaganza (and Brainstorming) Thread](http://forums.xonotic.org/showthread.php?tid=2498)" on the forum. Thanks **D_W**!
 
@@ -126,9 +126,9 @@ _"Erebus got fed up with having to fight in the arenas all the time. He wanted a
 
 A while ago, [Second Life](http://secondlife.com/) implemented mesh support for avatars, allowing  meshes to get rigged to the avatar skeleton and worn. Since the models  in Xonotic are GPL, **MirceaKitsune** ported Erebus and his Xonotic Pony and Vixen models from [Vore tournament](http://sourceforge.net/projects/voretournament/) (Warning: slightly NSFW) as a  test.
 
-[![Erebus in Second Life](http://www.xonotic.org/m/uploads/2012/01/erebus_sl01-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/erebus_sl01/)[![On the beach](http://www.xonotic.org/m/uploads/2012/01/erebus_sl02-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/erebus_sl02/)
+[![Erebus in Second Life](/m/uploads/2012/01/erebus_sl01-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/erebus_sl01/)[![On the beach](/m/uploads/2012/01/erebus_sl02-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/erebus_sl02/)
 
-[![Ommmmm....](http://www.xonotic.org/m/uploads/2012/01/erebus_sl03-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/erebus_sl03/)[![Where do I want to go today?](http://www.xonotic.org/m/uploads/2012/01/erebus_sl04-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/erebus_sl04/)
+[![Ommmmm....](/m/uploads/2012/01/erebus_sl03-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/erebus_sl03/)[![Where do I want to go today?](/m/uploads/2012/01/erebus_sl04-200x200.jpg)](http://www.xonotic.org/2012/01/wox-blox-issue-3-%e2%80%93-community-news/erebus_sl04/)
 
 If you'd like to find out more about getting the models as your avatar in Second Life (or you'd just like to add some comments about it), you're more than welcome to do so [here](http://forums.xonotic.org/showthread.php?tid=2484) in the Xonotic forum.
 

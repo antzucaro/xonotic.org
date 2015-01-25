@@ -25,9 +25,9 @@ You can see examples and the results of these on maps already in the game as of 
 
 ![](http://rm.endoftheinternet.org/img/uploaded/71a89bb4ecd174d5b753e45222cddd42.png) and "g-23" uses the second.
 
-[![Map glowplant](http://www.xonotic.org/m/uploads/2012/01/glowplant-200x200.jpg)](http://www.xonotic.org/2012/01/public-xervice-announcement/glowplant/)[![Map g-23](http://www.xonotic.org/m/uploads/2012/01/g-23-200x200.jpg)](http://www.xonotic.org/2012/01/public-xervice-announcement/g-23/)
+[![Map glowplant](/m/uploads/2012/01/glowplant-200x200.jpg)](http://www.xonotic.org/2012/01/public-xervice-announcement/glowplant/)[![Map g-23](/m/uploads/2012/01/g-23-200x200.jpg)](http://www.xonotic.org/2012/01/public-xervice-announcement/g-23/)
 
-[![Map screenshot of glowplant](http://www.xonotic.org/m/uploads/2012/01/glowplant-000000-200x200.jpg)](http://www.xonotic.org/2012/01/public-xervice-announcement/glowplant-000000/)[![Map screenshot of g-23](http://www.xonotic.org/m/uploads/2012/01/g-23-000000-200x200.jpg)](http://www.xonotic.org/2012/01/public-xervice-announcement/g-23-000000/)
+[![Map screenshot of glowplant](/m/uploads/2012/01/glowplant-000000-200x200.jpg)](http://www.xonotic.org/2012/01/public-xervice-announcement/glowplant-000000/)[![Map screenshot of g-23](/m/uploads/2012/01/g-23-000000-200x200.jpg)](http://www.xonotic.org/2012/01/public-xervice-announcement/g-23-000000/)
 
 If the map is on the autobuild server, it will automatically make you  screenshots using these map entities (up to 3 entities can be used at  once). The screenshots are at 1024x1024 resolution, but **you need to  resize them manually to 512x512** to use them as the mapshot.  Unfortunately, the autobuild system cannot automatically pack the map  shots into the pk3s as the screenshots are done after  compilation/building, so you will still need to handle that yourself as  well.
 

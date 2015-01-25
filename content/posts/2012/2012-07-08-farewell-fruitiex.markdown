@@ -18,4 +18,4 @@ Team Xonotic would like to wish the best of luck to fellow developer **FruitieX*
 Take care mate, and have fun with the new toys, but remember: there's no respawn in real life! Try not to overabuse rocketjumping with the RPG ;)
 
 [
-![](http://www.xonotic.org/m/uploads/2012/07/salute-500x400.jpg)](http://www.xonotic.org/m/uploads/2012/07/salute.jpg)
+![](/m/uploads/2012/07/salute-500x400.jpg)](/m/uploads/2012/07/salute.jpg)
