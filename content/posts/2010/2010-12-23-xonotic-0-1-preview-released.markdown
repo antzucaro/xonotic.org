@@ -37,17 +37,17 @@ With all the new graphics you do need more RAM to store these in memory, we cons
 
 One of the most noticeable things is that the way the HUD is shown is now completely dynamic. Everything is divided into panels that can be individually customized and moved around. This way you can create the HUD config that provides you exactly the information you want, and where you want it. There also are various pre-made configurations you can choose from if you don't want to spend the time to tweak everything.
 
-[![](http://www.xonotic.org/m/uploads/2010/12/xonotic000132-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic000132.jpg)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic000133-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic000133.jpg)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic000134-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic000134.jpg)
+[![](/m/uploads/2010/12/xonotic000132-200x200.jpg)](/m/uploads/2010/12/xonotic000132.jpg)[![](/m/uploads/2010/12/xonotic000133-200x200.jpg)](/m/uploads/2010/12/xonotic000133.jpg)[![](/m/uploads/2010/12/xonotic000134-200x200.jpg)](/m/uploads/2010/12/xonotic000134.jpg)
 
   
 
 Apart from the HUD, there now is a big set of new and good looking crosshairs. The crosshair now also provides you with more information about several things, like the Nex charge, picking up items and showing from which angle you're being attacked. Updated Crosshairs based on the concepts below:
 
-[![](http://www.xonotic.org/m/uploads/2010/12/CrossConcept-381x500.jpg)](http://www.xonotic.org/m/uploads/2010/12/CrossConcept.jpg)
+[![](/m/uploads/2010/12/CrossConcept-381x500.jpg)](/m/uploads/2010/12/CrossConcept.jpg)
 
 ### New menu
 
-[![](http://www.xonotic.org/m/uploads/2010/11/xonotic_menu_options-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/11/xonotic_menu_options.jpg)[![](http://www.xonotic.org/m/uploads/2010/11/xonotic_server_list-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/11/xonotic_server_list.jpg)
+[![](/m/uploads/2010/11/xonotic_menu_options-200x200.jpg)](/m/uploads/2010/11/xonotic_menu_options.jpg)[![](/m/uploads/2010/11/xonotic_server_list-200x200.jpg)](/m/uploads/2010/11/xonotic_server_list.jpg)
 
   
 
@@ -71,23 +71,23 @@ This balance part of the preview release is really a test to see how it works ou
 
 The old player models in Nexuiz were quite outdated, so we decided to remove them all and start from scratch. Currently we do not have as many models as we used to, but they are of much higher quality. The animations have also been done from scratch, and they are now well aligned with the player models.
 
-[![](http://www.xonotic.org/m/uploads/2010/05/412771687019-200x200.png)](http://www.xonotic.org/m/uploads/2010/05/412771687019.png)
+[![](/m/uploads/2010/05/412771687019-200x200.png)](/m/uploads/2010/05/412771687019.png)
 
-[![](http://www.xonotic.org/m/uploads/2010/05/9127717046613-200x200.png)](http://www.xonotic.org/m/uploads/2010/05/9127717046613.png)
+[![](/m/uploads/2010/05/9127717046613-200x200.png)](/m/uploads/2010/05/9127717046613.png)
 
-[![](http://www.xonotic.org/m/uploads/2010/05/012771705399-200x200.png)](http://www.xonotic.org/m/uploads/2010/05/012771705399.png)
+[![](/m/uploads/2010/05/012771705399-200x200.png)](/m/uploads/2010/05/012771705399.png)
 
-[![](http://www.xonotic.org/m/uploads/2010/05/412771683267-200x200.png)](http://www.xonotic.org/m/uploads/2010/05/412771683267.png)
+[![](/m/uploads/2010/05/412771683267-200x200.png)](/m/uploads/2010/05/412771683267.png)
 
-[![](http://www.xonotic.org/m/uploads/2010/05/di-1212771613363-200x200.png)](http://www.xonotic.org/m/uploads/2010/05/di-1212771613363.png)
+[![](/m/uploads/2010/05/di-1212771613363-200x200.png)](/m/uploads/2010/05/di-1212771613363.png)
 
-[![](http://www.xonotic.org/m/uploads/2010/05/712771685977-200x200.png)](http://www.xonotic.org/m/uploads/2010/05/712771685977.png)
+[![](/m/uploads/2010/05/712771685977-200x200.png)](/m/uploads/2010/05/712771685977.png)
 
   
 
 In addition to the player models, some other models were updated like the flag model, armor models, and a few weapon models.
 
-[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-weapon-nex-1st-person-charged-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic-weapon-nex-1st-person-charged.jpg)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-weapon-nex-1st-person-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic-weapon-nex-1st-person.jpg)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-weapon-nex-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic-weapon-nex.jpg)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-weapon-mine-layer-1st-person-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic-weapon-mine-layer-1st-person.jpg)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-weapon-mine-layer-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic-weapon-mine-layer.jpg)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-armor-chips-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic-armor-chips.jpg)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-armor-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic-armor.jpg)[![](http://www.xonotic.org/m/uploads/2010/11/xonotic_new_flag-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/11/xonotic_new_flag.jpg)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic000141-200x200.jpg)](http://www.xonotic.org/m/uploads/2010/12/xonotic000141.jpg)
+[![](/m/uploads/2010/12/xonotic-weapon-nex-1st-person-charged-200x200.jpg)](/m/uploads/2010/12/xonotic-weapon-nex-1st-person-charged.jpg)[![](/m/uploads/2010/12/xonotic-weapon-nex-1st-person-200x200.jpg)](/m/uploads/2010/12/xonotic-weapon-nex-1st-person.jpg)[![](/m/uploads/2010/12/xonotic-weapon-nex-200x200.jpg)](/m/uploads/2010/12/xonotic-weapon-nex.jpg)[![](/m/uploads/2010/12/xonotic-weapon-mine-layer-1st-person-200x200.jpg)](/m/uploads/2010/12/xonotic-weapon-mine-layer-1st-person.jpg)[![](/m/uploads/2010/12/xonotic-weapon-mine-layer-200x200.jpg)](/m/uploads/2010/12/xonotic-weapon-mine-layer.jpg)[![](/m/uploads/2010/12/xonotic-armor-chips-200x200.jpg)](/m/uploads/2010/12/xonotic-armor-chips.jpg)[![](/m/uploads/2010/12/xonotic-armor-200x200.jpg)](/m/uploads/2010/12/xonotic-armor.jpg)[![](/m/uploads/2010/11/xonotic_new_flag-200x200.jpg)](/m/uploads/2010/11/xonotic_new_flag.jpg)[![](/m/uploads/2010/12/xonotic000141-200x200.jpg)](/m/uploads/2010/12/xonotic000141.jpg)
 
   
 
@@ -95,7 +95,7 @@ In addition to the player models, some other models were updated like the flag m
 
 Xonotic features several remade and brand new maps, many of which are entirely recreated with new visuals and gameplay tweaks. So far we have 4 DM maps and 2 CTF maps, however there are MANY other great maps made for Xonotic which are still waiting to be added that could even be added by a server owner if they want to.
 
-[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-dance-blue-base-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-dance-blue-base.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-dance-red-base-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-dance-red-base.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-g-23-main-room-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-g-23-main-room.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-g-23-outside-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-g-23-outside.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-glowplant-inside-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-glowplant-inside.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-glowplant-outside-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-glowplant-outside.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-nexball-arena-close-up-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-nexball-arena-close-up.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-nexball-arena-full-view-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-nexball-arena-full-view.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-red-planet-blue-base-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-red-planet-blue-base.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-red-planet-inside-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-red-planet-inside.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-red-planet-outside-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-red-planet-outside.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-red-planet-red-base-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-red-planet-red-base.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-stormkeep-warpzone-1-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-stormkeep-warpzone-1.png)[![](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-stormkeep-warpzone-2-200x200.png)](http://www.xonotic.org/m/uploads/2010/12/xonotic-map-stormkeep-warpzone-2.png)
+[![](/m/uploads/2010/12/xonotic-map-dance-blue-base-200x200.png)](/m/uploads/2010/12/xonotic-map-dance-blue-base.png)[![](/m/uploads/2010/12/xonotic-map-dance-red-base-200x200.png)](/m/uploads/2010/12/xonotic-map-dance-red-base.png)[![](/m/uploads/2010/12/xonotic-map-g-23-main-room-200x200.png)](/m/uploads/2010/12/xonotic-map-g-23-main-room.png)[![](/m/uploads/2010/12/xonotic-map-g-23-outside-200x200.png)](/m/uploads/2010/12/xonotic-map-g-23-outside.png)[![](/m/uploads/2010/12/xonotic-map-glowplant-inside-200x200.png)](/m/uploads/2010/12/xonotic-map-glowplant-inside.png)[![](/m/uploads/2010/12/xonotic-map-glowplant-outside-200x200.png)](/m/uploads/2010/12/xonotic-map-glowplant-outside.png)[![](/m/uploads/2010/12/xonotic-map-nexball-arena-close-up-200x200.png)](/m/uploads/2010/12/xonotic-map-nexball-arena-close-up.png)[![](/m/uploads/2010/12/xonotic-map-nexball-arena-full-view-200x200.png)](/m/uploads/2010/12/xonotic-map-nexball-arena-full-view.png)[![](/m/uploads/2010/12/xonotic-map-red-planet-blue-base-200x200.png)](/m/uploads/2010/12/xonotic-map-red-planet-blue-base.png)[![](/m/uploads/2010/12/xonotic-map-red-planet-inside-200x200.png)](/m/uploads/2010/12/xonotic-map-red-planet-inside.png)[![](/m/uploads/2010/12/xonotic-map-red-planet-outside-200x200.png)](/m/uploads/2010/12/xonotic-map-red-planet-outside.png)[![](/m/uploads/2010/12/xonotic-map-red-planet-red-base-200x200.png)](/m/uploads/2010/12/xonotic-map-red-planet-red-base.png)[![](/m/uploads/2010/12/xonotic-map-stormkeep-warpzone-1-200x200.png)](/m/uploads/2010/12/xonotic-map-stormkeep-warpzone-1.png)[![](/m/uploads/2010/12/xonotic-map-stormkeep-warpzone-2-200x200.png)](/m/uploads/2010/12/xonotic-map-stormkeep-warpzone-2.png)
 
   
 
