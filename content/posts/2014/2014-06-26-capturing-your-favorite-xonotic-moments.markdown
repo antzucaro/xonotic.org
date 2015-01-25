@@ -53,8 +53,8 @@ What this does is set up a special screenshot command that binds to the backspac
 At this point you have a command that sends specially-formatted screenshots into a directory. Having collected a bunch of these screenshots, you now probably want to record the sweet, sweet frags they represent for posterity's sake! Fortunately, this is the relatively easy part. The first step involves mapping the screenshots to their respective demo files. While you can eyeball the screenshot to demo relationship manually, I prefer using [a simple Python script](http://antzucaro.com/uploads/2014/6/RecordingXonotic/screenshot_to_demo_second.py) to do the mapping for me. If you choose to use this, edit the directories at the top of the script to match your demo and screenshot directories, run the script, then finally save the output for later. 
 
 {{% polaroid
-  "http://www.xonotic.org/m/uploads/2014/06/screenshot_mapping.png"
-  "http://www.xonotic.org/m/uploads/2014/06/screenshot_mapping.png"
+  "/m/uploads/2014/06/screenshot_mapping.png"
+  "/m/uploads/2014/06/screenshot_mapping.png"
   "Output of the screenshot mapping script."
 %}}
 
@@ -63,28 +63,28 @@ The last piece to the recording process is telling Xonotic to render our demos i
 First you bring up the demo recorder with `java -jar NexuizDemoRecorder-0.3.jar` from your console of choice.
 
 {{% polaroid
-  "http://www.xonotic.org/m/uploads/2014/06/demo_recorder_main_screen.png"
-  "http://www.xonotic.org/m/uploads/2014/06/demo_recorder_main_screen.png"
+  "/m/uploads/2014/06/demo_recorder_main_screen.png"
+  "/m/uploads/2014/06/demo_recorder_main_screen.png"
   "The demo recorder's main screen"
 %}}
 
 {{% polaroid
-  "http://www.xonotic.org/m/uploads/2014/06/demo_recorder_template_screen.png"
-  "http://www.xonotic.org/m/uploads/2014/06/demo_recorder_template_screen.png"
+  "/m/uploads/2014/06/demo_recorder_template_screen.png"
+  "/m/uploads/2014/06/demo_recorder_template_screen.png"
   "The demo recorder's template screen"
 %}}
 
 {{% polaroid
-  "http://www.xonotic.org/m/uploads/2014/06/demo_recorder_job_screen.png"
-  "http://www.xonotic.org/m/uploads/2014/06/demo_recorder_job_screen.png"
+  "/m/uploads/2014/06/demo_recorder_job_screen.png"
+  "/m/uploads/2014/06/demo_recorder_job_screen.png"
   "The demo recorder's job screen"
 %}}
 
 Repeat this process of adding jobs - using the template to make your life easier - until you are done with all of the clips you wish to render. 
 
 {{% polaroid
-  "http://www.xonotic.org/m/uploads/2014/06/demo_recorder_main_screen_2.png"
-  "http://www.xonotic.org/m/uploads/2014/06/demo_recorder_main_screen_2.png"
+  "/m/uploads/2014/06/demo_recorder_main_screen_2.png"
+  "/m/uploads/2014/06/demo_recorder_main_screen_2.png"
   "The main screen after configuration"
 %}}
 
