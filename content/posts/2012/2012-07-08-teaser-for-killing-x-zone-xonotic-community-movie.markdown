@@ -11,6 +11,8 @@ categories:
 tags:
 - fragmovie
 - zeroql
+aliases:
+- /2012/07/teaser-for-killing-x-zone-xonotic-community-movie
 ---
 
 **ZeRoQL** released a small teaser for his incoming fragmovie titled **Killing X-Zone**, which will be 20min long and full of frag epicness!

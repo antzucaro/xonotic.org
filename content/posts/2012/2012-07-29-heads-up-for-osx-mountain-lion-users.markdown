@@ -12,6 +12,8 @@ categories:
 tags:
 - mac
 - mountain lion
+aliases:
+- /2012/07/heads-up-for-osx-mountain-lion-users
 ---
 
 A couple of days ago Apple has presented their latest version of Mac OS X: Mountain Lion (10.8). This latest release adds quite a few security measures, which can affect the use of Xonotic. In this post I'd like to address these issue and how they can easily be solved.

@@ -8,6 +8,8 @@ title: Happy New Year!
 wordpress_id: 1931
 categories:
 - Community
+aliases:
+- /2012/01/happy-new-year
 ---
 
 ## Team Xonotic would like to wish you and all your beloved ones a Happy New Year in 2012!

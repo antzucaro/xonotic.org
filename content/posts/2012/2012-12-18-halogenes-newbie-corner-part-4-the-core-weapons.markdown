@@ -13,6 +13,8 @@ tags:
 - newbie
 - tutorial
 - weapons
+aliases:
+- /2012/12/halogenes-newbie-corner-part-4-the-core-weapons
 ---
 
 ![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)

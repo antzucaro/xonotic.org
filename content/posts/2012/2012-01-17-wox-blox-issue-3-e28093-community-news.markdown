@@ -13,6 +13,8 @@ tags:
 - news
 - tournament
 - WoX-BloX
+aliases:
+- /2012/01/wox-blox-issue-3-community-news
 ---
 
 Welcome! You're reading the third installment of **WoX-BloX**, the "World of Xonotic Blogs"! Development carries on at a crazy pace, and we barely have enough time outside of cleaning and polishing new maps, media, and code for the upcoming 0.6 release...

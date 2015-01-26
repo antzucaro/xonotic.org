@@ -13,6 +13,8 @@ tags:
 - bunny hop
 - newbie
 - tutorial
+aliases:
+- /2012/08/halogenes-newbie-corner-part-1-bunny-hopping
 ---
 
 _This is a guest post from our good friend [Halogene](http://forums.xonotic.org/member.php?action=profile&uid=53), an experienced Xonotic player and all-around good guy._

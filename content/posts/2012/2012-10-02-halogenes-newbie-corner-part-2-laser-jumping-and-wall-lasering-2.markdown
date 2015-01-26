@@ -14,6 +14,8 @@ tags:
 - newbie
 - tutorial
 - Wall Lasering
+aliases:
+- /2012/10/halogenes-newbie-corner-part-2-laser-jumping-and-wall-lasering-2
 ---
 
 [![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)](http://www.xonotic.org/2012/10/halogenes-newbie-corner-part-2-laser-jumping-and-wall-lasering-2/newbie-corner-banner2-800x239/)

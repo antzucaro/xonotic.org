@@ -10,6 +10,8 @@ tags:
 - news
 - tournament
 - video
+aliases:
+- /2012/02/tourney-news-1v1-grand-finals
 ---
 
 Hi folks!

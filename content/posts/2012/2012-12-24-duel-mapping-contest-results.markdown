@@ -12,6 +12,8 @@ tags:
 - competition
 - duel
 - mapping
+aliases:
+- /2012/12/duel-mapping-contest-results
 ---
 
 On behalf of the Xonotic community I’d like to congratulate [cityy](http://forums.xonotic.org/member.php?action=profile&uid=3739) on winning our first ever [duel mapping competition](http://forums.xonotic.org/showthread.php?tid=3438)! His map [Fuse](http://forums.xonotic.org/showthread.php?tid=3454) took home the top honors for its impressive combination of gameplay, originality, and presentation. Cityy takes home the grand prize of a brand-spanking new ﻿Sapphire HD 7750 video card for his efforts. Enjoy your spoils, cityy!

@@ -8,6 +8,8 @@ title: ZeroQL has released his fragmovie!
 wordpress_id: 3008
 categories:
 - Community
+aliases:
+- /2012/10/zeroql-has-released-his-fragmovie
 ---
 
 We are happy to inform you that today, **Djordje "ZeRoQL" Simonovic**, has released his new fragmovie **KILLING X ZONE**!

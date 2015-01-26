@@ -8,6 +8,8 @@ title: Xonotic 0.6 is now available!
 wordpress_id: 2070
 categories:
 - Announcements
+aliases:
+- /2012/03/xonotic-0-6-is-now-available
 ---
 
 The 7th of March was a momentous day for the developers, community members, and gamers of Xonotic - the project's **second birthday**! To celebrate this occasion Team Xonotic is happy to announce the next official release of Xonotic!

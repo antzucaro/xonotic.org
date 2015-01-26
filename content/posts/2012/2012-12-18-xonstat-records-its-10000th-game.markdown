@@ -12,6 +12,8 @@ categories:
 tags:
 - community
 - xonstat
+aliases:
+- /2012/12/xonstat-records-its-10000th-game
 ---
 
 It has been just over a year since [XonStat](http://stats.xonotic.org) recorded its first game. We’ve come a long way since those humble beginnings, so I’m very happy to announce that we recorded our 100,000th game this week! This wouldn’t have been possible without the help of server administrators from [all](http://stats.xonotic.org/server/215) [over](http://stats.xonotic.org/server/134) [the](http://stats.xonotic.org/server/88) [world](http://stats.xonotic.org/server/155), not to mention the constant support and feedback from the players in this community. 

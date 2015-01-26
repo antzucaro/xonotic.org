@@ -6,6 +6,8 @@ layout: post
 slug: public-xervice-announcement
 title: Public Xervice Announcement
 wordpress_id: 2131
+aliases:
+- /2012/01/public-xervice-announcement
 ---
 
 We've got some really important informations for mappers, please pay attention and spread the news! Over the past month or so, quite a lot of things have happened which concern mappers, and we just want to highlight the most important things for you guys so you understand the changes and can work with them in the future.

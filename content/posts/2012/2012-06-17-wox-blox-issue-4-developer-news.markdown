@@ -6,6 +6,8 @@ layout: post
 slug: wox-blox-issue-4-developer-news
 title: 'WoX-BloX Issue #4: Developer news'
 wordpress_id: 2525
+aliases:
+- /2012/06/wox-blox-issue-4-developer-news
 ---
 
 Welcome to the 4th issue of Wox-BloX! It's been a while since we gave word about the project, but fear not, it's not because we didn't do anything remarkable or have been resting on our laurels! 

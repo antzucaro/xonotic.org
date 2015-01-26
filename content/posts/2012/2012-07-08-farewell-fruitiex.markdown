@@ -11,6 +11,8 @@ categories:
 tags:
 - fruitiex
 - military
+aliases:
+- /2012/07/farewell-fruitiex
 ---
 
 Team Xonotic would like to wish the best of luck to fellow developer **FruitieX**, who will tomorrow join the Finnish Defence Forces for a year of training. 

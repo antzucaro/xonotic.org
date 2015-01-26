@@ -13,6 +13,8 @@ tags:
 - movement
 - newbie
 - tutorial
+aliases:
+- /2012/11/halogenes-newbie-corner-part-3-ramp-jumping
 ---
 
 ![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)

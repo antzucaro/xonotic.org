@@ -13,6 +13,8 @@ tags:
 - elo
 - rank
 - xonstat
+aliases:
+- /2012/07/much-ado-about-elo
 ---
 
 I’ve had several players ask me about how the ranking system for XonStat works. This is my humble attempt to do so. If you have any particular questions that aren’t answered here, ping me in the Xonotic IRC or forums and I’ll try to answer it. If the wind is blowing in a favorable direction, I might also update this very post.

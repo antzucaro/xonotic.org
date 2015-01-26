@@ -14,6 +14,8 @@ tags:
 - rank
 - scorefactor
 - xonstat
+aliases:
+- /2012/08/much-ado-about-elo-part-deux
 ---
 
 It has been about two weeks since I talked initially about our Elo ranking system. How time flies! As that time has passed, I've collected lots of valuable feedback both from players as well as my fellow developers, and I'm very excited to tell you about some further tweaks I've made to the algorithm. There are two relatively big changes: one dealing with non-duel game modes, and another dealing with how S is calculated in the original formula. I'll talk about the ranking changes to the various game modes first.
