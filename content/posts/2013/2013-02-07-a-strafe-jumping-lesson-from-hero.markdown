@@ -11,6 +11,8 @@ categories:
 tags:
 - cts
 - strafe
+aliases
+- /2013/02/a-strafe-jumping-lesson-from-hero
 ---
 
 Community member [Hero](http://forums.xonotic.org/member.php?action=profile&uid=2859), of the Profound Velocity clan, has released a new video detailing exactly how to strafe-jump. Learn to master this technique and you'll be flying around maps before you know it. Enjoy the video, and thank you Hero for making it!

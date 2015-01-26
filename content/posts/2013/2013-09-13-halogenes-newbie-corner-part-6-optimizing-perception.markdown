@@ -12,6 +12,8 @@ tags:
 - crosshairs
 - newbie
 - tutorial
+aliases:
+- /2013/09/halogenes-newbie-corner-part-6-optimizing-perception
 ---
 
 ![Newbie Corner Banner](/m/uploads/2012/09/Halogenes-newbiecorner.png)

@@ -6,6 +6,8 @@ layout: post
 slug: about-xonotic-and-steam
 title: About Xonotic and Steam
 wordpress_id: 3542
+aliases:
+- /2013/10/about-xonotic-and-steam
 ---
 
 In the past couple of months bringing Xonotic to Valve's digital distribution platform [Steam](http://store.steampowered.com) was a very hot topic. We got numerous questions if we'd like to start the [Greenlight](http://steamcommunity.com/greenlight) procedure, and if yes, when, and why it's not happening right now. With this blog post, we'd like to answer those questions, and also try to disperse the fog of doubts and half-truths and misconceptions.

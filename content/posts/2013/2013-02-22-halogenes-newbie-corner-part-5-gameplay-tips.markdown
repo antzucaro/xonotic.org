@@ -10,6 +10,8 @@ tags:
 - gameplay
 - newbie
 - tutorial
+aliases
+- /2013/02/halogenes-newbie-corner-part-5-gameplay-tips
 ---
 
 [![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)](http://www.xonotic.org/2012/10/halogenes-newbie-corner-part-2-laser-jumping-and-wall-lasering-2/newbie-corner-banner2-800x239/)

@@ -9,6 +9,8 @@ wordpress_id: 3280
 tags:
 - fragmovie
 - video
+aliases:
+- /2013/02/xonotic-fragmovie-trevnacho-2013
 ---
 
 Ladies and gentlemen,  let me present you a new Xonotic fragmovie by [[0]](http://stats.xonotic.org/player/716)[Trev&Nacho](http://stats.xonotic.org/player/716)!

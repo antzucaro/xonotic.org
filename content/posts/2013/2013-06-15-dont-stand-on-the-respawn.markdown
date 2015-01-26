@@ -11,6 +11,8 @@ categories:
 tags:
 - cts
 - race
+aliases:
+- /2013/06/dont-stand-on-the-respawn
 ---
 
 Shortly before the release of 0.7 community member [Lady*D](http://forums.xonotic.org/member.php?action=profile&uid=3846) released her latest movie. It's called "Don't Stand on the Respawn" and it features some of our CTS community's fastest players.

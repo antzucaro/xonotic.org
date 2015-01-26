@@ -8,6 +8,8 @@ title: Xonotic 0.7 Release
 wordpress_id: 3373
 categories:
 - Announcements
+aliases
+- /2013/06/xonotic-0-7-release
 ---
 
 We're very happy to announce our next official release of Xonotic! **Xonotic version 0.7** is a massive step forward for the project. We've changed our team structure to bring in new development talent, and the result is a better platform on which to work. We've also been pushing hard development-wise since the last release, refining the game into something that we can all love. We have a staggering amount of changes since 0.6 aimed at both casual and competitive gamers. We're very proud of what we've achieved in collaboration with our active, diverse community. We hope you enjoy it too!
