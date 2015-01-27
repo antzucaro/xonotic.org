@@ -10,6 +10,8 @@ categories:
 - Announcements
 tags:
 - news
+aliases:
+- /2010/03/welcome-to-xonotic
 ---
 
 We would like to formally announce the arrival of [Xonotic](http://www.xonotic.org) - A free (GPL), fast-paced first-person shooter that works on Microsoft Windows, Mac OSX and Linux. Xonotic is a direct successor of the [Nexuiz Project](http://alientrap.org/nexuiz).

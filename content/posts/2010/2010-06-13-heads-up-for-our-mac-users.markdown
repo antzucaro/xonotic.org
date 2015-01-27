@@ -6,6 +6,8 @@ layout: post
 slug: heads-up-for-our-mac-users
 title: Heads up for our Mac users
 wordpress_id: 275
+aliases:
+- /2010/06/heads-up-for-our-mac-users
 ---
 
 In the past few weeks I've been taking a stab at all the Mac specific stuff for Xonotic. Most of these changes will probably go unnoticed for the majority of our players, but for the sake of documentation I will post some details about what I've done.

@@ -8,6 +8,8 @@ title: First development update - There's a lot to mention
 wordpress_id: 156
 categories:
 - Development
+aliases:
+- /2010/05/first-development-update-theres-a-lot-to-mention
 ---
 
 ### Intro

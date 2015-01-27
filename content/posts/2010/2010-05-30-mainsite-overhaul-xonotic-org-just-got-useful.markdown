@@ -11,6 +11,8 @@ categories:
 - Development
 - Organization
 - Web Development
+aliases:
+- /2010/05/mainsite-overhaul-xonotic-org-just-got-useful
 ---
 
 Many of you have noticed that the main site has been stagnant recently.  This has probably left many of you thinking the project is dead if you haven't been lurking around IRC (#xonotic on irc.quakenet.org / irc.freenode.net), [dev.xonotic.org](http://dev.xonotic.org), [git.xonotic.org](http://git.xonotic.org) or [forums.xonotic.org](http://forums.xonotic.org).  It's far from it and we're aiming to get that sort of news out to the public in a more streamlined fashion.

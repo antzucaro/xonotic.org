@@ -14,6 +14,8 @@ tags:
 - hud
 - maps
 - models
+aliases:
+- /2010/12/xonotic-0-1-preview-released
 ---
 
 Today is an exciting day for us, as we are proud to bring you the first preview of Xonotic! There is a lot to tell, but since this release has already grown to a whopping 1.3GB - we will provide you with a download link right away. Please continue reading while it downloads. :-)

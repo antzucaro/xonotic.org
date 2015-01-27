@@ -14,6 +14,8 @@ tags:
 - coordinators
 - FOSS
 - information
+aliases:
+- /2010/06/the-organizational-structure-of-xonotic
 ---
 
 ### Introduction
