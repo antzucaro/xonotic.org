@@ -8,6 +8,8 @@ title: Deathmatchers - The Movie
 wordpress_id: 1313
 categories:
 - Announcements
+aliases:
+- /2011/11/deathmatchers-the-movie
 ---
 
 We all knew this day would once come. We've been waiting for years, read numerous forum posts about it. Some gave up during the struggle, but others held their ground. However now... the wait is over...

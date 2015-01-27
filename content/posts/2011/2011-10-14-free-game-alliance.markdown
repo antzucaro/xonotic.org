@@ -9,6 +9,8 @@ wordpress_id: 1210
 categories:
 - Announcements
 - Team Xonotic
+aliases:
+- /2011/10/free-game-alliance
 ---
 
 Hey everyone, just a quick update here:

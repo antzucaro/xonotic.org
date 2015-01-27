@@ -15,6 +15,8 @@ tags:
 - development
 - feedback
 - update
+aliases:
+- /2011/03/happy-first-anniversary
 ---
 
 Many of you may not know this, but...

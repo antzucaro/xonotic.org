@@ -8,6 +8,8 @@ title: Xonotic videos roundup
 wordpress_id: 1886
 categories:
 - Community
+aliases:
+- /2011/12/xonotic-videos-roundup
 ---
 
 It seems our community really caught the gameplay video bug! I'm happy to present you with more than 3 hours of action-packed Xonotic movies! WOW! Move your most comfy armchair in front of your PC, gather up some nachos, pop some corn, and have fun watching these videos!

@@ -11,6 +11,8 @@ categories:
 tags:
 - help us
 - survey
+aliases:
+- /2011/01/help-make-xonotic-better-take-our-survey
 ---
 
 It's been one month tomorrow since the release of Xonotic 0.1preview.  This should be enough time for us to gain some valuable feedback about this early release.  Whether you're a developer, a player or just someone interested in Xonotic.  Please take the time to fill out [this survey](http://www.xonotic.org/survey/) to help us learn more about our community and the wants/needs, likes/dislikes of our user-base.

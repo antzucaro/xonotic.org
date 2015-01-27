@@ -15,6 +15,8 @@ tags:
 - trout
 - tutorial
 - video
+aliases:
+- /2011/06/shotgun-tutorial
 ---
 
 We're very happy to release the first in our series of video weapon tutorials! This week we'll learn how to make good use of the shotgun and its melee capability:

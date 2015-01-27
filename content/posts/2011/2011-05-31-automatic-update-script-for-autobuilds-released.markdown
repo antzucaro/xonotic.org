@@ -16,6 +16,8 @@ tags:
 - mac
 - update script
 - windows
+aliases:
+- /2011/05/automatic-update-script-for-autobuilds-released
 ---
 
 Those of you wanting to stay current with the latest Xonotic builds now have a new option – an [automatic update script](http://rm.rm.rm-f.org/~xonotic/xonotic-autobuild-downloader.zip) for downloading autobuilds! Released just yesterday [by divVerent](http://forums.xonotic.org/showthread.php?tid=1863&pid=25681#pid25681), this script uses rsync to download only the files you need to keep current. This will save you (and the project, of course) a bunch of bandwidth.

@@ -8,6 +8,8 @@ title: Xonotic 1v1 Tourney semi finals!
 wordpress_id: 1854
 categories:
 - Announcements
+aliases:
+- /2011/12/xonotic-1v1-tourney-semi-finals
 ---
 
 As you probably already know, [BOT] clan organised an online 1v1 tournament in the beginning of the fall, and the matches are coming along very nicely! The tournament has already progressed to the brackets of the semi finals with:

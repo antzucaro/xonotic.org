@@ -9,6 +9,8 @@ wordpress_id: 1645
 tags:
 - tournament
 - video
+aliases:
+- /2011/11/xonotic-duel-commentary-by-antibody
 ---
 
 Hello folks!

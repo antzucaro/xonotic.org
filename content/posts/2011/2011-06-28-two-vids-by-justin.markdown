@@ -12,6 +12,8 @@ tags:
 - ctf
 - justin
 - movement
+aliases:
+- /2011/06/two-vids-by-justin
 ---
 
 Here are two fantastic videos by community member Justin that highlight exactly what one can do with Xonotic's default physics.

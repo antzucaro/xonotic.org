@@ -8,6 +8,8 @@ title: Xonotic 1v1 tournament by [BOT]
 wordpress_id: 1264
 categories:
 - Announcements
+aliases:
+- /2011/10/xonotic-1v1-tournament-by-bot
 ---
 
 Yo!

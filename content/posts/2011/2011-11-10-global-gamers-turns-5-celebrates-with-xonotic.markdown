@@ -8,6 +8,8 @@ title: Global Gamers turns 5, celebrates with Xonotic!
 wordpress_id: 1498
 categories:
 - Announcements
+aliases:
+- /2011/11/global-gamers-turns-5-celebrates-with-xonotic
 ---
 
 [![](/m/uploads/2011/11/gg-logo.jpg)](http://www.globalgamers.net)

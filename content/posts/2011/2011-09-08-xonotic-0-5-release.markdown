@@ -9,6 +9,8 @@ wordpress_id: 953
 categories:
 - Announcements
 - Development
+aliases:
+- /2011/09/xonotic-0-5-release
 ---
 
 Today we can bring you some great news, a brand new release of Xonotic! It has been quite a while since the 0.1 preview version, but we have made immense progress over the last few months. In this blog post we'll be showing off the latest improvements and tell you about the changes we made from the feedback we had after the initial release.

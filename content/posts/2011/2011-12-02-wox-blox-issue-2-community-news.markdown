@@ -6,6 +6,8 @@ layout: post
 slug: wox-blox-issue-2-community-news
 title: 'WoX-BloX Issue #2 - Community news'
 wordpress_id: 1608
+aliases:
+- /2011/12/wox-blox-issue-2-community-news
 ---
 
 Heyya folks!

@@ -13,6 +13,8 @@ categories:
 tags:
 - development
 - news
+aliases:
+- /2011/10/good-news-everyone
 ---
 
 Hello all!

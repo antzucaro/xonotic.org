@@ -8,6 +8,8 @@ title: 'WoX-BloX Issue #1 - Developer news'
 wordpress_id: 1346
 categories:
 - Development
+aliases:
+- /2011/11/wox-blox-issue-1-developer-news
 ---
 
 [
