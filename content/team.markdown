@@ -2,7 +2,7 @@
 author: admin
 comments: false
 date: 2010-05-30 15:09:26+00:00
-layout: page
+type: page
 slug: team
 title: Team Xonotic
 wordpress_id: 97
