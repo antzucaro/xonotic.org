@@ -10,7 +10,7 @@ tags:
 - gameplay
 - newbie
 - tutorial
-aliases
+aliases:
 - /2013/02/halogenes-newbie-corner-part-5-gameplay-tips
 ---
 

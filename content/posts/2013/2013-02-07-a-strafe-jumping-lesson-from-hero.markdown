@@ -11,7 +11,7 @@ categories:
 tags:
 - cts
 - strafe
-aliases
+aliases:
 - /2013/02/a-strafe-jumping-lesson-from-hero
 ---
 

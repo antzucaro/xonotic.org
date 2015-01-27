@@ -8,7 +8,7 @@ title: Xonotic 0.7 Release
 wordpress_id: 3373
 categories:
 - Announcements
-aliases
+aliases:
 - /2013/06/xonotic-0-7-release
 ---
 
