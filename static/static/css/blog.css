@@ -134,6 +134,7 @@ body > section > a.button.alert {
 .th {
   border-color: #0E0E0E;
 }
+.m10 { margin: 10px; }
 
 /* Post date */
 .post-date {
