@@ -83,9 +83,12 @@ body > section.pad {
 }
 
 /* Main section */
-body > section > a.button.alert {
-  box-shadow: 0px 0.1em 0px rgba(255, 255, 255, 0.1) inset, 0px -0.15em 0px rgba(0, 0, 0, 0.2) inset, 0px 0.15em 0px rgba(0, 0, 0, 0.075);
+#download-button {
   margin: 3rem;
+}
+
+#download-button > a.button {
+  box-shadow: 0px 0.1em 0px rgba(255, 255, 255, 0.1) inset, 0px -0.15em 0px rgba(0, 0, 0, 0.2) inset, 0px 0.15em 0px rgba(0, 0, 0, 0.075);
 }
 
 /* Section Backgrounds */
