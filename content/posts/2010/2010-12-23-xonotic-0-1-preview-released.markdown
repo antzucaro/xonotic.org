@@ -111,4 +111,4 @@ Additionally we have added optional AES encryption support, which allows clients
 
 We hope you will enjoy playing this game as much as we enjoyed making it. Please spread the word about the release, and let us know how you like this preview. Bug reports can go to the development tracker, and discussion can be done on the forums or on irc. You can find us in #xonotic on QuakeNet for discussion, the same channel on freenode is meant for development related chat. Happy fragging.
 
-You can find additional media, including advertisements on the [media pages](http://www.xonotic.org/media/) (check the menu for subpages) to help spread news and support Xonotic.
+You can find additional media, including advertisements on the [media pages](/media) (check the menu for subpages) to help spread news and support Xonotic.
