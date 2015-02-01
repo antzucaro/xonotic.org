@@ -2,5 +2,5 @@
 indexes:
   category: "categories"
   tag: "tags"
-baseurl: "http://xonotic.antzucaro.com/"
+baseurl: "http://xonotic.org/"
 ---
