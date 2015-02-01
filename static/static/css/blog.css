@@ -203,6 +203,7 @@ code {
 /* Footer */
 #footer {
   background: linear-gradient( rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.2) 95% );
+  font-family: sans-serif;
   font-style: italic;
   margin: 15px 0px 0px 0px;
   padding-top: 5px;
@@ -212,4 +213,9 @@ code {
   color: white;
   margin-bottom: 0.5rem;
   text-align: center;
+}
+#footer ul {
+  font-size: 1rem;
+  list-style: none;
+  margin-left: 0;
 }
