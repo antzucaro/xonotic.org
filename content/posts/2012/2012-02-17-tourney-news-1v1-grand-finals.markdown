@@ -42,4 +42,4 @@ The first Xonotic 1v1 online tournament ends on **Sunday 19.02.2012 20:00 CET**,
 
 GL & HF for **fisume** and **PCLizard**!
 
- [![Be sure to pop some corn and join the fun @ Sunday 19.02.2012 20:00 CET!](/m/uploads/2012/02/grand_tourney-500x375.jpg)](http://www.xonotic.org/2012/02/tourney-news-1v1-grand-finals/grand_tourney/)
+ [![Be sure to pop some corn and join the fun @ Sunday 19.02.2012 20:00 CET!](/m/uploads/2012/02/grand_tourney-500x375.jpg)](/m/uploads/2012/02/grand_tourney.jpg)

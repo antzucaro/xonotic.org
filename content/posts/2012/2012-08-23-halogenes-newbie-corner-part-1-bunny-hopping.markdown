@@ -19,9 +19,6 @@ aliases:
 
 _This is a guest post from our good friend [Halogene](http://forums.xonotic.org/member.php?action=profile&uid=53), an experienced Xonotic player and all-around good guy._
 
-  
-  
-
 Hello everyone that's new to Xonotic and maybe even new to fast-paced first person shooters in general! In this very first chapter of my newbie tips I'll be showing you an important movement technique called “bunny hopping.“
 
 You may have noticed that players race around the maps at insane speeds, making them hard to hit and also hard to tell from which direction they'll come next, should you survive an attack. You can do that too, and this post will tell you how.

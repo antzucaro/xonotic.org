@@ -20,7 +20,7 @@ A couple of days ago Apple has presented their latest version of Mac OS X: Mount
 
 For users downloading a fresh copy of Xonotic from our website, they will get an error when trying to start the game for the first time. The error looks like this:
 
-[![](/m/uploads/2012/07/Screen-Shot-2012-07-29-at-7.21.43-PM.png)](http://www.xonotic.org/2012/07/heads-up-for-osx-mountain-lion-users/screen-shot-2012-07-29-at-7-21-43-pm/)
+[![](/m/uploads/2012/07/Screen-Shot-2012-07-29-at-7.21.43-PM.png)](/m/uploads/2012/07/screen-shot-2012-07-29-at-7-21-43-pm.jpg)
 
 This is the new Gatekeeper verifying downloads when starting them for the **first time**. The simple solution is to right-click the Xonotic application, and select 'Open' - you will now be presented with a window where you can choose to specifically trust the Xonotic application (yes, you can trust us ;-). After doing this once, you can simply start the application the next time by clicking it directly.
 
