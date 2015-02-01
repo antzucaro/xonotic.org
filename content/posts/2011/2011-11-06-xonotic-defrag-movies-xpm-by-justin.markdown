@@ -16,7 +16,7 @@ aliases:
 - /2011/11/xonotic-defrag-movies-xpm-by-justin
 ---
 
-One couldn't say that Justin has been resting on his laurels since the release of his [previous Xonotic defrag movies](http://www.xonotic.org/2011/06/two-vids-by-justin/). He's now back with another visual masterpiece in the arts of bunnyhopping and strafejumping, with the musical tracks of Chooksta:
+One couldn't say that Justin has been resting on his laurels since the release of his [previous Xonotic defrag movies](/posts/2011/two-vids-by-justin/). He's now back with another visual masterpiece in the arts of bunnyhopping and strafejumping, with the musical tracks of Chooksta:
 
 ## Xonotic Defrag Movie
 

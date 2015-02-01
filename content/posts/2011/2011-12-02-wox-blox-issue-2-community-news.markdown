@@ -7,7 +7,7 @@ slug: wox-blox-issue-2-community-news
 title: 'WoX-BloX Issue #2 - Community news'
 wordpress_id: 1608
 aliases:
-- /2011/12/wox-blox-issue-2-community-news
+- /2011/11/wox-blox-issue-2-community-news
 ---
 
 Heyya folks!
@@ -18,7 +18,7 @@ Welcome back reading WoX-BloX! For those who are still not familiar what this is
 
 [![](/m/uploads/2011/11/gg-logo.jpg)](http://www.globalgamers.net/)
 
-As you could read in [a previous blog post](http://www.xonotic.org/2011/11/global-gamers-turns-5-celebrates-with-xonotic/), 11/11/11, Global Gamers officially turned 5 years old! Global Gamers is an IRC network formed on a simple concept: gaming should be fun! To promote that fun they host multiple game servers for classics like Quake2 as well as cutting-edge hits like BF3, and of course, Xonotic! On 12th November as a part of their celebrational events they held a four-match Xonotic free-for-all contest. The matches for the contest were a blast, with participants from AU, US and EU too!
+As you could read in [a previous blog post](/posts/2011/global-gamers-turns-5-celebrates-with-xonotic/), 11/11/11, Global Gamers officially turned 5 years old! Global Gamers is an IRC network formed on a simple concept: gaming should be fun! To promote that fun they host multiple game servers for classics like Quake2 as well as cutting-edge hits like BF3, and of course, Xonotic! On 12th November as a part of their celebrational events they held a four-match Xonotic free-for-all contest. The matches for the contest were a blast, with participants from AU, US and EU too!
 The first three winners were:
 
 1. fisume^ (459 points)
@@ -40,7 +40,7 @@ If you'd like to follow and spectate the matches, don't forget to join [the xono
 
 **The Race Challenge** is a very unique monthly community contest organised by **Cortez**. As the name suggests, the participants have to try to beat eachother and the clock in "race" game mode: they have to run through checkpoints on maps as fast as possible. The first challenge was held in February and ever since then Cortez has announced it every month, providing a great deal of entertainment for the players. November's announced challenge was** Speedy-Lane** by **FruitieX** and **Cortez**.
 
-[![Speedy-Lane by FruitieX and Cortez](/m/uploads/2011/11/6r3e56kceotjiob153b5-500x400.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/6r3e56kceotjiob153b5/)
+[![Speedy-Lane by FruitieX and Cortez](/m/uploads/2011/11/6r3e56kceotjiob153b5-500x400.jpg)](/m/uploads/2011/11/6r3e56kceotjiob153b5.jpg)
 
 The challenge attracted many players in November too: **Mirio, Leeloo, Justin, kunio the frogg, sev, Halogene, It'sMe, Sless, Grunt, nowego4, Dissolves, nifrek, **and** Soelen**. Soelen has also recorded a Youtube video that shows his _mad trickjumping skillz_, and how he beat the map with in just 13:37 seconds with the help of some imaginary friends ;) (WARNING! Video is slightly **NSFW**, and features harsh language).
 
@@ -67,7 +67,7 @@ As usual, Cortez has already announced the challenge for December, this time wit
 
 Don't forget to post your times at the [official Xonotic forum](http://forums.xonotic.org/showthread.php?tid=2384)!
 
-[![Stormkeeprace](/m/uploads/2011/12/stormkeeprace-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/stormkeeprace/) [![Warfarerace](/m/uploads/2011/12/warfarerace-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/warfarerace/) [![Slalom](/m/uploads/2011/12/slalom-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/slalom/) [![Streetrace](/m/uploads/2011/12/streetrace-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/streetrace/) [![Darkzonerace](/m/uploads/2011/12/darkzonerace-200x200.jpg) ](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/darkzonerace/)
+[![Stormkeeprace](/m/uploads/2011/11/stormkeeprace-200x200.jpg)](/m/uploads/2011/11/stormkeeprace.jpg) [![Warfarerace](/m/uploads/2011/11/warfarerace-200x200.jpg)](/m/uploads/2011/11/warfarerace.jpg) [![Slalom](/m/uploads/2011/11/slalom-200x200.jpg)](/m/uploads/2011/11/slalom.jpg) [![Streetrace](/m/uploads/2011/11/streetrace-200x200.jpg)](/m/uploads/2011/11/streetrace.jpg) [![Darkzonerace](/m/uploads/2011/11/darkzonerace-200x200.jpg) ](/m/uploads/2011/11/darkzonerace.jpg)
 
 ### Nexball mapping contest
 
@@ -86,7 +86,7 @@ Deadline: 2nd January 2012  23:59 GMT +1
 
 There are already some submission, but keep up those maps coming folks, this tourney will be a great fun! To get you inspired, here are some screenshots, that were submitted by** Morphed**, **nowego4** and **forseti:**
 
-**[![Morphed's Mayaball](/m/uploads/2011/11/g3tho16lqupuplhyfvu-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/g3tho16lqupuplhyfvu/)[![nowego4's SWAT-SD](/m/uploads/2011/11/de8fvb3w3i3gdt5gh1-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/de8fvb3w3i3gdt5gh1/)[![forseti's submission](/m/uploads/2011/11/vh3oopu0olb5g1taarma-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/vh3oopu0olb5g1taarma/)**
+**[![Morphed's Mayaball](/m/uploads/2011/11/g3tho16lqupuplhyfvu-200x200.jpg)](/m/uploads/2011/11/g3tho16lqupuplhyfvu.jpg)[![nowego4's SWAT-SD](/m/uploads/2011/11/de8fvb3w3i3gdt5gh1-200x200.jpg)](/m/uploads/2011/11/de8fvb3w3i3gdt5gh1.jpg)[![forseti's submission](/m/uploads/2011/11/vh3oopu0olb5g1taarma-200x200.jpg)](/m/uploads/2011/11/vh3oopu0olb5g1taarma.jpg)**
 
 If you have any questions regarding Nexball mapping, feel free to ask on [the contest's thread on the forum](http://forums.xonotic.org/showthread.php?tid=2280), or join [#xonotic.editing @ irc.quakenet.org](irc://irc.quakenet.org/xonotic.editing) on IRC.
 
@@ -104,33 +104,33 @@ You can get the latest version (v3 by the time of posting the blog) of the model
 **WIP weapon models**
 Though they're still early and a work in progress, I shall advise you all to keep a close eye on **anark10n**'s weapon models. Early screenshots, but to be honest, I'd realy like to see some of these badass tools of destruction sometime ingame too! Keep up the good work!
 
-[!["Energy gun" by anark10n](/m/uploads/2011/11/energy_gun_side-200x200.png)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/energy_gun_side/)[!["Energy gun" by anark10n](/m/uploads/2011/11/energy_gun_front-200x200.png)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/energy_gun_front/)[!["Energy gun" by anark10n](/m/uploads/2011/11/energy_gun_fps-200x200.png)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/energy_gun_fps/)
+[!["Energy gun" by anark10n](/m/uploads/2011/11/energy_gun_side-200x200.png)](/m/uploads/2011/11/energy_gun_side.png)[!["Energy gun" by anark10n](/m/uploads/2011/11/energy_gun_front-200x200.png)](/m/uploads/2011/11/energy_gun_front.png)[!["Energy gun" by anark10n](/m/uploads/2011/11/energy_gun_fps-200x200.png)](/m/uploads/2011/11/energy_gun_fps.png)
 
-[!["Shotgun 2" by anark10n](/m/uploads/2011/11/shotgun_02_side-200x200.png)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/shotgun_02_side/)[!["Shotgun 2" by anark10n](/m/uploads/2011/11/shotgun_02_front-200x200.png)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/shotgun_02_front/)[!["Shotgun 2" by anark10n](/m/uploads/2011/11/shotgun_02_fps-200x200.png)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/shotgun_02_fps/)
+[!["Shotgun 2" by anark10n](/m/uploads/2011/11/shotgun_02_side-200x200.png)](/m/uploads/2011/11/shotgun_02_side.png)[!["Shotgun 2" by anark10n](/m/uploads/2011/11/shotgun_02_front-200x200.png)](/m/uploads/2011/11/shotgun_02_front.png)[!["Shotgun 2" by anark10n](/m/uploads/2011/11/shotgun_02_fps-200x200.png)](/m/uploads/2011/11/shotgun_02_fps.png)
 
 You can see even more of anark10n's work in his post of the [Screenshots of what you're doing](http://forums.xonotic.org/showthread.php?tid=69&pid=31840#pid31840) thread on the forum.
 
 **Remake of "Bleach" map**
 On mapping grounds **Cortez** is at it again (from where the hell does this guy get all his energy and free time anyway :D), with a retexturing project of a well known good old Nexuiz map **Bleach** with the _exomorph_ texture set.
 
-[![Bleach retextured by Cortez #1](/m/uploads/2011/11/exo1-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/exo1/)[![Bleach retextured by Cortez #2](/m/uploads/2011/11/exo2-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/exo2/)[![Bleach retextured by Cortez #3](/m/uploads/2011/11/exo3-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/exo3/)[![Bleach retextured by Cortez #4](/m/uploads/2011/11/exo4-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/exo4/)
+[![Bleach retextured by Cortez #1](/m/uploads/2011/11/exo1-200x200.jpg)](/m/uploads/2011/11/exo1.jpg)[![Bleach retextured by Cortez #2](/m/uploads/2011/11/exo2-200x200.jpg)](/m/uploads/2011/11/exo2.jpg)[![Bleach retextured by Cortez #3](/m/uploads/2011/11/exo3-200x200.jpg)](/m/uploads/2011/11/exo3.jpg)[![Bleach retextured by Cortez #4](/m/uploads/2011/11/exo4-200x200.jpg)](/m/uploads/2011/11/exo4.jpg)
 
 **Remake of "Aggressor" map**
 Another classic map we all know and love named **Aggressor** is being remade by **nifrek** here with the new exomorph texture pack by Morphed, giving this map a fresh new style while keeping the same great gameplay. Currently of course it's still a work in progress, but it looks very promising... to check it out yourself, visit the [map autobuild server](http://beta.xonotic.org/autobuild-bsp/) and download the latest "aggressorx" build today!
 
-[![](/m/uploads/2011/12/aggressorx-500x375.jpg)](/m/uploads/2011/12/aggressorx.jpg)
+[![](/m/uploads/2011/11/aggressorx-500x375.jpg)](/m/uploads/2011/11/aggressorx.jpg)
 
 **New CTF map work in progress**
 It seems when **Justin** is not zooming back and forth with bunny hops on race maps, he likes to try out his skills in brush building also, and I have to say, he has some talent there too!
 
-[![Justin's WIP map #1](/m/uploads/2011/11/justin-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/justin/)[![Justin's WIP map #2](/m/uploads/2011/11/justin2-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/justin2/)
+[![Justin's WIP map #1](/m/uploads/2011/11/justin-200x200.jpg)](/m/uploads/2011/11/justin.jpg)[![Justin's WIP map #2](/m/uploads/2011/11/justin2-200x200.jpg)](/m/uploads/2011/11/justin2.jpg)
 
 **New DM map "Quad Generator"**
 If you've ever wondered, where do Strenght items come from, **Leeloo** gives you the answer: they are of course produced in the **Quad Generator** facility! I realy dig the visuals and the overall feel of this map, very great job, you should download it and give it a try! The map is still WIP, but it's in a very playable condition. If you've found a bug, or you have some suggestions for Leeloo how he can even further improve the map, don't be shy to post about it in [the map's thread on the forum](http://forums.xonotic.org/showthread.php?tid=2231)!
 
-[![The Quad Generator by Leeloo #1](/m/uploads/2011/12/xonotic000489-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/xonotic000489/)[![The Quad Generator by Leeloo #2](/m/uploads/2011/12/xonotic000486-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/xonotic000486/)[![The Quad Generator by Leeloo #3](/m/uploads/2011/12/xonotic000490-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/xonotic000490/)
+[![The Quad Generator by Leeloo #1](/m/uploads/2011/11/xonotic000489-200x200.jpg)](/m/uploads/2011/11/xonotic000489.jpg)[![The Quad Generator by Leeloo #2](/m/uploads/2011/11/xonotic000486-200x200.jpg)](/m/uploads/2011/11/xonotic000486.jpg)[![The Quad Generator by Leeloo #3](/m/uploads/2011/11/xonotic000490-200x200.jpg)](/m/uploads/2011/11/xonotic000490.jpg)
 
-[![The Quad Generator by Leeloo #4](/m/uploads/2011/12/xonotic000491-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/xonotic000491/)[![The Quad Generator by Leeloo #5](/m/uploads/2011/12/xonotic000492-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/xonotic000492/)
+[![The Quad Generator by Leeloo #4](/m/uploads/2011/11/xonotic000491-200x200.jpg)](/m/uploads/2011/11/xonotic000491.jpg)[![The Quad Generator by Leeloo #5](/m/uploads/2011/11/xonotic000492-200x200.jpg)](/m/uploads/2011/11/xonotic000492.jpg)
 
 **Strange new DM map "Hyperspace"**
 Do you like warpzones? **ThePWTULN** sure does, and his new map named **Hyperspace** does have a few of them. This stylish deathmatch map aims to have simple, yet stunning TRON-esque visuals, and features interesting non-euclidean map geometry.
@@ -142,7 +142,7 @@ Hyperspace is still in BETA stage, but feel free to [download](http://ompldr.org
 **Another strange new map "Geodasic"**
 Last, but not least, **Nodenum** has created a very interesting experimental map called **Geodasic**. The speciality of the map is that as it's creator tells it was **fully generated with experimental C++ code entirely!** The map is a single big geodesic sphere filled with jump pads and some weapons. Seems like Sierpinski finally got it's successor... ;) You can download the map [here](http://xwmw.org/xonotic_maps/packages/geodesic.pk3), and if you liked it, or you have to comment to add, shout it out at [Geodasic's forum thread](http://forums.xonotic.org/showthread.php?tid=2330).
 
-[![Geodasic by Nodenum #1](/m/uploads/2011/12/xonotic000480-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/xonotic000480/)[![Geodasic by Nodenum #2](/m/uploads/2011/12/xonotic000482-200x200.jpg)](http://www.xonotic.org/2011/12/wox-blox-issue-2-community-news/xonotic000482/)
+[![Geodasic by Nodenum #1](/m/uploads/2011/11/xonotic000480-200x200.jpg)](/m/uploads/2011/11/xonotic000480.jpg)[![Geodasic by Nodenum #2](/m/uploads/2011/11/xonotic000482-200x200.jpg)](/m/uploads/2011/11/xonotic000482.jpg)
 
 **Voice acting by bitbomb**
 Prepare your eardrums folks, 'cause **bitbomb** is here with some announcer and character voices! Stepping out of nowhere, bitbomb's first forum post ever was offering his help and showing his great work of proposed character taunts and some realy booming annoucer voices - now that's what I call giving a good first impression of yourself :D You can listen to his work of [announcer sounds](http://forums.xonotic.org/showthread.php?tid=2313) and [character taunts](http://forums.xonotic.org/showthread.php?tid=2314) on the forum, and while at it, please give him some feedback too. ;)

@@ -105,6 +105,6 @@ In the bigger picture, as a descendant of Nexuiz, we are raising the standard fo
 
 Please spread the word about this release, and let us know any feedback you have about the game. Take a look at the media page for Xonotic content (such as banners, screenshots, videos) for advertising and support.
 
-You can also [report a bug](http://dev.xonotic.org/projects/xonotic/issues/new) by going to the Redmine [Development Tracker](http://dev.xonotic.org) (Development > Report Bug), and join us in discussion on the [Forums](http://forums.xonotic.org) (Community > Forums) or on IRC via #xonotic on [irc.quakenet.org](irc://irc.quakenet.org/xonotic) or [irc.freenode.org](irc://irc.freenode.org/xonotic).
+You can also [report a bug](#) by going to the Redmine [Development Tracker](#) (Development > Report Bug), and join us in discussion on the [Forums](http://forums.xonotic.org) (Community > Forums) or on IRC via #xonotic on [irc.quakenet.org](irc://irc.quakenet.org/xonotic) or [irc.freenode.org](irc://irc.freenode.org/xonotic).
 
 Happy fragging. ;)

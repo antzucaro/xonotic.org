@@ -12,10 +12,9 @@ aliases:
 - /2011/11/wox-blox-issue-1-developer-news
 ---
 
-[
-](http://www.xonotic.org/?attachment_id=1350)Hello folks!
+Hello folks!
 
-So, as we've promised, here's the first real issue of WoX-BloX! For those who've missed the [good news](/posts/2011/good-news-everyone/), WoX-BloX translates to "World of Xonotic - Blogs": an insider developer blog for the masses, so you don't have to mess with reading cryptic [git commit logs](http://git.xonotic.org/), go treasure hunting in the depths of our [forums](http://forums.xonotic.org), or lurk for hours on the  [developers' IRC channel](irc://irc.freenode.net/xonotic) for information morsels to feed your hunger for Xonotic WIP news (however, you're welcomed to do so, if you want :D ).
+So, as we've promised, here's the first real issue of WoX-BloX! For those who've missed the [good news](/posts/2011/good-news-everyone/), WoX-BloX translates to "World of Xonotic - Blogs": an insider developer blog for the masses, so you don't have to mess with reading cryptic [git commit logs](https://gitlab.com/groups/xonotic), go treasure hunting in the depths of our [forums](http://forums.xonotic.org), or lurk for hours on the  [developers' IRC channel](irc://irc.freenode.net/xonotic) for information morsels to feed your hunger for Xonotic WIP news (however, you're welcomed to do so, if you want :D ).
 
 ![What's cookin', Doc?](/m/uploads/2011/11/woxbloxpress-500x375.jpg)
 
@@ -29,9 +28,9 @@ The stats testing system can be found at [http://stats.xonotic.org/](http://stat
 
 Antibody had a lot help along the way. He received wonderful game icons from JayWalker and a theme from -z-. divVerent, Samual, and FruitieX have all helped getting the Xonotic server code up to par with his enhancement requests. Mirio, asyyy, and Mepper have been great at finding bugs and submitting enhancements. Because of their collective efforts we now have a system that captures accuracy and scoreboard data. Kudos to all these great people, thank you very much guys! Below you can see some of the icons currently used in the application contribute by JayWalker:
 
-[![Deathmatch icon made by JayWalker](/m/uploads/2011/11/dm.png)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/dm/)[![Capture the flag icon made by JayWalker](/m/uploads/2011/11/ctf.png)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/ctf/)[![Team Deathmatch icon made by JayWalker](/m/uploads/2011/11/tdm.png)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/tdm/)
+![Deathmatch icon made by JayWalker](/m/uploads/2011/11/dm.png)![Capture the flag icon made by JayWalker](/m/uploads/2011/11/ctf.png)![Team Deathmatch icon made by JayWalker](/m/uploads/2011/11/tdm.png)
 
-[![1v1 icon made by JayWalker](/m/uploads/2011/11/duel.png)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/duel/)[![Last Man Standing icon made by JayWalker](/m/uploads/2011/11/lms.png)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/lms/)[![Freezetag icon made by JayWalker](/m/uploads/2011/11/ft.png)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/ft/)
+![1v1 icon made by JayWalker](/m/uploads/2011/11/duel.png)![Last Man Standing icon made by JayWalker](/m/uploads/2011/11/lms.png)![Freezetag icon made by JayWalker](/m/uploads/2011/11/ft.png)
 
 ### Speaking of statistics...
 
@@ -56,11 +55,11 @@ Ok, are you still with me? Good. But, here comes the problem: light values on yo
 
 Note: The greyish tint is actually due to a bug where the lights don't use the proper color tinting values, this bug was fixed by the time of this post, so pay no attention to it for now and simply look at the lighting/shadowing.
 
-[![G-23 without sRGB render #1](/m/uploads/2011/11/3n-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/3n/) [![G-23 with sRGB render #1](/m/uploads/2011/11/3s-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/3s/)
+[![G-23 without sRGB render #1](/m/uploads/2011/11/3n-200x200.jpg)](/m/uploads/2011/11/3n.jpg) [![G-23 with sRGB render #1](/m/uploads/2011/11/3s-200x200.jpg)](/m/uploads/2011/11/3s.jpg)
 
-[![G-23 without sRGB render #2](/m/uploads/2011/11/4n-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/4n/) [![G-23 with sRGB render #2](/m/uploads/2011/11/4s-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/4s/)
+[![G-23 without sRGB render #2](/m/uploads/2011/11/4n-200x200.jpg)](/m/uploads/2011/11/wox-blox-issue-1-developer-news/4n.jpg) [![G-23 with sRGB render #2](/m/uploads/2011/11/4s-200x200.jpg)](/m/uploads/2011/11/4s.jpg)
 
-[![G-23 without sRGB render #3](/m/uploads/2011/11/5n-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/5n/) [![G-23 with sRGB render #3](/m/uploads/2011/11/5s-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/5s/)
+[![G-23 without sRGB render #3](/m/uploads/2011/11/5n-200x200.jpg)](/m/uploads/2011/11/wox-blox-issue-1-developer-news/5n.jpg) [![G-23 with sRGB render #3](/m/uploads/2011/11/5s-200x200.jpg)](/m/uploads/2011/11/5s.jpg)
 
 This might not get fully in our next release, simply because this is not only an engine change, but maps have to be re-lit too to take full effect (adding more targetted spotlight style ligths instead of floating ones).
 
@@ -79,11 +78,11 @@ Samual ﻿is making the gamecommand system simplier (like "gametype", "cointoss"
 
 The next release will also have a new map to frag your opponents to fleshy gibs: **Lightspeed** by C.Brutail! The map is a small, 1v1 or 2v2 CTF map, that features brutal fast gameplay and the not yet used [facility114 texture set](http://forums.xonotic.org/showthread.php?tid=337) made by Oblivion. It also has randomly triggered sound effects for lightning, a mapping feature divVerent developed on mapper request especially for this map (in fact, randomisation can be used on all triggers, see entity info or the map sources for explanation and details).
 
-[![Red base of Lightspeed](/m/uploads/2011/11/xonotic000460-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/xonotic000460/)[![Blue Base](/m/uploads/2011/11/xonotic000464-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/xonotic000464/)[![Mega health on crossbridge](/m/uploads/2011/11/xonotic000461-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/xonotic000461/)
+[![Red base of Lightspeed](/m/uploads/2011/11/xonotic000460-200x200.jpg)](/m/uploads/2011/11/xonotic000460.jpg)[![Blue Base](/m/uploads/2011/11/xonotic000464-200x200.jpg)](/m/uploads/2011/11/xonotic000464.jpg)[![Mega health on crossbridge](/m/uploads/2011/11/xonotic000461-200x200.jpg)](/m/uploads/2011/11/xonotic000461.jpg)
 
-[![Blue upper hallway](/m/uploads/2011/11/xonotic000463-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/xonotic000463/)[![Red Base hallway](/m/uploads/2011/11/xonotic000465-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/xonotic000465/)[![Blue window](/m/uploads/2011/11/xonotic000462-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/xonotic000462/)
+[![Blue upper hallway](/m/uploads/2011/11/xonotic000463-200x200.jpg)](/m/uploads/2011/11/xonotic000463.jpg)[![Red Base hallway](/m/uploads/2011/11/xonotic000465-200x200.jpg)](/m/uploads/2011/11/xonotic000465.jpg)[![Blue window](/m/uploads/2011/11/xonotic000462-200x200.jpg)](/m/uploads/2011/11/xonotic000462.jpg)
 
-[![Facility 114](/m/uploads/2011/11/xonotic000466-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/xonotic000466/)
+[![Facility 114](/m/uploads/2011/11/xonotic000466-200x200.jpg)](/m/uploads/2011/11/xonotic000466.jpg)
 
 **8-bit Arena** is a multy gamemod map, still in WIP status. The map will support deathmatch, capture the flag, and nexball gamemods. It was built a very unique 8-bit style with retro gaming references, and homages made to a classic and beautiful era of computer history. The map also features a very cool, conceptual eye-candy element: touch sensitive floor tiles! There's still some quite work left to do on the map, but you can always check out the latest version from the [automatic map compile server](http://beta.xonotic.org/autobuild-bsp/?d). For technical details, see and check out the branch:
 [xonotic/xonotic-maps.pk3dir.git/cbrutail/map-8bit_arena](http://git.xonotic.org/?p=xonotic/xonotic-maps.pk3dir.git;a=shortlog;h=refs/heads/cbrutail/map-8bit_arena).
@@ -94,7 +93,7 @@ The next release will also have a new map to frag your opponents to fleshy gibs:
 
 A new **MinstaNex-gun** model is in WIP for a very long time now, but it seems it'll finally see the pretty lights of a heated minsta battle, replacing the ancient "vacuum-cleaner" mocknamed model (that deadly piece of household machinery has been with us since Nexuiz 1.5 or so!). It was modelled by theShadow, and the texturing is currently under work in LJFHutch's master painter hands. You can see the original concept art and the currently done third and first person view of this mighty weaponry on the pictures below:
 
-[![New MinstaNex - Concept art](/m/uploads/2011/11/minstanexb-500x281.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/minstanexb/)
+[![New MinstaNex - Concept art](/m/uploads/2011/11/minstanexb-500x281.jpg)](/m/uploads/2011/11/minstanexb.jpg)
 
 [![](/m/uploads/2011/11/minstanex08-200x200.jpg)](/m/uploads/2011/11/minstanex08.jpg)
 
@@ -118,9 +117,9 @@ Last, but not least, here comes the big bang mutator from the coding master tZor
 Overkill is like Xonotic on steroids (can you imagine that?!):  you only have 3 brutally overpowered weapons - the nex, the shotgun, and the machinegun. All the weapons have infinite ammo, but they have to be reload once in a while. The secondary firemodes of the weapons have been replaced by an offhand laser, pumping up the vertical movement ability to the max. From time to time, you can also pull the pin off of an offhand grenade that can be shot with every weapon, triggering a large combo explosion that rips everything to smithereens in the nearby. To countereffect the insane firepower of the guns, health regeneration is incresed to a very high speed. In teambased gamemods, player respawning happens next to nearest living teammates; this often leads to never ending massacres near a tactically important item or place on a map >:D .
 The mod also has some new player and weapon models, although yet untextured.
 
-[![Robot playermodel of Overkill #1](/m/uploads/2011/11/robo01-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/robo01/)[![Robot playermodel of Overkill #2](/m/uploads/2011/11/robo02-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/robo02/)[![Robot playermodel of Overkill #3](/m/uploads/2011/11/robo03-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/robo03/)[![Robot playermodel of Overkill #4](/m/uploads/2011/11/robo04-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/robo04/)
+[![Robot playermodel of Overkill #1](/m/uploads/2011/11/robo01-200x200.jpg)](/m/uploads/2011/11/robo01.jpg)[![Robot playermodel of Overkill #2](/m/uploads/2011/11/robo02-200x200.jpg)](/m/uploads/2011/11/robo02.jpg)[![Robot playermodel of Overkill #3](/m/uploads/2011/11/robo03-200x200.jpg)](/m/uploads/2011/11/robo03.jpg)[![Robot playermodel of Overkill #4](/m/uploads/2011/11/robo04-200x200.jpg)](/m/uploads/2011/11/robo04.jpg)
 
-[![Human playermodel of Overkill #1](/m/uploads/2011/11/human01-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/human01/)[![Human playermodel of Overkill #2](/m/uploads/2011/11/human02-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/human02/)[![Human playermodel of Overkill #3](/m/uploads/2011/11/human03-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/human03/)[![Human playermodel of Overkill #4](/m/uploads/2011/11/human04-200x200.jpg)](http://www.xonotic.org/2011/11/wox-blox-issue-1-developer-news/human04/)
+[![Human playermodel of Overkill #1](/m/uploads/2011/11/human01-200x200.jpg)](/m/uploads/2011/11/human01.jpg)[![Human playermodel of Overkill #2](/m/uploads/2011/11/human02-200x200.jpg)](/m/uploads/2011/11/human02.jpg)[![Human playermodel of Overkill #3](/m/uploads/2011/11/human03-200x200.jpg)](/m/uploads/2011/11/human03.jpg)[![Human playermodel of Overkill #4](/m/uploads/2011/11/human04-200x200.jpg)](/m/uploads/2011/11/human04.jpg)
 
 {{% youtube "gxc-kREijH4" %}}
 

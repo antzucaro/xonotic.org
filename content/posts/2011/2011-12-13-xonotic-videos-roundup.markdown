@@ -31,6 +31,6 @@ The second video is a practice match between **PCLizard** and **fisume** comment
 
 {{% youtube "E1epj5I1efo" %}}
 
-Lastly, here comes the big boom! The archived screencast of the semi finals of the [BOT] 1v1 Online Tournament in online, boasting a whopping **2 full hours** of Xonotic action! In the beginning of the screencast you can listen to some pulsating Xonotic music _Northern Lights_ composed by **Sc0rp** followed by _Traveler_ and _Quiet_ by **blkrbt**. From 10:53 you can watch [**kojn's** fragmovie entitled _Deathmatchers_](http://www.xonotic.org/2011/11/deathmatchers-the-movie/), and from roughly 22:08 the live commentary of the semi-finals with **PCLizard** vs **fisume**, and **L0** vs. **Mirio**. You can find the video at [morfar's twitch.tv account](http://en.twitch.tv/morfah/b/302150054).
+Lastly, here comes the big boom! The archived screencast of the semi finals of the [BOT] 1v1 Online Tournament in online, boasting a whopping **2 full hours** of Xonotic action! In the beginning of the screencast you can listen to some pulsating Xonotic music _Northern Lights_ composed by **Sc0rp** followed by _Traveler_ and _Quiet_ by **blkrbt**. From 10:53 you can watch [**kojn's** fragmovie entitled _Deathmatchers_](/posts/2011/deathmatchers-the-movie/), and from roughly 22:08 the live commentary of the semi-finals with **PCLizard** vs **fisume**, and **L0** vs. **Mirio**. You can find the video at [morfar's twitch.tv account](http://en.twitch.tv/morfah/b/302150054).
 
 Have fun watching!

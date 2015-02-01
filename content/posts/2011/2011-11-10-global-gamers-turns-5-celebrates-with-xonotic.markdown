@@ -24,4 +24,4 @@ Meanwhile, be sure to try out all the fun game servers GG has to offer you, and 
 
 GG Global Gamers, and Happy 5th Birthday!
 
-[![Happy 5th Birthday Global Gamers!](/m/uploads/2011/11/xonotic000467-1024x819.jpg)](http://www.xonotic.org/2011/11/global-gamers-turns-5-celebrates-with-xonotic/xonotic000467/)
+![Happy 5th Birthday Global Gamers!](/m/uploads/2011/11/xonotic000467-1024x819.jpg)
