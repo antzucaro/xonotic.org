@@ -1,0 +1,3 @@
+0.8.0
+http://dl.xonotic.org/xonotic-0.8.0.zip
+http://www.xonotic.org/
