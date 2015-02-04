@@ -79,7 +79,7 @@ ul, ol, dl {
 
 /* Sections */
 body > section.pad {
-  padding: 7rem;
+  padding: 7rem 0 7rem 0;
 }
 
 /* Main section */
