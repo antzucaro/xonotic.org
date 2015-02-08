@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    version="1.0"
    sodipodi:docname="xonotic_logo.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -388,9 +388,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
+     inkscape:zoom="1"
      inkscape:cx="901.35"
-     inkscape:cy="-34.724776"
+     inkscape:cy="192.51163"
      inkscape:document-units="px"
      inkscape:current-layer="XonoticLogo"
      showgrid="false"
@@ -405,11 +405,11 @@
      fit-margin-left="2.9"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="1362"
+     inkscape:window-height="721"
      inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="1">
+     inkscape:window-y="22"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid2383"
@@ -470,7 +470,7 @@
      transform="translate(-297.6,-238)">
     <g
        id="Background"
-       transform="translate(22,0)">
+       transform="translate(2,0)">
       <path
          id="BackgroundShadow"
          d="m 1024,238 c -141.3849,0 -256,114.61514 -256,256 0,141.38486 114.6151,256 256,256 141.3849,0 256,-114.61514 256,-256 0,-141.38486 -114.6151,-256 -256,-256 z"
