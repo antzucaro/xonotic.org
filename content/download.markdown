@@ -28,9 +28,6 @@ Since Xonotic version 0.5 we've offered an auto-update tool that will seamlessly
 **[Lower quality download via HTTP](http://dl.xonotic.org/xonotic-0.8.0-low.zip)**  
 **Description:** Release build with JPEG texture compression instead of using DDS textures compiled with S3TC. This build has smaller file size and has better support for opensource/legacy drivers, but the textures take slightly longer while loading the game.  
 
-**[Optional encryption download via HTTP](http://dl.xonotic.org/xonotic-0.8.0-crypto.zip)**  
-**Description:** Module to have optional AES cryptography on your server for extra security.  
-
 **[Source download via HTTP](http://dl.xonotic.org/xonotic-0.8.0-source.zip)**  
 **Description:** Source of all code parts (also included with the other downloads).  
 
