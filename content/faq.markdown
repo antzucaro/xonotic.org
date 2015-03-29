@@ -66,6 +66,17 @@ The only game mode we have discussed definitely removing so far is** Havoc mode*
 
 ### Xonotic FAQs
 
+<a name="install"></a>
+#### How do I install Xonotic?
+
+**No need to install Xonotic**, the zip file you download from the homepage has everything! All binaries to run the game are available for Windows, OSX and Linux.
+
+For example, on Windows or OSX, you can start the game by double-clicking the Xonotic logo. On Linux, you can run xonotic-linux-glx.sh or xonotic-linux-sdl.sh, whichever one works better on your hardware.
+
+#### Is there a Debian package available?
+
+Unoffically there is a package available on [playdeb.net](http://www.playdeb.net/updates/ubuntu/14.10/?q=xonotic). Unfortunately, Xonotic is not in the Debian repositories yet, you can check the status of the bug report [here](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=646377). If you can help us expedite this process, please contact us.
+
 #### When will the first release arrive?
 
 We don't have a deadline (even a vague one) set for that. We are  working out which features and changes we want in the game, and which of  those we would want in our first release.
