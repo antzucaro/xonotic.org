@@ -19,7 +19,11 @@
   border:1px solid #777;
   margin-bottom:10px;
 }
-
+#cacs_share {
+  float:right;
+  margin-top:-44px;
+  font-size:14px;
+}
 #cvar-cmd-list thead, #cvar-cmd-list tfoot {
   background-color:#777;
 }

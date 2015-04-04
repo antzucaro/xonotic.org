@@ -5,6 +5,10 @@ define(function (require) {
 
     $(document).ready(function() {
 
+      // fun variables from the location hash to play with
+      var hash = location.hash.substr(1);
+      var game = "xonotic";
+
       var list = {};
 
       function loadItems(game) {
@@ -14,7 +18,6 @@ define(function (require) {
         $.get("../../static/data/" + game + "/cmdlist.txt", function(data) {
           cmds = data.split("\n").map(function(line){
 
-            var str = '^7+button10 : activate button10 (behavior depends on mod)';
             var re_cmd = new RegExp(/[\^]7(.+) : (.+)/);
             var cmd_grp = re_cmd.exec(line);
             //console.log(cmd_grp);
@@ -24,6 +27,26 @@ define(function (require) {
                 label: cmd_grp[1],
                 type: "cmd",
                 description: cmd_grp[2].replace('"','\"')
+              };
+              list['items'].push(item);
+            }
+          });
+          
+          //console.log(list);
+        });
+
+        $.get("../../static/data/" + game + "/aliaslist.txt", function(data) {
+          aliases = data.split("\n").map(function(line){
+
+            var re_alias = new RegExp(/[\^]7(.+) : (.+)/);
+            var alias_grp = re_alias.exec(line);
+            //console.log(cmd_grp);
+
+            if (alias_grp) {
+              var item = {
+                label: alias_grp[1],
+                type: "alias",
+                description: alias_grp[2].replace('"','\"')
               };
               list['items'].push(item);
             }
@@ -53,7 +76,7 @@ define(function (require) {
         });
       }
 
-      loadItems("xonotic"); // default to xonotic
+      loadItems(game); // default to xonotic
 
       var table = $('#cvar-cmd-list').DataTable({
         "columns": [
@@ -69,8 +92,15 @@ define(function (require) {
 
       function populateTable() {
         var all = $.parseJSON(JSON.stringify(list));
-        $('#cvar-cmd-list').DataTable().rows.add(all.items).draw();
+        $('#cvar-cmd-list').DataTable().rows.add(all.items).search(hash).draw();
+        $("#cvar-cmd-list_filter input").val(hash);
       }
+
+      $('#cvar-cmd-list').DataTable().on('search.dt', function () {
+          var search = $('#cvar-cmd-list').DataTable().search();
+          $('#cacs_share').attr("href", "#" + search);
+          location.hash = search;
+      });
 
     });
   });
