@@ -1,6 +1,6 @@
 ---
 author: detrate
-date: 2015-02-01 09:30:00+00:00
+date: 2015-04-04 17:30:00+00:00
 title: Command and cvar search tool
 categories:
 - Announcements
@@ -10,13 +10,21 @@ Back in the days of Nexuiz, finding cmds and cvars was difficult. We had a wiki 
 
 Rather than search through those text files, I opted to build a tool to do that for me (and anyone else interested), this led to the first iteration of what is now referred to as "CACS" (Command and cvar search). Soon after, divVerent was kind enough to build a similar tool into the menu system (shown below).
 
-[img of advanced settings]
+{{% polaroid
+  "/m/uploads/2015/04/advanced_settings.jpg"
+  "/m/uploads/2015/04/advanced_settings.jpg"
+  "The Xonotic advanced settings panel"
+%}}
 
 While this serves many needs and will never be out-of-date, sometimes it's easier to search for cvars outside of the game. This is why I decided to rewrite the tool from scratch to make easier to maintain and integrate into other projects.
 
 Today I'd like to announcing integrating the tool into xonotic.org under an emerging section of the website, "tools"
 
-[img of tool]
+{{% polaroid
+  "/m/uploads/2015/04/web_cvars.jpg"
+  "/m/uploads/2015/04/web_cvars.jpg"
+  "The new CACS tool"
+%}}
 
 You can visit the tool at [xonotic.org/tools/cacs](http://xonotic.org/tools/cacs).
 
