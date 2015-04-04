@@ -36,6 +36,7 @@
   border-right:1px solid #777;
 }
 #cvar-cmd-list td:last-child {
+  word-wrap: break-word;
   border-right:0;
 }
 #cvar-cmd-list tr.odd {
