@@ -1,0 +1,53 @@
+:focus { outline:none !important; } /* remove dotted outlines in FF */
+
+#wrap {
+  padding:20px;
+  font-family: "Xolonium", Helvetica, Arial, sans-serif;
+}
+
+#wrap label {
+  color:#ccc;
+}
+
+#wrap input, #wrap select {
+  background-color: #333;
+  font-family: inherit;
+  border: 1px solid #555;
+  color: #ccc;
+}
+#cvar-cmd-list {
+  border:1px solid #777;
+  margin-bottom:10px;
+}
+
+#cvar-cmd-list thead, #cvar-cmd-list tfoot {
+  background-color:#777;
+}
+#cvar-cmd-list thead th, #cvar-cmd-list tfoot th {
+  border-right:1px solid #444;
+}
+#cvar-cmd-list thead th:last-child, #cvar-cmd-list tfoot th:last-child {
+  border-right:0;
+}
+#cvar-cmd-list td {
+  font-size:13px;
+  font-family: courier;
+  color:#ccc;
+  border-right:1px solid #777;
+}
+#cvar-cmd-list td:last-child {
+  border-right:0;
+}
+#cvar-cmd-list tr.odd {
+  background-color:#222;
+}
+#cvar-cmd-list tr.even {
+  background-color:#333;
+}
+#cvar-cmd-list_info {
+  font-size:14px;
+  color:#999;
+}
+#cvar-cmd-list_paginate {
+  font-size:14px;
+}
