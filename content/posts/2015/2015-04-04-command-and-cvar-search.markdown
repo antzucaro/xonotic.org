@@ -16,9 +16,9 @@ Rather than search through those text files, I opted to build a tool to do that 
   "The Xonotic advanced settings panel"
 %}}
 
-While this serves many needs and will never be out-of-date, sometimes it's easier to search for cvars outside of the game. This is why I decided to rewrite the tool from scratch to make easier to maintain and integrate into other projects.
+While this serves many needs and will never be out-of-date, sometimes it's easier to search for cvars outside of the game. This is why I decided to rewrite the tool from scratch to it make easier to maintain and integrate into other projects.
 
-Today I'd like to announcing integrating the tool into xonotic.org under an emerging section of the website, "tools"
+Today I'd like to announce integrating the tool into xonotic.org under an emerging section of the website, "tools".
 
 {{% polaroid
   "/m/uploads/2015/04/web_cvars.jpg"
