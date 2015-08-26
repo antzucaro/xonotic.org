@@ -1,21 +1,21 @@
 ---
 author: Antibody
 comments: false
-date: 2015-08-21 01:41:28+00:00
+date: 2015-08-26 19:55:00+00:00
 layout: post
 slug: xonotic-0-8-1-release
 title: Xonotic 0.8.1 Release
 categories:
 - Announcements
 ---
-Team Xonotic is proud to announce the latest release of your favorite free and fast arena shooter: Xonotic 0.8.1 is available today! It has been quite a while since our last release, but the development team has been working feverishly behind the scenes. We have an entirely new menu theme, new gameplay features, and three new maps to show you. Thanks to everyone in the community who helped make this release possible.
+Team Xonotic is proud to announce the latest release of your favorite free and fast arena shooter: Xonotic 0.8.1 is available today! It has been quite a while since our last release, but the development team has been working feverishly behind the scenes. We have an entirely new menu theme, new gameplay features, and three new maps to show you. Thanks to everyone in the community who helped make this release possible!
 
 #### Download information:
 
 [Download via torrent](http://dl.xonotic.org/xonotic-0.8.1.zip.torrent)  
 [Download via HTTP](http://dl.xonotic.org/xonotic-0.8.1.zip)  
-MD5: ???  
-Package size: ???MB  
+MD5: f7a9cd8ab68a00336acca164f983b569  
+Package size: 940MB  
 
 Already have Xonotic on your machine? There's no need to download the game again to get into the action. Use the following steps to upgrade your client to the 0.8.1 release:
 
@@ -39,5 +39,9 @@ Here are some feature highlights from this release:
 <a href="/m/uploads/2015/08/8point1_itemstime.jpg"><img src="/m/uploads/2015/08/8point1_itemstime_t.jpg" title="Items timing in the HUD" class="left th m10"></a>Developer terencehill wanted to provide opportunities for players to improve their gameplay, so he introduced mega-item timers for the HUD in this release. With these enabled in the HUD players can see when the next mega item (100 health or 100 armor, to name two) is spawning next. This is great for beginners and casters alike.
 
 Our wily core developer Mario was busy working on CTF and thought to himself "why stop at two flags?". Before we even knew what was happening he introduced three and even four flag CTF! Crazy, I tell you. Crazy fun, that is. For the sake of completeness he also implemented a one-flag CTF mode which was inspired by some Quake 3 mods. As if this weren't enough, Mario also turned his attention to the buff subsystem. This release features three all-new buffs: Inferno, Magnet, and Swapper. The buff system also received some balancing attention after community feedback. Buffs now have time limits and some of them have compensating disabilities to balance out your new powers.
+
+<a href="/m/uploads/2015/08/8point1_voting.jpg"><img src="/m/uploads/2015/08/8point1_voting_t.jpg" title="Voting the next game mode at match end" class="right th m10"></a>Melanosuchus provides us another friendly feature. At the end of matches, server administrators can now choose to let their players visually decide which game mode they'd like to play next! This is a huge win for usability, as before this was only available to those who knew how to use the command-line voting syntax. Hooray for ease-of-use!
+
+Last but not least, the entire team would like to thank TimePath for his efforts at refactoring the codebase. The code is becoming a much friendlier place due to him. Thank you sir!
 
 Once again, the team would like to express their thanks to the community. Without you all, none of this would be possible. We'll see you out on the servers. Happy fragging!
