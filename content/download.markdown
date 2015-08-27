@@ -8,13 +8,13 @@ wordpress_id: 839
 type: page
 ---
 
-### LATEST RELEASE: Xonotic 0.8.0 for Linux, Windows, and Mac
+### LATEST RELEASE: Xonotic 0.8.1 for Linux, Windows, and Mac
 
-[Download via torrent](http://dl.xonotic.org/xonotic-0.8.0.zip.torrent)  
-[Download via HTTP](http://dl.xonotic.org/xonotic-0.8.0.zip)  
+[Download via torrent](http://dl.xonotic.org/xonotic-0.8.1.zip.torrent)  
+[Download via HTTP](http://dl.xonotic.org/xonotic-0.8.1.zip)  
 
-MD5: bc368e116a2502362e1d4f07d8f8efab  
-Package size: 953M
+MD5: f7a9cd8ab68a00336acca164f983b569  
+Package size: 940M  
 
 ### Upgrading from an older version
 
@@ -22,16 +22,19 @@ Since Xonotic version 0.5 we've offered an auto-update tool that will seamlessly
 
 ### Extra downloads
 
-**[Download NetRadiant via HTTP](http://dl.xonotic.org/xonotic-0.8.0-mappingsupport.zip)**  
+**[Download NetRadiant via HTTP](http://dl.xonotic.org/xonotic-0.8.1-mappingsupport.zip)**  
 **Description:** Official Xonotic map editor with all the required textures to create maps. The download only contains binaries for Windows and OSX, Linux users will need to compile from source- which is also provided in the package.  
 
-**[Lower quality download via HTTP](http://dl.xonotic.org/xonotic-0.8.0-low.zip)**  
+**[Lower quality download via HTTP](http://dl.xonotic.org/xonotic-0.8.1-low.zip)**  
 **Description:** Release build with JPEG texture compression instead of using DDS textures compiled with S3TC. This build has smaller file size and has better support for opensource/legacy drivers, but the textures take slightly longer while loading the game.  
 
-**[Source download via HTTP](http://dl.xonotic.org/xonotic-0.8.0-source.zip)**  
+**[Source download via HTTP](http://dl.xonotic.org/xonotic-0.8.1-source.zip)**  
 **Description:** Source of all code parts (also included with the other downloads).  
 
 ### Older downloads  
+[Download 0.8.0 via torrent](http://dl.xonotic.org/xonotic-0.8.0.zip.torrent) (953M, md5: bc368e116a2502362e1d4f07d8f8efab)  
+[Download 0.8.0 via HTTP](http://dl.xonotic.org/xonotic-0.8.0.zip) (953M, md5: bc368e116a2502362e1d4f07d8f8efab)
+
 [Download 0.7.0 via torrent](http://dl.xonotic.org/xonotic-0.7.0.zip.torrent) (993M, md5: eda7e8acadbefaf4b2efcfb70bbe98e2)  
 [Download 0.7.0 via HTTP](http://dl.xonotic.org/xonotic-0.7.0.zip) (993M, md5: eda7e8acadbefaf4b2efcfb70bbe98e2)  
 
