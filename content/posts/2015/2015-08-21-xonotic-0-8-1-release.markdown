@@ -15,7 +15,7 @@ Team Xonotic is proud to announce the latest release of your favorite free and f
 [Download via torrent](http://dl.xonotic.org/xonotic-0.8.1.zip.torrent)  
 [Download via HTTP](http://dl.xonotic.org/xonotic-0.8.1.zip)  
 MD5: f7a9cd8ab68a00336acca164f983b569  
-Package size: 940MB  
+Package size: 940M  
 
 Already have Xonotic on your machine? There's no need to download the game again to get into the action. Use the following steps to upgrade your client to the 0.8.1 release:
 
