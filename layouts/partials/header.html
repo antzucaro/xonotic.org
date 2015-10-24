@@ -23,6 +23,54 @@
     <link rel="manifest" href="/manifest.json?v=BGGj7qk0Kl">
     <link rel="shortcut icon" href="/favicon.ico?v=BGGj7qk0Kl">
 
+    <!-- YouTube gaming page info -->
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type":"VideoGame",
+      "name":[
+        {
+          "@language":"en",
+          "@value":"Xonotic"
+        }
+      ],
+      "description":[
+        {
+          "@language":"en",
+          "@value":"Xonotic is an addictive, arena-style first person shooter with crisp movement and a wide array of weapons. It combines intuitive mechanics with in-your-face action to elevate your heart rate."
+        }
+      ],
+      "genre":[
+        "First-person shooter"
+      ],
+      "url":"http://www.xonotic.org",
+      "image":"http://xonotic.org/static/img/poster.jpg",
+      "screenshot":"http://xonotic.org/static/img/backgroundart.jpg",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Xonotic",
+        "https://www.youtube.com/user/xonotic",
+        "https://www.youtube.com/user/antibodyxon"
+      ],
+      "trailer":{
+        "@type":"VideoObject",
+        "url":"https://www.youtube.com/watch?v=_thowri7mmE",
+        "inLanguage":"en"
+      },
+      "exampleOfWork":[
+        {
+          "@type":"VideoGame",
+          "gamePlatform":[
+            "https://en.wikipedia.org/wiki/Windows_7",
+            "https://en.wikipedia.org/wiki/Windows_8",
+            "https://en.wikipedia.org/wiki/Linux",
+            "https://en.wikipedia.org/wiki/OS_X_Yosemite",
+            "https://en.wikipedia.org/wiki/OS_X_Mavericks"
+          ]
+        }
+      ]
+    }
+    </script>
+
     {{ if .Title }}
     <title> {{ .Title }} - Xonotic</title>
     {{ else }}
