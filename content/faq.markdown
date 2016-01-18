@@ -179,7 +179,8 @@ Demos are recordings of matches that you have played. To automatically record a 
 #### How do I start a server?
 
 Use the Multiplayer / Create menu to start a listen server. You will always have to play yourself in a listen server. If you want to create a server without being forced to play yourself please take a look at the file readme.txt in the Xonotic/server/ directory where the dedicated server is explained.
-Which ports do I have to open in firewall/forward from my router to run a server?
+
+#### Which ports do I have to open in firewall/forward from my router to run a server?
 
 The default port is 26000 UDP. You can change that in the Multiplayer / Create menu or by starting Xonotic with the parameter -port <port> or having a line port <port> in the server config file. If you follow the tutorial mentioned above you do not need this command line argument as it will be done in the config file created for the server. To add the command line argument on Windows, create a new shortcut to xonotic.exe or xonotic-dedicated.exe and right click on it. Select properties and -port <port> in the "Target:" line. Be sure that the "Start in:" line contains the full path to your Xonotic folder and click "OK". The parameter will be used if you start Xonotic via that new shortcut.
 
