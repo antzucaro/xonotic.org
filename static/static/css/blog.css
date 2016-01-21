@@ -41,6 +41,20 @@ hr {
 ul, ol, dl {
   font-size: 1.1rem;
 }
+table {
+  border: none;
+  border-collapse: collapse;
+  width: 65%;
+  margin-right: auto;
+  margin-left: auto;
+}
+table tr td, table thead tr th {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/bg.jpg') no-repeat fixed center center / cover #000;
+  color: rgb(155, 155, 155);
+  font-family: 'PT Sans', serif;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
 .top-bar {
   height: 50px;
 }
@@ -122,14 +136,14 @@ body > section.pad {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) repeat scroll 0% 0%, url('../img/section-bg3.jpg') no-repeat fixed center center / cover #000;
 }
 .section-links ul {
-  list-style: none outside none; 
-  margin:0; 
-  padding: 0; 
+  list-style: none outside none;
+  margin:0;
+  padding: 0;
   text-align: center;
 }
 .section-links li {
   font-size: 5rem;
-  margin: 0 30px; 
+  margin: 0 30px;
   display: inline;
 }
 .section-links a {
