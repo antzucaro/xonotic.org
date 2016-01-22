@@ -24,10 +24,6 @@ For example, on Windows or OSX, you can start the game by double-clicking the Xo
 
 Unoffically there is a package available on [playdeb.net](http://www.playdeb.net/updates/ubuntu/14.10/?q=xonotic). Unfortunately, Xonotic is not in the Debian repositories yet, you can check the status of the bug report [here](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=646377). If you can help us expedite this process, please contact us.
 
-#### When will the first release arrive?
-
-We don't have a deadline (even a vague one) set for that. We are  working out which features and changes we want in the game, and which of  those we would want in our first release.
-
 #### How and why did you choose the name?
 
 Brainstorming of the name started on day 1 of  our discussions, and  the process took about 4-5 days.
@@ -89,7 +85,7 @@ This is known to happen on Windows with Intel graphic chips and is a bug in the 
 
 #### How can I speed up my frame rate?
 
-You can choose predefined performance settings in the Settings / Video menu. Normal is the default, Medium and Low run faster while High, Ultra and Ultimate enable more features you might want to test if you have a high end graphic card. Or you can enable/disable single features. The greatest performance boost can be achieved by turning off dynamic lights and shadows in the Settings / Effects menu. Bloom is also quite resource intensive. Other fps boots include disabling Deluxemapping and Coronas. On older graphics cards or on-board/notebook chips with little video ram you can try to lower the texture quality in the Settings / Video menu. Some graphic cards (mostly ATI or quite old cards) run A LOT faster if you disable the Vertex Buffer Objects in the Settings / Video menu. An other thing that can greatly help on such cards is to disable the OpenGL 2.0 Shaders. Having that option enabled is faster on most cards however, that is why both are active by default.
+You can choose predefined performance settings in the Settings / Video menu or you can enable/disable single features. The greatest performance boost can be achieved by turning off dynamic lights and shadows in the Settings / Effects menu. Bloom is also quite resource intensive. Other fps boots include disabling Deluxemapping and Coronas. On older graphics cards or on-board/notebook chips with little video ram you can try to lower the texture quality in the Settings / Video menu. Some graphic cards (mostly ATI or quite old cards) run A LOT faster if you disable the Vertex Buffer Objects in the Settings / Video menu. An other thing that can greatly help on such cards is to disable the OpenGL 2.0 Shaders. Having that option enabled is faster on most cards however, that is why both are active by default.
 
 If none of that helps, you can try compiling Xonotic from [source](http://gitlab.com/xonotic/xonotic/wikis/Repository_Access).
 
@@ -212,10 +208,6 @@ Yes, many in the Nexuiz community tried to [reach a compromise](http://alientrap
 
 **Update** It has been clarified that, despite some of misleading wording in previous communication, Illfonic will be contributing _some_ of the game code back to Nexuiz GPL, mainly having to do with bandwidth improvements and animation blending.
 
-#### Is Illfonic going to release a Nexuiz PC edition?
-
-That is a question you will have to ask Illfonic. This FAQ is  intended to answer questions directly about the Xonotic project.
-
 #### How will the management of Xonotic differ from Alientrap/Nexuiz GPL?
 
 From the very start, we all discussed organizing the Xonotic Team  with a handful of caretakers to make decisions on big/difficult issues  for the game, and a committee underneath with community contributors who  make decisions on most issues. The caretakers will also act to keep the  project on track and maintain organization. All decisions will be made  with input of the committee. The names of the caretakers are:
@@ -231,15 +223,3 @@ From the very start, we all discussed organizing the Xonotic Team  with a handfu
 #### Do you despise Vermeulen, LordHavoc or Illfonic?
 
 **No!** Without the past work of Vermeulen and LordHavoc, we  would not have the game that we enjoy today. We wish them the best of  luck in their endeavors. We hope Illfonic's Nexuiz on PS3 is successful.  We simply have a difference of opinion on project management and the  result is going to be very positive; We're forming a game project that  matches what we wanted out of Nexuiz all along.
-
-#### Will gameplay change at all? (Physics, etc)
-
-We will likely tweak this overtime, but not likely for our first  release. We like the basics of Nexiuz gameplay, but things could be  improved.
-
-#### Are you forking Darkplaces? (the game engine)
-
-We don't intend to do this. If we have any changes that we need to  submit to Darkplaces, we're optimistic that those changes will be  accepted as long as it improves the engine. If we end up having changes  to Darkplaces rejected, then we may have to revisit this question.
-
-#### Do you plan to keep all the Nexuiz game modes?
-
-The only game mode we have discussed definitely removing so far is** Havoc mode**, which was LordHavoc's pet project in Nexuiz. It doesn't make sense to continue supporting that in Xonotic.
