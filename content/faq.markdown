@@ -16,7 +16,7 @@ This FAQ page will be updated occasionally based on questions we receive in IRC 
 <a name="install"></a>
 #### How do I install Xonotic?
 
-**No need to install Xonotic**, the zip file you download from the homepage has everything! All binaries to run the game on Linux, Windows and OSX are in it. Just unzip and run the appropriate executable for your OS.
+**No need to install Xonotic**, the zip file you download from the homepage has everything! All binaries to run the game on Linux, Windows and OSX are inside. Just unzip it and run the appropriate executable for your OS.
 
 For example, on Windows or OSX, you can start the game by double-clicking the Xonotic logo. On Linux, you can run xonotic-linux-glx.sh or xonotic-linux-sdl.sh, whichever one works better on your hardware.
 
