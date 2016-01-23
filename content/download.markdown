@@ -33,6 +33,8 @@ Since Xonotic version 0.5 we've offered an auto-update tool that will seamlessly
 **[Source download via HTTP](http://dl.xonotic.org/xonotic-0.8.1-source.zip)**  
 **Description:** Source of all code parts (also included with the other downloads).  
 
+**[Our project page on GitLab](https://gitlab.com/groups/xonotic)**
+
 ### Older downloads  
 [Download 0.8.0 via torrent](http://dl.xonotic.org/xonotic-0.8.0.zip.torrent) (953M, md5: bc368e116a2502362e1d4f07d8f8efab)  
 [Download 0.8.0 via HTTP](http://dl.xonotic.org/xonotic-0.8.0.zip) (953M, md5: bc368e116a2502362e1d4f07d8f8efab)
