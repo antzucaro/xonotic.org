@@ -16,13 +16,13 @@ This FAQ page will be updated occasionally based on questions we receive in IRC 
 <a name="install"></a>
 #### How do I install Xonotic?
 
-**No need to install Xonotic**, the zip file you download from the homepage has everything! All binaries to run the game on Linux, Windows and OSX are inside. Just unzip it and run the appropriate executable for your OS.
+**There is no need to install Xonotic!** The zip file you downloaded from the homepage has everything. All binaries to run the game on Linux, Windows and OSX are inside of it. Just unzip the archive and run the appropriate executable for your OS.
 
-For example, on Windows or OSX, you can start the game by double-clicking the Xonotic logo. On Linux, you can run xonotic-linux-glx.sh or xonotic-linux-sdl.sh, whichever one works better on your hardware.
+For example, on Windows or OSX you can start the game by double-clicking the Xonotic logo. On Linux you can run xonotic-linux-glx.sh or xonotic-linux-sdl.sh - whichever one works better on your hardware.
 
 #### Is there a Debian package available?
 
-Unoffically there is a package available on [playdeb.net](http://www.playdeb.net/updates/ubuntu/14.10/?q=xonotic). Unfortunately, Xonotic is not in the Debian repositories yet, you can check the status of the bug report [here](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=646377). If you can help us expedite this process, please contact us.
+There is an unofficial package available on [playdeb.net](http://www.playdeb.net/updates/ubuntu/14.10/?q=xonotic). Unfortunately, Xonotic is not in the Debian repositories yet. You can check the status of the bug report [here](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=646377). If you can help us expedite this process, please contact us!
 
 #### How and why did you choose the name?
 
@@ -67,16 +67,16 @@ Another aspect of the logo is the center ring, which has some  similarities to t
 This happens when the engine can't load the data*.pk3 file or has trouble to initialize OpenGL. The reasons could be:
 
   * You unpacked the zip file without folder names, see [How do I install Xonotic?]({{< relref "#how-do-i-install-xonotic" >}})
-  * On Linux: the current directory is not your Xonotic/ folder. See [How can I place a shortcut to Xonotic on my Linux desktop?]({{< relref "#how-can-i-place-a-shortcut-to-xonotic-on-my-linux-desktop" >}}) on how to fix this. // TODO broken link
+  * On Linux: the current directory is not your Xonotic/ folder. 
   * On Mac: you tried to extract and move the files from a Xonotic update and it deleted the old files. When using the mac GUI please be sure to move only the files not the folders as that will delete the old files or use the mv console command which will not delete the old files.
   * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com) [ati](http://ati.com) [nvidia](http://nvidia.com).
   * Your download might be corrupted, please download Xonotic again.
 
 #### Using Linux I only see the map but no players and items
 
-This happens when the engine has trouble to initialize OpenGL. The reasons could be:
+This happens when the engine has trouble initializing OpenGL. The reasons could be:
 
-  * the engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: intel ati nvidia
+  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: intel ati nvidia
   * You do not have permissions needed for 3d acceleration. Usually you need to add yourself to the group video, you can do that via console as root like this: _usermod -a -G video YOURUSERNAME_. You need to logoff/in afterwards.
 
 #### When I start Xonotic my screen is flickering
