@@ -78,6 +78,10 @@
     {{ end }}
 
     {{ partial "includes.html" . }}
+
+    {{ if eq .Title "FAQ" }}
+        <link rel="stylesheet" href="/static/css/faq.css" />
+    {{ end }}
   </head>
 
   <body>
