@@ -41,20 +41,6 @@ hr {
 ul, ol, dl {
   font-size: 1.1rem;
 }
-table {
-  border: none;
-  border-collapse: collapse;
-  width: 65%;
-  margin-right: auto;
-  margin-left: auto;
-}
-table tr td, table thead tr th {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/bg.jpg') no-repeat fixed center center / cover #000;
-  color: rgb(155, 155, 155);
-  font-family: 'PT Sans', serif;
-  padding-top: 0.4rem;
-  padding-bottom: 0.4rem;
-}
 .top-bar {
   height: 50px;
 }
