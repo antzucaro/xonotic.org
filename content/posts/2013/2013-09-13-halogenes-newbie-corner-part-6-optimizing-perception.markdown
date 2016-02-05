@@ -18,6 +18,8 @@ aliases:
 
 ![Newbie Corner Banner](/m/uploads/2012/09/Halogenes-newbiecorner.png)
 
+*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+
 Welcome back to the (probably) final part of my Newbie Corner. This time, as announced in my last post, I will turn to tweaking the game appearance in order to optimize perception. The concept is easy and straight-forward: the better you can see and hear other players and their actions, the better you can react to them.
 
 * * *

@@ -16,6 +16,8 @@ aliases:
 
 ![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)
 
+*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+
 Welcome back to the 5th episode of my Newbie Corner! Now that we've been examining movement and weapons, the air for new newbie stuff is starting to get thinner and thinner, but there's still enough material left to be covered by one or two newbie corners, so let's get started! In this part I'll be providing some general gameplay hints that hopefully will make your life as a newbie out there on the servers easier – and longer :)
 
 ![](/m/uploads/2013/02/combo.png)
