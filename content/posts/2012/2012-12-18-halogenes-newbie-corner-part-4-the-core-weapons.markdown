@@ -19,6 +19,8 @@ aliases:
 
 ![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)
 
+*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+
 Now that I've bored everyone to death with nifty movement tricks, let's have a look at what everyone is keen on getting its hands on when it comes to first person shooters:
 
 ![](/m/uploads/2012/12/WEAPONS.png)

@@ -13,7 +13,7 @@ type: page
 [Download via torrent](http://dl.xonotic.org/xonotic-0.8.1.zip.torrent)  
 [Download via HTTP](http://dl.xonotic.org/xonotic-0.8.1.zip)  
 
-No installation required, just unpack and run. Got questions? See the [FAQ](/faq) or [live chat](http://webchat.quakenet.org/?channels=xonotic&uio=MTE9MTA62) with us.
+No installation required, just unpack and run. Got questions? See the [FAQ](/faq) or [live chat](http://webchat.quakenet.org/?channels=xonotic) with us.
 
 MD5: f7a9cd8ab68a00336acca164f983b569  
 Package size: 940M  

@@ -67,7 +67,7 @@ Another aspect of the logo is the center ring, which has some  similarities to t
 This happens when the engine can't load the data*.pk3 file or has trouble to initialize OpenGL. The reasons could be:
 
   * You unpacked the zip file without folder names, see [How do I install Xonotic?]({{< relref "#how-do-i-install-xonotic" >}})
-  * On Linux: the current directory is not your Xonotic/ folder. 
+  * On Linux: the current directory is not your Xonotic/ folder.
   * On Mac: you tried to extract and move the files from a Xonotic update and it deleted the old files. When using the mac GUI please be sure to move only the files not the folders as that will delete the old files or use the mv console command which will not delete the old files.
   * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com) [ati](http://ati.com) [nvidia](http://nvidia.com).
   * Your download might be corrupted, please download Xonotic again.
@@ -121,7 +121,7 @@ On Windows: Click Start->Run, and enter drwtsn32, click Ok in the next window, r
 
 #### Where can I get more help?
 
-Visit the official Xonotic [forum](http://forums.xonotic.org/), there is a support and bug report area. Or get on [IRC](http://webchat.quakenet.org/?channels=xonotic&uio=MTE9MTA62) to chat with others or ask for help. There is the normal users channel (irc://irc.quakenet.org/xonotic) and the developers channel (irc://irc.freenode.net/xonotic)
+Visit the official Xonotic [forum](http://forums.xonotic.org/), there is a support and bug report area. Or get on [IRC](http://webchat.quakenet.org/?channels=xonotic) to chat with others or ask for help. There is the normal users channel (irc://irc.quakenet.org/xonotic) and the developers channel (irc://irc.freenode.net/xonotic)
 
 ### General questions
 

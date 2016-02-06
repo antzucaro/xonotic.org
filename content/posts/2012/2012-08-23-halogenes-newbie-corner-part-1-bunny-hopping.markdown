@@ -17,6 +17,8 @@ aliases:
 - /2012/08/halogenes-newbie-corner-part-1-bunny-hopping
 ---
 
+*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+
 _This is a guest post from our good friend [Halogene](http://forums.xonotic.org/member.php?action=profile&uid=53), an experienced Xonotic player and all-around good guy._
 
 Hello everyone that's new to Xonotic and maybe even new to fast-paced first person shooters in general! In this very first chapter of my newbie tips I'll be showing you an important movement technique called “bunny hopping.“
@@ -34,4 +36,3 @@ Once you're done turning, you can release the strafe key and press forward key a
 It takes a while to get used to, but if you practice it it goes into your cerebellum sooner or later (depending on your age, mostly) and then you'll never think about it again! At that point you'll be bunny hopping all over the place at high speed. Mastering this technique is very rewarding, since running around a map at high speed is a bunch of fun.
 
 That's it for now, practice and enjoy!
-
