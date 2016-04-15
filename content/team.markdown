@@ -110,4 +110,4 @@ These coordination positions are time-consuming roles that require dedication, k
 
 See the Credits in the game for the most up-to-date list of contributors.
 
-Please view our [FAQ page](/team/faq) for more information.
+Please view our [FAQ page](/faq) for more information.
