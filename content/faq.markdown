@@ -9,7 +9,7 @@ aliases:
 
 ### Intro
 
-This FAQ page will be updated occasionally based on questions we receive in IRC and from our forum thread "[Ask your questions about Xonotic here](http://forums.xonotic.org/showthread.php?tid=15)"
+This FAQ page will be updated occasionally based on questions we receive in [IRC](http://webchat.quakenet.org/?channels=xonotic) and from our forum thread "[Ask your questions about Xonotic here](http://forums.xonotic.org/showthread.php?tid=15)"
 
 ### Xonotic FAQs
 
