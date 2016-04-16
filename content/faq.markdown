@@ -190,7 +190,7 @@ Enter status at the server console. You will see a list of all players. In front
 
 ### Nexuiz Related FAQs
 
-#### **What prompted the split from Nexuiz?**
+#### What prompted the split from Nexuiz?
 
 **Lee Vermeulen**, the [Nexuiz project](http://alientrap.org/nexuiz) founder, decided to license the Nexuiz code (with **LordHavoc** licensing the [Darkplaces  engine](http://icculus.org/twilight/darkplaces/)) to a new game development company named [Illfonic](http://illfonic.com) so that they could develop a closed-source  version for the PS3. As part of this deal, IllFonic acquired the rights  to use the name Nexuiz along with the domain nexuiz.com, and are under  no obligation to contribute code back to the open-source Nexuiz project  (and have stated that they have no intention of doing so).
 
