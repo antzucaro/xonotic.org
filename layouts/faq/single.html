@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+    <!-- CONTENT -->
+    <div class="row">
+      <div class="small-12 large-offset-1 large-10 columns">
+        <h2 style="font-size:2.3125rem">{{ .Title }}</h2>
+
+        <p>This FAQ page will be updated occasionally based on questions we receive in <a href="http://webchat.quakenet.org/?channels=xonotic">IRC</a> and from our forum thread "<a href="http://forums.xonotic.org/showthread.php?tid=15">Ask your questions about Xonotic here</a>"</p>
+
+        {{ .TableOfContents }}
+
+        {{ .Content }}
+
+      </div> <!-- END MAIN COLUMN -->
+    </div> <!-- END ROW -->
+    <!-- END CONTENT -->
+{{ partial "footer.html" . }}
