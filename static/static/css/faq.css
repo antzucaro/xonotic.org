@@ -2,11 +2,9 @@
 we have to start at h1 because of the table of contents
 h1 here is like h3 normally, h2 like h4 */
 div.faq h1 {
-  /*font-size:2.75rem*/
   font-size:1.6875rem
 }
 div.faq h2 {
-  /*font-size:2.3125rem*/
   font-size:1.4375rem
 }
 
