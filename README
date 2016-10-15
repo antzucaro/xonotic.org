@@ -1,2 +1,11 @@
 This is a rethink of Xonotic's main website. It uses something simple and
 static, making administration and ongoing maintenance a good deal easier.
+
+# For development (optional)
+
+The quickest way to get started is with docker. docker and docker-compose are required as
+dependencies.
+
+```
+docker-compose up
+```
