@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'XoloniumNormal';
-  src: url('../fonts/xolonium-webfont.eot');
-  src: url('../fonts/xolonium-webfont.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/xolonium-webfont.woff') format('woff'),
-  url('../fonts/xolonium-webfont.ttf') format('truetype'),
-  url('../fonts/xolonium-webfont.svg#XoloniumNormal') format('svg');
+  font-family: 'Xolonium';
+  src: url('../fonts/xolonium-regular-latin.eot');
+  src: url('../fonts/xolonium-regular-latin.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/xolonium-regular-latin.woff2') format('woff2'),
+       url('../fonts/xolonium-regular-latin.woff') format('woff'),
+       url('../fonts/xolonium-regular-latin.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 body, h1, h2, h3, h4, h5, p, span {
-  font-family: "XoloniumNormal", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Xolonium, sans-serif;
 }
 
 h1, h2, h3, h4, h5 {

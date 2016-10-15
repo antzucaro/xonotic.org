@@ -1,11 +1,11 @@
 /* Fonts */
 @font-face {
   font-family: 'Xolonium';
-  src: url('../fonts/xolonium-webfont.eot');
-  src: url('../fonts/xolonium-webfont.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/xolonium-webfont.woff') format('woff'),
-  url('../fonts/xolonium-webfont.ttf') format('truetype'),
-  url('../fonts/xolonium-webfont.svg#XoloniumNormal') format('svg');
+  src: url('../fonts/xolonium-regular-latin.eot');
+  src: url('../fonts/xolonium-regular-latin.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/xolonium-regular-latin.woff2') format('woff2'),
+       url('../fonts/xolonium-regular-latin.woff') format('woff'),
+       url('../fonts/xolonium-regular-latin.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,7 +24,7 @@
 /* Foundation Overrides */
 h1, h2, h3, h4, h5 {
   color: rgb(195, 195, 195);
-  font-family: "Xolonium", Helvetica, Arial, sans-serif;
+  font-family: Xolonium, sans-serif;
 }
 body {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/bg.jpg') no-repeat fixed center center / cover #000;
@@ -54,7 +54,7 @@ ul, ol, dl {
 }
 .top-bar-section ul li > a {
   color: rgb(200, 200, 200);
-  font-family: 'Xolonium';
+  font-family: Xolonium, sans-serif;
   font-size: 1rem;
   text-shadow: 0px 1px 1px rgba(200, 200, 200, 0.4);
 }
