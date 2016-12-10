@@ -30,7 +30,7 @@ We had about 30 key community members onboard at the time of the name  choosing.
 
 There are two pronunciations, depending on where you live.
 
-US people are more likely to pronounce it : _zone + otic_  
+US people are more likely to pronounce it : _zone + otic_
 European people are more likely to pronounce it : _kso + notic_
 
 
@@ -117,7 +117,7 @@ On Windows: Click Start->Run, and enter drwtsn32, click Ok in the next window, r
 
 ## Where can I get more help?
 
-Visit the official Xonotic [forum](http://forums.xonotic.org/), there is a support and bug report area. Or get on [IRC](http://webchat.quakenet.org/?channels=xonotic) to chat with others or ask for help. There is the normal users channel (irc://irc.quakenet.org/xonotic) and the developers channel (irc://irc.freenode.net/xonotic)
+Visit the official Xonotic [forum](http://forums.xonotic.org/), there is a support and bug report area. Or get on [IRC](/chat) to chat with others or ask for help. There is the normal users channel (irc://irc.quakenet.org/xonotic) and the developers channel (irc://irc.freenode.net/xonotic)
 
 # General questions
 
