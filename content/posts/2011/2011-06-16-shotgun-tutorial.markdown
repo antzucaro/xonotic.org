@@ -23,4 +23,4 @@ We're very happy to release the first in our series of video weapon tutorials! T
 
 {{% youtube "s0k7yIh9gjA" %}}
 
-As always, join us on [the forums](http://forums.xonotic.org/index.php) or on IRC (#xonotic on [Quakenet](http://webchat.quakenet.org/)) for more information. Happy fragging!
+As always, join us on [the forums](http://forums.xonotic.org/index.php) or on IRC (#xonotic on [Quakenet](/chat)) for more information. Happy fragging!
