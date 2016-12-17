@@ -30,7 +30,7 @@ We had about 30 key community members onboard at the time of the name  choosing.
 
 There are two pronunciations, depending on where you live.
 
-US people are more likely to pronounce it : _zone + otic_
+US people are more likely to pronounce it : _zone + otic_  
 European people are more likely to pronounce it : _kso + notic_
 
 
