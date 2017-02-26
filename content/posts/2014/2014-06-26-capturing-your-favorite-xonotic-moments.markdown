@@ -26,6 +26,7 @@ For the sake of this discussion, let's assume the scenario is that I want to cap
 There are two things that can ease the process. The first involves tuning the default recording profile that comes with Xonotic. While the out-of-the-box settings are sufficient for viewing what you've done in game, they are far from the production quality that we want to put up on YouTube. What we want is something that saves us disk space, encodes quickly, but all the while looks superb. Fortunately a few simple cvar changes can make that happen. Enter the following in your config.cfg (in ~/.xonotic/data/ on Linux, $YOUR_USER/Saved Games/xonotic/data on Windows):
     
 ```
+cl_capturevideo_fps 60
 cl_capturevideo_ogg 1
 cl_capturevideo_ogg_theora_quality 63
 cl_capturevideo_ogg_theora_bitrate -1
@@ -52,7 +53,7 @@ What this does is set up a special screenshot command that binds to the backspac
 
 ### Recording
 
-At this point you have a command that sends specially-formatted screenshots into a directory. Having collected a bunch of these screenshots, you now probably want to record the sweet, sweet frags they represent for posterity's sake! Fortunately, this is the relatively easy part. The first step involves mapping the screenshots to their respective demo files. While you can eyeball the screenshot to demo relationship manually, I prefer using [a simple Python script](http://antzucaro.com/uploads/2014/6/RecordingXonotic/screenshot_to_demo_second.py) to do the mapping for me. If you choose to use this, edit the directories at the top of the script to match your demo and screenshot directories, run the script, then finally save the output for later. 
+At this point you have a command that sends specially-formatted screenshots into a directory. Having collected a bunch of these screenshots, you now probably want to record the sweet, sweet frags they represent for posterity's sake! Fortunately, this is the relatively easy part. The first step involves mapping the screenshots to their respective demo files. While you can eyeball the screenshot to demo relationship manually, I prefer using [a simple Java application](https://github.com/antzucaro/ScreenshotToQueue) to do the mapping for me. If you choose to use this, make sure to follow the build and configuration instructions in the README. Note: this step was previously a Python script which is now deprecated.
 
 {{% polaroid
   "/m/uploads/2014/06/screenshot_mapping.png"
