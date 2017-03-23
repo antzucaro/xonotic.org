@@ -199,7 +199,7 @@ Enter status at the server console. You will see a list of all players. In front
 
 When this was announced, the response from the Nexuiz community was  overwhelming negative, even among the development team and main  contributors. Vermeulen had not actively participated in the project for  several years and all development had been done by the community. Most  members have expressed a sense of betrayal and cited the project as an  example of [mushroom management](http://en.wikipedia.org/wiki/Mushroom_management). Vermeulen essentially cashed in  on the hard work of others and sold the code, name and reputation that  they had built up over years without him.
 
-Despite attempts to [reason with IllFonic](http://alientrap.org/forum/viewtopic.php?f=4&t=6079), they have refused to change  the name of their project to a derivative name even though they have  directly stated that their "version" of Nexuiz is a completely different  game. The hijacking of the Nexuiz project by its absentee founder and  IllFonic made it clear that it had no future as it stood and thus the  community left to found **Xonotic**.
+Despite attempts to [reason with IllFonic](https://web.archive.org/web/20101212165111/http://alientrap.org/forum/viewtopic.php?f=4&t=6079), they have refused to change  the name of their project to a derivative name even though they have  directly stated that their "version" of Nexuiz is a completely different  game. The hijacking of the Nexuiz project by its absentee founder and  IllFonic made it clear that it had no future as it stood and thus the  community left to found **Xonotic**.
 
 It should also be noted that IllFonic's code may be in violation of  the GPL as most contributors to the Nexuiz codebase have not relicensed  their work for inclusion in a closed-source project. This has been  another source of outrage for many.
 
@@ -207,7 +207,7 @@ It should also be noted that IllFonic's code may be in violation of  the GPL as 
 
 ## Was a compromise attempted?
 
-Yes, many in the Nexuiz community tried to [reach a compromise](http://alientrap.org/forum/viewtopic.php?f=4&t=6079), such as having Illfonic  contribute some artwork and/or gamecode back to Nexuiz GPL and for them  to use a derivative name for their project, e.g. "Nexuiz Reloaded".  <del>Illfonic [flatly refused](http://alientrap.org/forum/viewtopic.php?p=76108&f=7#p76108) all such suggestions.</del> This, along  with the clear stance that Alientrap has taken on this issue, made it  clear that no compromise could be reached.
+Yes, many in the Nexuiz community tried to [reach a compromise](http://alientrap.org/forum/viewtopic.php?f=4&t=6079), such as having Illfonic  contribute some artwork and/or gamecode back to Nexuiz GPL and for them  to use a derivative name for their project, e.g. "Nexuiz Reloaded".  <del>Illfonic [flatly refused](https://web.archive.org/web/20101212220555/http://alientrap.org/forum/viewtopic.php?p=76108&f=7) all such suggestions.</del> This, along  with the clear stance that Alientrap has taken on this issue, made it  clear that no compromise could be reached.
 
 **Update** It has been clarified that, despite some of misleading wording in previous communication, Illfonic will be contributing _some_ of the game code back to Nexuiz GPL, mainly having to do with bandwidth improvements and animation blending.
 
