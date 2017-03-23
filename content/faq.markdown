@@ -127,6 +127,7 @@ Visit the official Xonotic [forum](http://forums.xonotic.org/), there is a suppo
   * Linux: ~/.xonotic
   * Windows: C:\Users\yourusername\Saved Games\xonotic
   * Mac: ~/Library/Application Support/xonotic
+      * Library might be hidden on Mac so Finder won't display it
 
 ## How do I install new maps?
 
