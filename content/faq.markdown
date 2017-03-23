@@ -131,7 +131,7 @@ Visit the official Xonotic [forum](http://forums.xonotic.org/), there is a suppo
 
 ## How do I install new maps?
 
-Maps usually ship as .pk3 file. All you have to do is to copy this file to the Xonotic/data/ (on Linux, Mac, Windows) OR ~/.xonotic/data/ (on Linux, Mac) directory. Map packages that were downloaded from a server during playing end up in Xonotic/data/dlcache/ or ~/.xonotic/data/dlcache/ and are only used till you exit Xonotic. If you want to play them locally or use them to setup a server of your own you can "accept" the packages by moving it one level up - right next to your config.cfg.
+Maps usually ship as .pk3 file. All you have to do is to copy this file to the [\<config folder\>](#config)/data/ directory. Map packages that were downloaded from a server during playing end up in [\<your config folder\>](#config)/data/dlcache/ and are only used till you exit Xonotic. If you want to play them locally or use them to setup a server of your own you can "accept" the packages by moving it one level up - right next to your config.cfg.
 
 An extensive list of maps is at [xonotic.co](http://xonotic.co)
 
@@ -172,7 +172,7 @@ code   | rgb code  | color
 
 ## How do I watch/record demos?
 
-Demos are recordings of matches that you have played. To automatically record a demo each time you play enable the option Record demos while playing in the Multiplayer / Demos menu. Or if you just want to record some matches open the console and type rec <demos/name> before playing. That is before starting a game or connecting to a server. The demo file will then be stored in Xonotic/data/demos/<name>.dem (on Windows) or ~/.xonotic/data/demos/<name>.dem (on Linux, Mac). If you downloaded a demo, copy it to Xonotic/data/demos/<name>.dem (on Linux, Mac, Windows) or ~/.xonotic/data/demos/<name>.dem (on Linux, Mac). You might have to create this directory if you have never recorded a demo before. To watch demos you can choose a demo file in the Multiplayer / Demos and click the play button. Also you can watch demos typing _ply <demos/name>_ in the console ([How do I open the console?]({{< relref "#how-do-i-open-the-console" >}})). You can list all your demo files by typing _dem_ on the console.
+Demos are recordings of matches that you have played. To automatically record a demo each time you play enable the option Record demos while playing in the Multiplayer / Demos menu. Or if you just want to record some matches open the console and type rec <demos/name> before playing. That is before starting a game or connecting to a server. The demo file will then be stored in [your config folder](#config)/data/demos/<name>.dem. If you downloaded a demo, copy it to [\<your config folder\>](#config)/data/demos/<name>.dem. You might have to create this directory if you have never recorded a demo before. To watch demos you can choose a demo file in the Multiplayer / Demos and click the play button. Also you can watch demos typing _ply <demos/name>_ in the console ([How do I open the console?]({{< relref "#how-do-i-open-the-console" >}})). You can list all your demo files by typing _dem_ on the console.
 
 # Server setup
 
