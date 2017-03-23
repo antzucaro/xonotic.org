@@ -72,7 +72,7 @@ This happens when the engine can't load the data*.pk3 file or has trouble to ini
 
 This happens when the engine has trouble initializing OpenGL. The reasons could be:
 
-  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: intel ati nvidia
+  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com) [ati](http://ati.com) [nvidia](http://nvidia.com)
   * You do not have permissions needed for 3d acceleration. Usually you need to add yourself to the group video, you can do that via console as root like this: _usermod -a -G video YOURUSERNAME_. You need to logoff/in afterwards.
 
 ## When I start Xonotic my screen is flickering
