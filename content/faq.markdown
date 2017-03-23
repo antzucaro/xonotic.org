@@ -101,7 +101,7 @@ Check if your desktop color depth is set to 32 bits per pixel. If it's just set 
 
 ## When I join a server or after a map change I see nothing but a black screen, but I can still move and shoot
 
-This is probably because you don't have the map that's running on the server or it didn't download correctly. Try clearing your _dlcache_ (in ~/.xonotic/data/dlcache).
+This is probably because you don't have the map that's running on the server or it didn't download correctly. Try clearing your _dlcache_ (in [config folder](#config)/data/dlcache) and restarting Xonotic.
 
 For Linux users: you need to have libcurl installed, otherwise you won't be able to download any maps. libcurl should be available in any Linux distribution, just search for "libcurl" and install it in your distribution's package manager.
 
