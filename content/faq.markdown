@@ -129,6 +129,12 @@ Visit the official Xonotic [forum](http://forums.xonotic.org/), there is a suppo
   * Mac: ~/Library/Application Support/xonotic
       * Library might be hidden on Mac so Finder won't display it
 
+## What is the difference between the config and install directories?
+
+The install directory is what you get when you unzip the downloaded file. We usually call it Xonotic. Since Xonotic (the game) doesn't need installation, Xonotic (the folder) can be anywhere you put it.
+
+The config directory (sometimes called user directory) has a specific [location](#config) depending on your OS but we usually call it ~/.xonotic since most players and devs are on linux. ~/.xonotic contains all your settings and it's where you can put additional maps or assets when experimenting with the game or running your own server.
+
 ## How do I install new maps?
 
 Maps usually ship as .pk3 file. All you have to do is to copy this file to the [\<config folder\>](#config)/data/ directory. Map packages that were downloaded from a server during playing end up in [\<your config folder\>](#config)/data/dlcache/ and are only used till you exit Xonotic. If you want to play them locally or use them to setup a server of your own you can "accept" the packages by moving it one level up - right next to your config.cfg.
