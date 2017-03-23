@@ -121,6 +121,13 @@ Visit the official Xonotic [forum](http://forums.xonotic.org/), there is a suppo
 
 # General questions
 
+<a name="config"></a>
+## Where are the configuration files located?
+
+  * Linux: ~/.xonotic
+  * Windows: C:\Users\yourusername\Saved Games\xonotic
+  * Max: ~/Library/Application Support/xonotic
+
 ## How do I install new maps?
 
 Maps usually ship as .pk3 file. All you have to do is to copy this file to the Xonotic/data/ (on Linux, Mac, Windows) OR ~/.xonotic/data/ (on Linux, Mac) directory. Map packages that were downloaded from a server during playing end up in Xonotic/data/dlcache/ or ~/.xonotic/data/dlcache/ and are only used till you exit Xonotic. If you want to play them locally or use them to setup a server of your own you can "accept" the packages by moving it one level up - right next to your config.cfg.
