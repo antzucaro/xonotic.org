@@ -129,7 +129,7 @@ An extensive list of maps is at [xonotic.co](http://xonotic.co)
 
 ## How can I place a shortcut to Xonotic on my Linux desktop?
 
-Use the script xonotic-linux-sdl.sh or xonotic-linux-glx.sh instead of the binaries. The scripts will use the correct working directory,choose the right version (32 or 64 bit) and also allow you to start a extra X server.
+Use the script xonotic-linux-sdl.sh or xonotic-linux-glx.sh instead of the binaries. The scripts will use the correct working directory, choose the right version (32 or 64 bit) and also allow you to start a extra X server.
 
 ## How do I open the console?
 
