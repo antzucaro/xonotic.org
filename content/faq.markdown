@@ -58,6 +58,12 @@ Another aspect of the logo is the center ring, which has some  similarities to t
 
 # Troubleshooting
 
+## When I join a server or after a map change I see nothing but a black screen, but I can still move and shoot
+
+This is probably because you don't have the map that's running on the server or it didn't download correctly. Try clearing your _dlcache_ (in [\<your config folder\>](#config)/data/dlcache) and restarting Xonotic.
+
+For Linux users: you need to have libcurl installed, otherwise you won't be able to download any maps. libcurl should be available in any Linux distribution, just search for "libcurl" and install it in your distribution's package manager.
+
 ## When I start Xonotic all I see is a black screen or a black screen with some checkered squares
 
 This happens when the engine can't load the data*.pk3 file or has trouble to initialize OpenGL. The reasons could be:
@@ -98,12 +104,6 @@ Linux: A similar problem can arise on Linux. It's also Turn off OS mouse acceler
 ## I can't switch to 32 bit color depth (on Windows)
 
 Check if your desktop color depth is set to 32 bits per pixel. If it's just set to 16, Xonotic can't switch to 32 bit mode.
-
-## When I join a server or after a map change I see nothing but a black screen, but I can still move and shoot
-
-This is probably because you don't have the map that's running on the server or it didn't download correctly. Try clearing your _dlcache_ (in [\<your config folder\>](#config)/data/dlcache) and restarting Xonotic.
-
-For Linux users: you need to have libcurl installed, otherwise you won't be able to download any maps. libcurl should be available in any Linux distribution, just search for "libcurl" and install it in your distribution's package manager.
 
 ## How to report crashes and bugs
 
