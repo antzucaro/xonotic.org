@@ -126,7 +126,7 @@ Visit the official Xonotic [forum](http://forums.xonotic.org/), there is a suppo
 
   * Linux: ~/.xonotic
   * Windows: C:\Users\yourusername\Saved Games\xonotic
-  * Max: ~/Library/Application Support/xonotic
+  * Mac: ~/Library/Application Support/xonotic
 
 ## How do I install new maps?
 
