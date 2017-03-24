@@ -58,6 +58,12 @@ Another aspect of the logo is the center ring, which has some  similarities to t
 
 # Troubleshooting
 
+## When I join a server or after a map change I see nothing but a black screen, but I can still move and shoot
+
+This is probably because you don't have the map that's running on the server or it didn't download correctly. Try clearing your _dlcache_ (in [\<your config folder\>](#config)/data/dlcache) and restarting Xonotic.
+
+For Linux users: you need to have libcurl installed, otherwise you won't be able to download any maps. libcurl should be available in any Linux distribution, just search for "libcurl" and install it in your distribution's package manager.
+
 ## When I start Xonotic all I see is a black screen or a black screen with some checkered squares
 
 This happens when the engine can't load the data*.pk3 file or has trouble to initialize OpenGL. The reasons could be:
@@ -72,7 +78,7 @@ This happens when the engine can't load the data*.pk3 file or has trouble to ini
 
 This happens when the engine has trouble initializing OpenGL. The reasons could be:
 
-  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: intel ati nvidia
+  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com) [ati](http://ati.com) [nvidia](http://nvidia.com)
   * You do not have permissions needed for 3d acceleration. Usually you need to add yourself to the group video, you can do that via console as root like this: _usermod -a -G video YOURUSERNAME_. You need to logoff/in afterwards.
 
 ## When I start Xonotic my screen is flickering
@@ -99,12 +105,6 @@ Linux: A similar problem can arise on Linux. It's also Turn off OS mouse acceler
 
 Check if your desktop color depth is set to 32 bits per pixel. If it's just set to 16, Xonotic can't switch to 32 bit mode.
 
-## When I join a server or after a map change I see nothing but a black screen, but I can still move and shoot
-
-This is probably because you don't have the map that's running on the server or it didn't download correctly. Try clearing your _dlcache_ (in ~/.xonotic/data/dlcache).
-
-For Linux users: you need to have libcurl installed, otherwise you won't be able to download any maps. libcurl should be available in any Linux distribution, just search for "libcurl" and install it in your distribution's package manager.
-
 ## How to report crashes and bugs
 
 Use our [issue tracker](http://gitlab.com/xonotic/xonotic-data.pk3dir/issues) on Gitlab.
@@ -121,15 +121,29 @@ Visit the official Xonotic [forum](http://forums.xonotic.org/), there is a suppo
 
 # General questions
 
+<a name="config"></a>
+## Where are the configuration files located?
+
+  * Linux: ~/.xonotic
+  * Windows: C:\\Users\\\<your_user_name\>\\Saved Games\\xonotic
+  * Mac: ~/Library/Application Support/xonotic
+      * Library might be hidden on Mac so Finder won't display it
+
+## What is the difference between the config and install directories?
+
+The install directory is what you get when you unzip the downloaded file. We usually call it Xonotic. Since Xonotic (the game) doesn't need installation, Xonotic (the folder) can be anywhere you put it.
+
+The config directory (sometimes called user directory) has a specific [location](#config) depending on your OS but we usually call it ~/.xonotic since most players and devs are on linux. ~/.xonotic contains all your settings and it's where you can put additional maps or assets when experimenting with the game or running your own server.
+
 ## How do I install new maps?
 
-Maps usually ship as .pk3 file. All you have to do is to copy this file to the Xonotic/data/ (on Linux, Mac, Windows) OR ~/.xonotic/data/ (on Linux, Mac) directory. Map packages that were downloaded from a server during playing end up in Xonotic/data/dlcache/ or ~/.xonotic/data/dlcache/ and are only used till you exit Xonotic. If you want to play them locally or use them to setup a server of your own you can "accept" the packages by moving it one level up - right next to your config.cfg.
+Maps usually ship as .pk3 file. All you have to do is to copy this file to the [\<config folder\>](#config)/data/ directory. Map packages that were downloaded from a server during playing end up in [\<your config folder\>](#config)/data/dlcache/ and are only used till you exit Xonotic. If you want to play them locally or use them to setup a server of your own you can "accept" the packages by moving it one level up - right next to your config.cfg.
 
 An extensive list of maps is at [xonotic.co](http://xonotic.co)
 
 ## How can I place a shortcut to Xonotic on my Linux desktop?
 
-Use the script xonotic-linux-sdl.sh or xonotic-linux-glx.sh instead of the binaries. The scripts will use the correct working directory,choose the right version (32 or 64 bit) and also allow you to start a extra X server.
+Use the script xonotic-linux-sdl.sh or xonotic-linux-glx.sh instead of the binaries. The scripts will use the correct working directory, choose the right version (32 or 64 bit) and also allow you to start a extra X server.
 
 ## How do I open the console?
 
@@ -164,7 +178,7 @@ code   | rgb code  | color
 
 ## How do I watch/record demos?
 
-Demos are recordings of matches that you have played. To automatically record a demo each time you play enable the option Record demos while playing in the Multiplayer / Demos menu. Or if you just want to record some matches open the console and type rec <demos/name> before playing. That is before starting a game or connecting to a server. The demo file will then be stored in Xonotic/data/demos/<name>.dem (on Windows) or ~/.xonotic/data/demos/<name>.dem (on Linux, Mac). If you downloaded a demo, copy it to Xonotic/data/demos/<name>.dem (on Linux, Mac, Windows) or ~/.xonotic/data/demos/<name>.dem (on Linux, Mac). You might have to create this directory if you have never recorded a demo before. To watch demos you can choose a demo file in the Multiplayer / Demos and click the play button. Also you can watch demos typing _ply <demos/name>_ in the console ([How do I open the console?]({{< relref "#how-do-i-open-the-console" >}})). You can list all your demo files by typing _dem_ on the console.
+Demos are recordings of matches that you have played. To automatically record a demo each time you play enable the option Record demos while playing in the Multiplayer / Demos menu. Or if you just want to record some matches open the console and type rec <demos/name> before playing. That is before starting a game or connecting to a server. The demo file will then be stored in [your config folder](#config)/data/demos/<name>.dem. If you downloaded a demo, copy it to [\<your config folder\>](#config)/data/demos/<name>.dem. You might have to create this directory if you have never recorded a demo before. To watch demos you can choose a demo file in the Multiplayer / Demos and click the play button. Also you can watch demos typing _ply <demos/name>_ in the console ([How do I open the console?]({{< relref "#how-do-i-open-the-console" >}})). You can list all your demo files by typing _dem_ on the console.
 
 # Server setup
 
@@ -192,7 +206,7 @@ Enter status at the server console. You will see a list of all players. In front
 
 When this was announced, the response from the Nexuiz community was  overwhelming negative, even among the development team and main  contributors. Vermeulen had not actively participated in the project for  several years and all development had been done by the community. Most  members have expressed a sense of betrayal and cited the project as an  example of [mushroom management](http://en.wikipedia.org/wiki/Mushroom_management). Vermeulen essentially cashed in  on the hard work of others and sold the code, name and reputation that  they had built up over years without him.
 
-Despite attempts to [reason with IllFonic](http://alientrap.org/forum/viewtopic.php?f=4&t=6079), they have refused to change  the name of their project to a derivative name even though they have  directly stated that their "version" of Nexuiz is a completely different  game. The hijacking of the Nexuiz project by its absentee founder and  IllFonic made it clear that it had no future as it stood and thus the  community left to found **Xonotic**.
+Despite attempts to [reason with IllFonic](https://web.archive.org/web/20101212165111/http://alientrap.org/forum/viewtopic.php?f=4&t=6079), they have refused to change  the name of their project to a derivative name even though they have  directly stated that their "version" of Nexuiz is a completely different  game. The hijacking of the Nexuiz project by its absentee founder and  IllFonic made it clear that it had no future as it stood and thus the  community left to found **Xonotic**.
 
 It should also be noted that IllFonic's code may be in violation of  the GPL as most contributors to the Nexuiz codebase have not relicensed  their work for inclusion in a closed-source project. This has been  another source of outrage for many.
 
@@ -200,7 +214,7 @@ It should also be noted that IllFonic's code may be in violation of  the GPL as 
 
 ## Was a compromise attempted?
 
-Yes, many in the Nexuiz community tried to [reach a compromise](http://alientrap.org/forum/viewtopic.php?f=4&t=6079), such as having Illfonic  contribute some artwork and/or gamecode back to Nexuiz GPL and for them  to use a derivative name for their project, e.g. "Nexuiz Reloaded".  <del>Illfonic [flatly refused](http://alientrap.org/forum/viewtopic.php?p=76108&f=7#p76108) all such suggestions.</del> This, along  with the clear stance that Alientrap has taken on this issue, made it  clear that no compromise could be reached.
+Yes, many in the Nexuiz community tried to [reach a compromise](http://alientrap.org/forum/viewtopic.php?f=4&t=6079), such as having Illfonic  contribute some artwork and/or gamecode back to Nexuiz GPL and for them  to use a derivative name for their project, e.g. "Nexuiz Reloaded".  <del>Illfonic [flatly refused](https://web.archive.org/web/20101212220555/http://alientrap.org/forum/viewtopic.php?p=76108&f=7) all such suggestions.</del> This, along  with the clear stance that Alientrap has taken on this issue, made it  clear that no compromise could be reached.
 
 **Update** It has been clarified that, despite some of misleading wording in previous communication, Illfonic will be contributing _some_ of the game code back to Nexuiz GPL, mainly having to do with bandwidth improvements and animation blending.
 
