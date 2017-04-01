@@ -15,7 +15,7 @@ type: page
 
 No installation required, just unpack and run. Got questions? See the [FAQ](/faq) or [live chat](/chat) with us.
 
-MD5: 1bd46c1fb79aae42bb13e74f5a0ff46e
+MD5: 1bd46c1fb79aae42bb13e74f5a0ff46e  
 Package size: 946M  
 
 ### Upgrading from an older version
