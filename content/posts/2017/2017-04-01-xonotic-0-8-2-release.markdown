@@ -1,7 +1,7 @@
 ---
 author: Antibody
 comments: false
-date: 2017-03-31 20:00:00+00:00
+date: 2017-04-01 14:00:00+00:00
 layout: post
 slug: xonotic-0-8-2-release
 title: Xonotic 0.8.2 Release
@@ -32,7 +32,7 @@ Here are some feature highlights for this release:
 
 <a href="/m/uploads/2017/02/quickmenu.jpg"><img src="/m/uploads/2017/02/quickmenu_t.jpg" title="Quick Menu" class="right th m10"></a>Developer [terencehill][terencehill Profile] has added a "quick menu" system to the in-game HUD layer. This system allows you to expand your configuration options without having to occupy additional keybindings. Access it by hitting the F8 key (by default), which will bring up a menu overlay on your screen where you can then use the arrow keys to navigate  and make selections. terencehill has also helpfully included an [example configuration file][quickmenu example] for customizing the options in your quick menu.
 
-<a href="/m/uploads/2017/02/boil.jpg"><img src="/m/uploads/2017/02/boil_t.jpg" title="Boil" class="left th m10"></a>Mapping czar [Mirio][Mirio Profile] and his team have integrated several new maps for our collective playing enjoyment. In addition to fixing many details of existing maps in the portfolio we now have [Boil][Boil] by [kuniu the frogg][kuniu the frogg Profile], [Geoplanetary][Geoplanetary] by [MintOX][MintOX Profile], and [Erbium][Erbium] by [Justin][Justin Profile] shipped with the game. Both Boil and Erbium are deathmatch-oriented maps, each with a unique look-and-feel. Geoplanetary is a CTF-oriented map with an open design, a central vortex location, and clever warpzone placement. Boil features a new music track ["Go Get 'Em"][Boil music] by [TheAudioMonkey][TheAudioMonkey Profile], while Erbium features the new track ["Nanite"][Nanite] by [Archer][Archer Profile]. In addition, fan-favorite map Darkzone has received some visual and structural updates.<a href="/m/uploads/2018/02/erbium.jpg"><img src="/m/uploads/2017/02/erbium_t.jpg" title="Erbium" class="right th m10"></a>
+<a href="/m/uploads/2017/02/boil.jpg"><img src="/m/uploads/2017/02/boil_t.jpg" title="Boil" class="left th m10"></a>Mapping czar [Mirio][Mirio Profile] and his team have integrated several new maps for our collective playing enjoyment. In addition to fixing many details of existing maps in the portfolio we now have [Boil][Boil] by [kuniu the frogg][kuniu the frogg Profile], [Geoplanetary][Geoplanetary] by [MintOX][MintOX Profile], and [Erbium][Erbium] by [Justin][Justin Profile] shipped with the game. Both Boil and Erbium are deathmatch-oriented maps, each with a unique look-and-feel. Geoplanetary is a CTF-oriented map with an open design, a central vortex location, and clever warpzone placement. Boil features a new music track ["Go Get 'Em"][Boil music] by [TheAudioMonkey][TheAudioMonkey Profile], while Erbium features the new track ["Nanite"][Nanite] by [Archer][Archer Profile]. In addition, fan-favorite map Darkzone has received some visual and structural updates.<a href="/m/uploads/2017/02/erbium.jpg"><img src="/m/uploads/2017/02/erbium_t.jpg" title="Erbium" class="right th m10"></a>
 
 When playing a match with a lot of players, did you ever want to know who was spectating you? Your curiosity can now be satisfied with a new feature that lists who's watching your gameplay. Don't get nervous - "It's only game" after all! You can control this setting with the "cl_showspectators" cvar in your client and the "sv_showspectators" cvar on the server. By default it is disabled on the client and enabled on the server.
 
