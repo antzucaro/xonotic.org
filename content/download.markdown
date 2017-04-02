@@ -15,7 +15,12 @@ type: page
 
 No installation required, just unpack and run. Got questions? See the [FAQ](/faq) or [live chat](/chat) with us.
 
+sha256sum: a22f7230f486c5825b55cfdadd73399c9b0fae98c9e081dd8ac76eca08359ad5
+
+shasum: 9a1726e3d0d4e5e23c1e799734397c63e5df6ec9
+
 MD5: 1bd46c1fb79aae42bb13e74f5a0ff46e  
+
 Package size: 946M  
 
 ### Upgrading from an older version
