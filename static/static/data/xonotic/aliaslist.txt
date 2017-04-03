@@ -1,6 +1,7 @@
 ^7+attack2 : +button3
 ^7+con_chat_maximize : _con_chat_maximized 1; _backup_con_chatvars; con_notify 0; con_chattime 3600; cl_deathscoreboard 0; scr_centertime 0; r_track_sprites 0
 ^7+crouch : +button5
+^7+dodge : +button11
 ^7+fire : +attack
 ^7+fire2 : +button3
 ^7+hook : +button6
@@ -12,6 +13,7 @@
 ^7-attack2 : -button3
 ^7-con_chat_maximize : _con_chat_maximized 0; _restore_con_chatvars
 ^7-crouch : -button5
+^7-dodge : -button11
 ^7-fire : -attack
 ^7-fire2 : -button3
 ^7-hook : -button6
@@ -67,7 +69,7 @@
 ^7_weapprev_1 : impulse 16
 ^7_weapprev_2 : impulse 12
 ^7addfav : qc_cmd_svmenu addtolist net_slist_favorites ${* ?}
-^7addtolist : qc_cmd_svmenu addtolist            ${* ?}
+^7addtolist : qc_cmd_svmenu addtolist ${* ?}
 ^7addvote : qc_cmd_svmenu addtolist sv_vote_commands ${* ?}
 ^7adminmsg : qc_cmd_sv     adminmsg             ${* ?}
 ^7allready : qc_cmd_sv     allready             ${* ?}
@@ -88,7 +90,8 @@
 ^7blurtest : qc_cmd_cl     blurtest             ${* ?}
 ^7bot_cmd : qc_cmd_sv     bot_cmd              ${* ?}
 ^7bsp : ls maps/*.bsp
-^7checkfail : qc_cmd_cmd    checkfail            ${* ?}
+^7bufstr_get : qc_cmd_svmenu bufstr_get ${* ?}
+^7butcher : editmob butcher ${* ?}
 ^7chmap : changelevel ${* ?}
 ^7cl_hook_activeweapon : 
 ^7cl_hook_gameend : rpn /cl_matchcount dup load 1 + =
@@ -109,11 +112,13 @@
 ^7cl_hook_gamestart_ons : 
 ^7cl_hook_gamestart_rc : 
 ^7cl_hook_gamestart_tdm : 
+^7cl_hook_shutdown : 
 ^7clearmap : disconnect
 ^7clientversion : qc_cmd_cmd    clientversion        ${* ?}
 ^7cointoss : qc_cmd_sv     cointoss             ${* ?}
 ^7create_scrshot_ent : qc_cmd_cl     create_scrshot_ent   ${* ?}
 ^7cvar_changes : qc_cmd_svcmd  cvar_changes         ${* ?}
+^7cvar_localchanges : qc_cmd_svmenu cvar_localchanges ${* ?}
 ^7cvar_purechanges : qc_cmd_svcmd  cvar_purechanges     ${* ?}
 ^7database : qc_cmd_sv     database             ${* ?}
 ^7debugmodel : qc_cmd_cl     debugmodel           ${* ?}
@@ -122,14 +127,19 @@
 ^7delrec : qc_cmd_sv     delrec               ${* ?}
 ^7devmap : set _developer_save $developer; set developer 1; changelevel ${* ?}; set developer $_developer_save
 ^7dropweapon : impulse 17
-^7dumpcommands : qc_cmd_svmenu dumpcommands         ${* ?}
+^7dumpcommands : qc_cmd_svmenu dumpcommands ${* ?}
 ^7dumpdb : sv_cmd database dump "${1 ?}"
+^7dumpitems : qc_cmd_svmenu dumpitems ${* ?}
 ^7dumpnotifs : qc_cmd_svcl   dumpnotifs           ${* ?}
+^7dumpturrets : qc_cmd_svmenu dumpturrets ${* ?}
+^7dumpweapons : qc_cmd_svmenu dumpweapons ${* ?}
+^7editmob : qc_cmd_cmd    editmob              ${* ?}
 ^7effectindexdump : qc_cmd_sv     effectindexdump      ${* ?}
 ^7endmatch : timelimit -1
 ^7exit : quit
 ^7extendmatchtime : qc_cmd_sv     extendmatchtime      ${* ?}
-^7find : qc_cmd_sv     find                 ${* ?}
+^7find : qc_cmd_svmenu find ${* ?}
+^7findat : qc_cmd_svmenu findat ${* ?}
 ^7g_forced_team_matchsetup : map $1; settemp g_forced_team_red "$2"; settemp g_forced_team_blue "$3"; settemp g_forced_team_yellow "$4"; settemp g_forced_team_pink "$5"; settemp g_forced_team_otherwise spectate
 ^7g_hitplots_add : qc_cmd_svmenu rpn /g_hitplots_individuals g_hitplots_individuals ${1 !} union def
 ^7g_hitplots_remove : qc_cmd_svmenu rpn /g_hitplots_individuals g_hitplots_individuals ${1 !} difference def
@@ -175,6 +185,7 @@
 ^7info : qc_cmd_svcmd  info                 ${* ?}
 ^7join : qc_cmd_cmd    join                 ${* ?}
 ^7kickban : qc_cmd_sv     kickban              ${* ?}
+^7killmob : editmob kill ${* ?}
 ^7ladder : qc_cmd_svcmd  ladder               ${* ?}
 ^7loadconfig : cvar_resettodefaults_saveonly; exec ${* !}
 ^7loaddb : sv_cmd database load "${1 ?}"
@@ -183,7 +194,7 @@
 ^7lsmaps : qc_cmd_svcmd  lsmaps               ${* ?}
 ^7make_mapinfo : qc_cmd_sv     make_mapinfo         ${* ?}
 ^7makesaved : seta $1 "${$1 ?}"
-^7maplist : qc_cmd_svmenu maplist              ${* ?}
+^7maplist : qc_cmd_svmenu maplist ${* ?}
 ^7menu_loadmap_prepare : disconnect; wait; g_campaign 0; menu_cmd rpn /_menu_loadmap_maxplayers menu_maxplayers minplayers bot_number 1 add max max def; _menu_loadmap_prepare_maxpl; g_maplist_shufflenow
 ^7menu_showhudexit : menu_cmd directmenu HUDExit
 ^7menu_showhudoptions : menu_cmd directpanelhudmenu ${* ?}
@@ -193,18 +204,20 @@
 ^7menu_showteamselect : menu_cmd directmenu TeamSelect
 ^7menu_sync : menu_cmd sync
 ^7mobbutcher : qc_cmd_sv     mobbutcher           ${* ?}
-^7mobedit : qc_cmd_cmd    mobedit              ${* ?}
-^7mobkill : qc_cmd_cmd    mobkill              ${* ?}
-^7mobspawn : qc_cmd_cmd    mobspawn             ${* ?}
+^7movemob : editmob movetarget ${* ?}
 ^7moveplayer : qc_cmd_sv     moveplayer           ${* ?}
 ^7movetoauto : moveplayer ${1 ?} auto
 ^7movetoblue : moveplayer ${1 ?} blue
 ^7movetopink : moveplayer ${1 ?} pink
 ^7movetored : moveplayer ${1 ?} red
+^7movetospec : moveplayer ${1 ?} spec
 ^7movetoyellow : moveplayer ${1 ?} yellow
 ^7mute : qc_cmd_sv     mute                 ${* ?}
-^7nextframe : qc_cmd_svmenu nextframe            ${* ?}
+^7mx : qc_cmd_svmenu mx ${* ?}
+^7namemob : editmob name ${* ?}
+^7nextframe : qc_cmd_svmenu nextframe ${* ?}
 ^7nospectators : qc_cmd_sv     nospectators         ${* ?}
+^7physics : qc_cmd_cmd    physics              ${* ?}
 ^7playerdemo : qc_cmd_sv     playerdemo           ${* ?}
 ^7ply : playdemo $1
 ^7printmaplist : qc_cmd_svcmd  printmaplist         ${* ?}
@@ -215,7 +228,8 @@
 ^7qc_cmd_svcl : cl_cmd $*
 ^7qc_cmd_svcmd : cmd $*
 ^7qc_cmd_svmenu : menu_cmd $*
-^7qc_curl : qc_cmd_svmenu qc_curl              ${* ?}
+^7qc_curl : qc_cmd_svmenu qc_curl ${* ?}
+^7quickmenu : cl_cmd hud quickmenu ${* ?}
 ^7radar : qc_cmd_cl hud radar ${* ?}
 ^7radarmap : qc_cmd_sv     radarmap             ${* ?}
 ^7rankings : qc_cmd_svcmd  rankings             ${* ?}
@@ -224,10 +238,11 @@
 ^7records : qc_cmd_svcmd  records              ${* ?}
 ^7reducematchtime : qc_cmd_sv     reducematchtime      ${* ?}
 ^7reload : impulse 20
-^7removefromlist : qc_cmd_svmenu removefromlist       ${* ?}
+^7removefromlist : qc_cmd_svmenu removefromlist ${* ?}
 ^7reportcvar : qc_cmd_cmd    reportcvar           ${* ?}
-^7restartnotifs : qc_cmd_svcl   restartnotifs        ${* ?}
-^7rpn : qc_cmd_svmenu rpn                  ${* ?}
+^7restartnotifs : qc_cmd_svmenu restartnotifs ${* ?}
+^7rpn : qc_cmd_svmenu rpn ${* ?}
+^7runtest : qc_cmd_svmenu runtest ${* ?}
 ^7sandbox : cmd g_sandbox ${* ?}
 ^7savedb : sv_cmd database save "${1 ?}"
 ^7scoreboard_columns_help : qc_cmd_cl hud scoreboard_columns_help
@@ -240,17 +255,19 @@
 ^7setbots : qc_cmd_sv     setbots              ${* ?}
 ^7sethostname : set menu_use_default_hostname 0; hostname $*
 ^7setreport : set "$1" "$2" ; sendcvar "$1"
-^7settemp : qc_cmd_svcl settemp $*
-^7settemp_restore : qc_cmd_svcl settemp_restore
+^7settemp : qc_cmd_svmenu settemp ${* ?}
+^7settemp_restore : qc_cmd_svmenu settemp_restore ${* ?}
 ^7shuffleteams : qc_cmd_sv     shuffleteams         ${* ?}
 ^7singleplayer_continue : set scmenu_campaign_goto -1
 ^7singleplayer_levellist : set scmenu_campaign_dump 1; togglemenu; wait; togglemenu
 ^7singleplayer_start : g_campaign_index 0; set scmenu_campaign_goto 0
+^7skinmob : editmob skin ${* ?}
 ^7skybox_nosRGB_to_sRGB : rpn $3 402.123 $4 div div $rpn_sRGB_to_linear 402.123 $4 div mul /new_skylight: $3 402.123 $4 div div $1 256 div $2 0.017453 mul sin mul add $rpn_sRGB_to_linear $3 402.123 $4 div div $rpn_sRGB_to_linear sub 256 mul $2 0.017453 mul sin div /new_sunlight:
 ^7snd_attenuation_method_0 : set menu_snd_attenuation_method 0; set snd_soundradius 1200; set snd_attenuation_exponent 1; set snd_attenuation_decibel 0
 ^7snd_attenuation_method_1 : set menu_snd_attenuation_method 1; set snd_soundradius 2400; set snd_attenuation_exponent 4; set snd_attenuation_decibel 0
 ^7snd_attenuation_method_2 : set menu_snd_attenuation_method 2; set snd_soundradius 1200; set snd_attenuation_exponent 0; set snd_attenuation_decibel 10
-^7spec : spectate
+^7spawnmob : editmob spawn ${* ?}
+^7spec : spectate ${* ?}
 ^7spectate : qc_cmd_cmd    spectate             ${* ?}
 ^7startmap_dm : set _sv_init 0; map _init/_init; exec $serverconfig; set _sv_init 1
 ^7startmap_sp : map start
@@ -282,13 +299,14 @@
 ^7sv_hook_gamestart_tdm : 
 ^7sv_loadconfig : exec $serverconfig
 ^7sv_restart : say "Server will restart at the end of the match, you will all be reconnected automatically. ${* ?} "; quit_and_redirect self
-^7sv_vote_gametype_hook_all : 
+^7sv_vote_gametype_hook_all : set g_maxplayers 0
 ^7sv_vote_gametype_hook_as : 
 ^7sv_vote_gametype_hook_ca : 
 ^7sv_vote_gametype_hook_ctf : 
 ^7sv_vote_gametype_hook_cts : 
 ^7sv_vote_gametype_hook_dm : 
 ^7sv_vote_gametype_hook_dom : 
+^7sv_vote_gametype_hook_duel : set g_maxplayers 2
 ^7sv_vote_gametype_hook_ft : 
 ^7sv_vote_gametype_hook_inv : 
 ^7sv_vote_gametype_hook_ka : 
@@ -323,6 +341,7 @@
 ^7vdomap : vdo gotomap ${1 ?}
 ^7vdontcare : qc_cmd_cmd vote abstain
 ^7vend : vcall endmatch
+^7version : qc_cmd_svmenu version ${* ?}
 ^7vext : vcall extendmatchtime
 ^7vhelp : qc_cmd_svcmd vote help
 ^7vkick : vcall kick ${1 ?}
@@ -347,7 +366,6 @@
 ^7weapon_devastator : impulse 239
 ^7weapon_electro : impulse 235
 ^7weapon_fireball : impulse 246
-^7weapon_grenadelauncher : weapon_mortar
 ^7weapon_group_0 : impulse 14
 ^7weapon_group_1 : impulse 1
 ^7weapon_group_2 : impulse 2
@@ -361,22 +379,20 @@
 ^7weapon_hagar : impulse 238
 ^7weapon_hlac : impulse 243
 ^7weapon_hook : impulse 242
-^7weapon_laser : weapon_blaster
 ^7weapon_machinegun : impulse 232
 ^7weapon_minelayer : impulse 234
-^7weapon_minstanex : weapon_vaporizer
 ^7weapon_mortar : impulse 233
-^7weapon_nex : weapon_vortex
 ^7weapon_porto : impulse 240
 ^7weapon_rifle : impulse 245
-^7weapon_rocketlauncher : weapon_devastator
 ^7weapon_seeker : impulse 247
 ^7weapon_shockwave : impulse 248
 ^7weapon_shotgun : impulse 231
 ^7weapon_tuba : impulse 244
-^7weapon_uzi : weapon_machinegun
+^7weapon_turret_ewheel : impulse 250
+^7weapon_turret_flac : impulse 251
+^7weapon_turret_hellion : impulse 252
+^7weapon_turret_hk : impulse 253
 ^7weapon_vaporizer : impulse 241
 ^7weapon_vortex : impulse 237
 ^7weapprev : _weapprev_${cl_weaponpriority_useforcycling}
 ^7who : qc_cmd_svcmd  who                  ${* ?}
-
