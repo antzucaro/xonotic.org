@@ -1,6 +1,3 @@
-====== Log started (Sat Apr 04 13:26:24 2015) ======
-^7Found strange mod type: newtoys
-^7]cmdlist
 ^7+attack : begin firing
 ^7+back : move backward
 ^7+button10 : activate button10 (behavior depends on mod)
@@ -285,8 +282,3 @@
 ^7viewprev : change to previous animation frame of viewthing entity in current level
 ^7wait : make script execution wait for next rendered frame
 ^7which : accepts a file name as argument and reports where the file is taken from
-^7284 Commands
-^7
-^7]log_file "cvarlist.txt"
-====== Log stopped (Sat Apr 04 13:26:30 2015) ======
-
