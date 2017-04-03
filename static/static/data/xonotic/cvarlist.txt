@@ -2,7 +2,7 @@
 ^7_campaign_index is "" [""] custom cvar
 ^7_campaign_name is "" [""] custom cvar
 ^7_campaign_testrun is "0" ["0"] To verify the campaign file, set this to 1, then start the first campaign level from the menu. If you end up in the menu again, it's good, if you get a QC crash, it's bad.
-^7_cl_color is "109" ["112.211"] internal storage cvar for current player colors (changed by color command)
+^7_cl_color is "89" ["112.211"] internal storage cvar for current player colors (changed by color command)
 ^7_cl_gender is "0" ["0"] storage cvar for current player gender (0 = undisclosed, 1 = male, 2 = female)
 ^7_cl_name is "" [""] internal storage cvar for current player name (changed by name command)
 ^7_cl_playermodel is "models/player/erebus.iqm" ["models/player/erebus.iqm"] internal storage cvar for current player model in Nexuiz/Xonotic (changed by playermodel command)
@@ -35,7 +35,7 @@
 ^7_menu_vid_desktopfullscreen is "1" ["1"] custom cvar
 ^7_menu_vid_height is "768" ["768"] custom cvar
 ^7_menu_vid_pixelheight is "1" ["1"] custom cvar
-^7_menu_vid_width is "1366" ["1024"] custom cvar
+^7_menu_vid_width is "1024" ["1024"] custom cvar
 ^7_notarget is "0" ["0"] NO, REALLY, DON'T
 ^7_snd_mixahead is "0.15" ["0.15"] how much sound to mix ahead of time
 ^7_sv_init is "0" ["0"] custom cvar
@@ -477,7 +477,7 @@
 ^7cl_stainmaps is "0" ["0"] stains lightmaps, much faster than decals but blurred
 ^7cl_stainmaps_clearonload is "1" ["1"] clear stainmaps on map restart
 ^7cl_stairsmoothspeed is "200" ["200"] how fast your view moves upward/downward when running up/down stairs
-^7cl_startcount is "3" ["0"] how many times the client has been run
+^7cl_startcount is "23" ["0"] how many times the client has been run
 ^7cl_stripcolorcodes is "0" ["0"] experimental feature (notes: strips ALL color codes from messages!)
 ^7cl_unpress_attack_on_weapon_switch is "0" ["0"] automatically unpress fire and fire1 attack buttons when you switch a weapon
 ^7cl_unpress_zoom_on_death is "1" ["1"] automatically unpress zoom when you die (and don't allow zoom again while dead)
@@ -532,7 +532,7 @@
 ^7cl_zoomfactor is "5" ["5"] how much +zoom will zoom (1-30)
 ^7cl_zoomsensitivity is "0" ["0"] how zoom changes sensitivity (0 = weakest, 1 = strongest)
 ^7cl_zoomspeed is "8" ["8"] how fast it will zoom (0.5-16), negative values mean instant zoom
-^7cmdline is "darkplaces/darkplaces-sdl -xonotic -userdir /home/ant/.xonotic-new +exec cacas.cfg " ["darkplaces/darkplaces-sdl -xonotic -userdir /home/ant/.xonotic-new +exec cacas.cfg "] contains commandline the engine was launched with
+^7cmdline is "darkplaces/darkplaces-sdl -xonotic -userdir /home/z/.xonotic-new +exec cacs.cfg " ["darkplaces/darkplaces-sdl -xonotic -userdir /home/z/.xonotic-new +exec cacs.cfg "] contains commandline the engine was launched with
 ^7collision_cache is "1" ["1"] store results of collision traces for next frame to reuse if possible (optimization)
 ^7collision_debug_tracelineasbox is "0" ["0"] workaround for any bugs in Collision_TraceLineBrushFloat by using Collision_TraceBrushBrushFloat
 ^7collision_extendmovelength is "16" ["16"] internal bias on trace length to ensure detection of collisions within the collision_impactnudge distance so that short moves do not degrade across frames (this does not alter the final trace length)
@@ -3257,9 +3257,9 @@
 ^7gl_info_driver is "" [""] name of driver library (opengl32.dll, libGL.so.1, or whatever).
 ^7gl_info_extensions is " glbase  2.0  glshaders130  GL_ARB_depth_texture  GL_ARB_draw_buffers  GL_ARB_multitexture  GL_ARB_occlusion_query  GL_ARB_shadow  GL_ARB_texture_compression  GL_ARB_texture_cube_map  GL_ARB_texture_env_combine  GL_ARB_texture_gather  GL_ARB_texture_non_power_of_two  GL_ARB_vertex_buffer_object  GL_ARB_uniform_buffer_object  separatestencil  GL_EXT_blend_minmax  GL_EXT_blend_subtract  GL_EXT_blend_func_separate  drawrangeelements  GL_ARB_framebuffer_object  GL_EXT_packed_depth_stencil  GL_EXT_stencil_two_side  GL_EXT_texture3D  GL_EXT_texture_compression_s3tc  GL_EXT_texture_edge_clamp  GL_EXT_texture_filter_anisotropic  GL_EXT_texture_sRGB  GL_ARB_texture_float  GL_ARB_half_float_pixel  GL_ARB_half_float_vertex  GL_ARB_multisample " [""] indicates extension list found by engine, space separated.
 ^7gl_info_platform is "SDL" [""] indicates GL platform: WGL, GLX, or AGL.
-^7gl_info_renderer is "Mesa DRI Intel(R) Sandybridge Mobile " [""] indicates graphics chip model and other information
-^7gl_info_vendor is "Intel Open Source Technology Center" [""] indicates brand of graphics chip
-^7gl_info_version is "3.0 Mesa 12.0.6" [""] indicates version of current renderer. begins with 1.0.0, 1.1.0, 1.2.0, 1.3.1 etc.
+^7gl_info_renderer is "Gallium 0.4 on AMD PITCAIRN (DRM 2.43.0 / 4.4.0-67-generic, LLVM 5.0.0)" [""] indicates graphics chip model and other information
+^7gl_info_vendor is "X.Org" [""] indicates brand of graphics chip
+^7gl_info_version is "3.0 Mesa 17.1.0-devel - padoka PPA" [""] indicates version of current renderer. begins with 1.0.0, 1.1.0, 1.2.0, 1.3.1 etc.
 ^7gl_lightmaps is "0" ["0"] draws only lightmaps, no texture (for level designers), a value of 2 keeps normalmap shading
 ^7gl_max_lightmapsize is "4096" ["4096"] maximum allowed texture size for lightmap textures, use larger values to improve rendering speed, as long as there is enough video memory available (setting it too high for the hardware will cause very bad performance)
 ^7gl_max_size is "2048" ["2048"] maximum allowed texture size, can be used to reduce video memory usage, limited by hardware capabilities (typically 2048, 4096, or 8192)
@@ -3847,7 +3847,7 @@
 ^7locs_show is "0" ["0"] shows defined locations for editing purposes
 ^7loddebug is "0" ["0"] force this LOD level
 ^7log_dest_udp is "" [""] UDP address to log messages to (in QW rcon compatible format); multiple destinations can be separated by spaces; DO NOT SPECIFY DNS NAMES HERE
-^7log_file is "cvarlist.txt" [""] filename to log messages to
+^7log_file is "cvar.txt" [""] filename to log messages to
 ^7log_file_stripcolors is "0" ["0"] strip color codes from log messages
 ^7lookspring is "0" ["0"] returns pitch to level with the floor when no longer holding a pitch key
 ^7lookstrafe is "0" ["0"] move instead of turning
@@ -3926,7 +3926,7 @@
 ^7menu_vid_allowdualscreenresolution is "0" ["0"] custom cvar
 ^7menu_vid_scale is "0" ["0"] custom cvar
 ^7menu_video_played is "1" ["1"] custom cvar
-^7menu_watermark is "xonotic-v0.8.1-3894-g8aa3f83" ["xonotic-v0.8.1-3894-g8aa3f83"] custom cvar
+^7menu_watermark is "xonotic-v0.8.2-3-g8a9d46e" ["xonotic-v0.8.2-3-g8a9d46e"] custom cvar
 ^7menu_weaponarena is "" [""] custom cvar
 ^7minplayers is "0" ["0"] number of players playing at the same time (if not enough real players are there the remaining slots are filled with bots)
 ^7mod_alias_force_animated is "" [""] if set to an non-empty string, overrides the is-animated flag of any alias models (for benchmarking)
@@ -4813,7 +4813,7 @@
 ^7prvm_statementprofiling is "0" ["0"] counts how many times each QuakeC statement has been executed, these counts are displayed in prvm_printfunction output (if enabled)
 ^7prvm_timeprofiling is "0" ["0"] counts how long each function has been executed, these counts are displayed in prvm_profile output (if enabled)
 ^7prvm_traceqc is "0" ["0"] prints every QuakeC statement as it is executed (only for really thorough debugging!)
-^7qport is "59276" ["59276"] identification key for playing on qw servers (allows you to maintain a connection to a quakeworld server even if your port changes)
+^7qport is "40456" ["40456"] identification key for playing on qw servers (allows you to maintain a connection to a quakeworld server even if your port changes)
 ^7quit_and_redirect is "" [""] set to an IP to redirect all players at the end of the match to another server. Set to "self" to let all players reconnect at the end of the match (use it to make seamless engine updates)
 ^7quit_and_redirect_timer is "1.5" ["1.5"] set to number of seconds after quit before performing the connect operation of quit_and_redirect
 ^7quit_when_empty is "0" ["0"] set to 1, then the server exits when the next level would start but is empty
@@ -4999,18 +4999,18 @@
 ^7r_render is "1" ["1"] enables rendering 3D views (you want this on!)
 ^7r_renderview is "1" ["1"] enables rendering 3D views (you want this on!)
 ^7r_shadow_bouncegrid is "0" ["0"] perform particle tracing for indirect lighting (Global Illumination / radiosity) using a 3D texture covering the scene, only active on levels with realtime lights active (r_shadow_realtime_world is usually required for these)
-^7r_shadow_bouncegrid_blur is "1" ["1"] apply a 1-radius blur on bouncegrid to denoise it and deal with boundary issues with surfaces
+^7r_shadow_bouncegrid_blur is "0" ["0"] apply a 1-radius blur on bouncegrid to denoise it and deal with boundary issues with surfaces
 ^7r_shadow_bouncegrid_bounceanglediffuse is "0" ["0"] use random bounce direction rather than true reflection, makes some corner areas dark
+^7r_shadow_bouncegrid_dynamic_bounceminimumintensity is "0.05" ["0.05"] stop bouncing once intensity drops below this fraction of the original particle color
 ^7r_shadow_bouncegrid_dynamic_culllightpaths is "1" ["1"] skip accumulating light in the bouncegrid texture where the light paths are out of view (dynamic mode only)
 ^7r_shadow_bouncegrid_dynamic_directionalshading is "0" ["0"] use diffuse shading rather than ambient, 3D texture becomes 8x as many pixels to hold the additional data
 ^7r_shadow_bouncegrid_dynamic_dlightparticlemultiplier is "1" ["1"] if set to a high value like 16 this can make dlights look great, but 0 is recommended for performance reasons
-^7r_shadow_bouncegrid_dynamic_energyperphoton is "10000" ["10000"] amount of light that one photon should represent
 ^7r_shadow_bouncegrid_dynamic_hitmodels is "0" ["0"] enables hitting character model geometry (SLOW)
-^7r_shadow_bouncegrid_dynamic_lightradiusscale is "10" ["10"] particles stop at this fraction of light radius (can be more than 1)
-^7r_shadow_bouncegrid_dynamic_maxbounce is "5" ["5"] maximum number of bounces for a particle (minimum is 0)
+^7r_shadow_bouncegrid_dynamic_lightradiusscale is "2" ["2"] particles stop at this fraction of light radius (can be more than 1)
+^7r_shadow_bouncegrid_dynamic_maxbounce is "2" ["2"] maximum number of bounces for a particle (minimum is 0)
 ^7r_shadow_bouncegrid_dynamic_maxphotons is "25000" ["25000"] upper bound on photons to shoot per update, divided proportionately between lights - normally the number of photons is calculated by energyperphoton
+^7r_shadow_bouncegrid_dynamic_quality is "1" ["1"] amount of photons that should be fired (this is multiplied by spacing^2 to make it adaptive with spacing changes)
 ^7r_shadow_bouncegrid_dynamic_spacing is "64" ["64"] unit size of bouncegrid pixel
-^7r_shadow_bouncegrid_dynamic_stablerandom is "1" ["1"] make particle distribution consistent from frame to frame
 ^7r_shadow_bouncegrid_dynamic_updateinterval is "0" ["0"] update bouncegrid texture once per this many seconds, useful values are 0, 0.05, or 1000000
 ^7r_shadow_bouncegrid_dynamic_x is "64" ["64"] maximum texture size of bouncegrid on X axis
 ^7r_shadow_bouncegrid_dynamic_y is "64" ["64"] maximum texture size of bouncegrid on Y axis
@@ -5018,16 +5018,21 @@
 ^7r_shadow_bouncegrid_floatcolors is "1" ["1"] upload texture as RGBA16F (or RGBA32F when set to 2) rather than RGBA8 format - this gives more dynamic range and accuracy
 ^7r_shadow_bouncegrid_includedirectlighting is "0" ["0"] allows direct lighting to be recorded, not just indirect (gives an effect somewhat like r_shadow_realtime_world_lightmaps)
 ^7r_shadow_bouncegrid_intensity is "4" ["4"] overall brightness of bouncegrid texture
-^7r_shadow_bouncegrid_lightpathsize is "1" ["1"] width of the light path for accumulation of light in the bouncegrid texture
+^7r_shadow_bouncegrid_lightpathsize_conespread is "0.015625" ["0.015625"] increase lightpathsize over distance at this rate per grid cell
+^7r_shadow_bouncegrid_lightpathsize_initial is "0.5" ["0.5"] width (in grid cells) of the light path for accumulation of light in the bouncegrid texture
+^7r_shadow_bouncegrid_normalizevectors is "1" ["1"] normalize random vectors (otherwise their length can vary, which dims the lighting further from the light)
 ^7r_shadow_bouncegrid_particlebounceintensity is "2" ["2"] amount of energy carried over after each bounce, this is a multiplier of texture color and the result is clamped to 1 or less, to prevent adding energy on each bounce
 ^7r_shadow_bouncegrid_particleintensity is "0.25" ["0.25"] brightness of particles contributing to bouncegrid texture
+^7r_shadow_bouncegrid_rng_seed is "0" ["0"] 0+ = use this number as RNG seed, -1 = use time instead for disco-like craziness in dynamic mode
+^7r_shadow_bouncegrid_rng_type is "0" ["0"] 0 = Lehmer 128bit RNG (slow but high quality), 1 = lhcheeserand 32bit RNG (quick)
 ^7r_shadow_bouncegrid_sortlightpaths is "1" ["1"] sort light paths before accumulating them into the bouncegrid texture, this reduces cpu cache misses
 ^7r_shadow_bouncegrid_static is "1" ["1"] use static radiosity solution (high quality) rather than dynamic (splotchy)
+^7r_shadow_bouncegrid_static_bounceminimumintensity is "0.01" ["0.01"] stop bouncing once intensity drops below this fraction of the original particle color
 ^7r_shadow_bouncegrid_static_directionalshading is "1" ["1"] whether to use directionalshading when in static mode
-^7r_shadow_bouncegrid_static_energyperphoton is "10000" ["10000"] amount of light that one photon should represent in static mode
-^7r_shadow_bouncegrid_static_lightradiusscale is "10" ["10"] particles stop at this fraction of light radius (can be more than 1) when in static mode
+^7r_shadow_bouncegrid_static_lightradiusscale is "2" ["2"] particles stop at this fraction of light radius (can be more than 1) when in static mode
 ^7r_shadow_bouncegrid_static_maxbounce is "5" ["5"] maximum number of bounces for a particle (minimum is 0) in static mode
 ^7r_shadow_bouncegrid_static_maxphotons is "250000" ["250000"] upper bound on photons in static mode
+^7r_shadow_bouncegrid_static_quality is "16" ["16"] amount of photons that should be fired (this is multiplied by spacing^2 to make it adaptive with spacing changes)
 ^7r_shadow_bouncegrid_static_spacing is "64" ["64"] unit size of bouncegrid pixel when in static mode
 ^7r_shadow_bumpscale_basetexture is "0" ["0"] generate fake bumpmaps from diffuse textures at this bumpyness, try 4 to match tenebrae, higher values increase depth, requires r_restart to take effect
 ^7r_shadow_bumpscale_bumpmap is "4" ["4"] what magnitude to interpret _bump.tga textures as, higher values increase depth, requires r_restart to take effect
@@ -5065,12 +5070,13 @@
 ^7r_shadow_shadowmapping_bordersize is "4" ["4"] shadowmap size bias for filtering
 ^7r_shadow_shadowmapping_depthbits is "24" ["24"] requested minimum shadowmap texture depth bits
 ^7r_shadow_shadowmapping_filterquality is "-1" ["-1"] shadowmap filter modes: -1 = auto-select, 0 = no filtering, 1 = bilinear, 2 = bilinear 2x2 blur (fast), 3 = 3x3 blur (moderate), 4 = 4x4 blur (slow)
-^7r_shadow_shadowmapping_maxsize is "512" ["512"] shadowmap size limit
-^7r_shadow_shadowmapping_minsize is "32" ["32"] shadowmap size limit
+^7r_shadow_shadowmapping_maxsize is "512" ["512"] limit of shadowmap side size - can not be more than 1/8th of atlassize because lights store 6 sides (2x3 grid) and sometimes 12 sides (4x3 grid for shadows from EF_NOSELFSHADOW entities) and there are multiple lights...
+^7r_shadow_shadowmapping_minsize is "32" ["32"] limit of shadowmap side size - must be at least r_shadow_shadowmapping_bordersize+2
 ^7r_shadow_shadowmapping_nearclip is "1" ["1"] shadowmap nearclip in world units
 ^7r_shadow_shadowmapping_polygonfactor is "2" ["2"] slope-dependent shadowmapping bias
 ^7r_shadow_shadowmapping_polygonoffset is "0" ["0"] constant shadowmapping bias
 ^7r_shadow_shadowmapping_precision is "1" ["1"] makes shadowmaps have a maximum resolution of this number of pixels per light source radius unit such that, for example, at precision 0.5 a light with radius 200 will have a maximum resolution of 100 pixels
+^7r_shadow_shadowmapping_texturesize is "8192" ["8192"] size of shadowmap atlas texture - all shadowmaps are packed into this texture at frame start
 ^7r_shadow_shadowmapping_useshadowsampler is "1" ["1"] whether to use sampler2DShadow if available
 ^7r_shadow_shadowmapping_vsdct is "1" ["1"] enables use of virtual shadow depth cube texture
 ^7r_shadow_sortsurfaces is "1" ["1"] improve performance by sorting illuminated surfaces by texture
@@ -5678,8 +5684,8 @@
 ^7sv_writepicture_quality is "10" ["10"] WritePicture quality offset (higher means better quality, but slower)
 ^7sys_colortranslation is "1" ["1"] terminal console color translation (supported values: 0 = strip color codes, 1 = translate to ANSI codes, 2 = no translation)
 ^7sys_debugsleep is "0" ["0"] write requested and attained sleep times to standard output, to be used with gnuplot
-^7sys_memsize_physical is "7930.671875" ["7930.671875"] physical memory size in MB (or empty if unknown)
-^7sys_memsize_virtual is "16068.667969" ["16068.667969"] virtual memory size in MB (or empty if unknown)
+^7sys_memsize_physical is "48252.746094" ["48252.746094"] physical memory size in MB (or empty if unknown)
+^7sys_memsize_virtual is "48252.746094" ["48252.746094"] virtual memory size in MB (or empty if unknown)
 ^7sys_specialcharactertranslation is "1" ["1"] terminal console conchars to ASCII translation (set to 0 if your conchars.tga is for an 8bit character set or if you want raw output)
 ^7sys_ticrate is "0.0333333" ["0.0333333"] how long a server frame is in seconds, 0.05 is 20fps server rate, 0.1 is 10fps (can not be set higher than 0.1), 0 runs as many server frames as possible (makes games against bots a little smoother, overwhelms network players), 0.0138889 matches QuakeWorld physics
 ^7sys_useclockgettime is "1" ["1"] use POSIX clock_gettime function (not adjusted by NTP on some older Linux kernels) for timing rather than gettimeofday (which has issues if the system time is stepped by ntpdate, or apparently on some Xen installations)
@@ -5839,14 +5845,14 @@
 ^7v_yshearing is "0" ["0"] be all out of gum (set this to the maximum angle to allow Y shearing for - try values like 75)
 ^7vid_bitsperpixel is "32" ["32"] how many bits per pixel to render at (32 or 16, 32 is recommended)
 ^7vid_conheight is "600" ["600"] virtual height of 2D graphics system
-^7vid_conwidth is "1067" ["800"] virtual width of 2D graphics system
+^7vid_conwidth is "2133" ["800"] virtual width of 2D graphics system
 ^7vid_desktopfullscreen is "1" ["1"] force desktop resolution for fullscreen; also use some OS dependent tricks for better fullscreen integration
 ^7vid_fullscreen is "1" ["1"] use fullscreen (1) or windowed (0)
 ^7vid_gl13 is "1" ["1"] enables faster rendering using OpenGL 1.3 features (such as GL_ARB_texture_env_combine extension)
 ^7vid_gl20 is "1" ["1"] enables faster rendering using OpenGL 2.0 features (such as GL_ARB_fragment_shader extension)
 ^7vid_grabkeyboard is "0" ["0"] whether to grab the keyboard when mouse is active (prevents use of volume control keys, music player keys, etc on some keyboards)
 ^7vid_hardwaregammasupported is "1" ["1"] indicates whether hardware gamma is supported (updated by attempts to set hardware gamma ramps)
-^7vid_height is "768" ["768"] resolution
+^7vid_height is "1440" ["768"] resolution
 ^7vid_minheight is "0" ["0"] minimum vid_height that is acceptable (to be set in default.cfg in mods)
 ^7vid_minwidth is "0" ["0"] minimum vid_width that is acceptable (to be set in default.cfg in mods)
 ^7vid_mouse is "1" ["1"] whether to use the mouse in windowed mode (fullscreen always does)
@@ -5872,7 +5878,7 @@
 ^7vid_touchscreen_ydpi is "300" ["300"] Vertical DPI of the screen (only valid on Android currently)
 ^7vid_userefreshrate is "0" ["0"] set this to 1 to make vid_refreshrate used, or to 0 to let the engine choose a sane default
 ^7vid_vsync is "0" ["0"] sync to vertical blank, prevents 'tearing' (seeing part of one frame and part of another on the screen at the same time), automatically disabled when doing timedemo benchmarks
-^7vid_width is "1366" ["1024"] resolution
+^7vid_width is "5120" ["1024"] resolution
 ^7vid_x11_display is "" [""] xonotic-linux-*.sh will use this to start xonotic on an other/new X display
 ^7viewsize is "100" ["100"] how large the view should be, 110 disables inventory bar, 120 disables status bar
 ^7volume is "1" ["1"] volume of sound effects
