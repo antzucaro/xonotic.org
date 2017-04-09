@@ -11,7 +11,7 @@ type: page
 ### LATEST RELEASE: Xonotic 0.8.2 for Linux, Windows, and Mac
 
 [<i class="fa fa-download"></i> Download as zip](http://dl.xonotic.org/xonotic-0.8.2.zip)  
-<i class="fa fa-download"></i> Download via torrent (coming soon)  
+[<i class="fa fa-download"></i> Download via torrent](http://dl.xonotic.org/xonotic-0.8.2.zip.torrent)
 
 No installation required, just unpack and run. Got questions? See the [FAQ](/faq) or [live chat](/chat) with us.
 

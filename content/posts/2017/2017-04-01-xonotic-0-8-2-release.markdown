@@ -13,7 +13,7 @@ Avoid the April foolery with some fast-paced fragging: Xonotic 0.8.2 is availabl
 #### Download information:
 
 [Download via HTTP](http://dl.xonotic.org/xonotic-0.8.2.zip)  
-Download via torrent (coming soon)  
+[Download via torrent](http://dl.xonotic.org/xonotic-0.8.2.zip.torrent)  
 MD5: 324aee42e9f3e5e254adc8f3f7d4cb00  
 Package size: 946M  
 
