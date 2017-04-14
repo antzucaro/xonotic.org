@@ -8,21 +8,22 @@ type: page
 ---
 
 <div class="small-12 large-4 columns">
-    <h4>A Note On Etiquette</h4>
+    <h4>IRC Crashcourse</h4>
 
     <p>Xonotic's IRC (Internet Relay Chat) channel is dedicated to discussing
-    news and sharing information about the game in realtime. It is powered by
-    volunteers and enthusiasts just like you! Here are some guidelines for
-    getting the most out of your visit.</p>
+    news and sharing information about the game.
+    </p>
 
-    <ul>
-      <li><a href="https://github.com/fizerkhan/irc-etiquette#give-others-a-chance-to-answer">Give people time to respond</a></li>
-      <li><a href="https://github.com/fizerkhan/irc-etiquette#dont-ask-to-ask">Don't ask to ask</a></li>
-      <li><a href="https://github.com/fizerkhan/irc-etiquette#do-not-be-demanding">Do not be demanding</a></li>
-      <li><a href="https://github.com/fizerkhan/irc-etiquette#tell-what-you-are-doing">Tell us what you're doing</a></li>
-      <li><a href="https://github.com/fizerkhan/irc-etiquette#do-not-repeat-yourself">Do not repeat yourself</a></li>
-      <li><a href="https://github.com/fizerkhan/irc-etiquette#tell-others-about-the-solution">Tell others about your solution</a></li>
-    </ul>
+    <p>Most people are logged-in the whole day but only check it once every
+    couple hours. We'll gladly answer your questions but remember, it can take
+    minutes or hours depending on the time of day and your question.
+    </p>
+
+    <p>While you wait, here are some
+    <a href="https://github.com/fizerkhan/irc-etiquette#irc-etiquette-by-christoph-haas">tips</a>
+    for getting the most out of your visit, especially
+    <a href="https://github.com/fizerkhan/irc-etiquette#give-others-a-chance-to-answer">this</a>
+    one.</p>
 </div>
 
 <div class="small-12 large-8 columns">
