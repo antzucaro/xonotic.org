@@ -18,7 +18,7 @@ For example, on Windows or OSX you can start the game by double-clicking the Xon
 
 ## Is there a Debian package available?
 
-There is an unofficial package available on [playdeb.net](http://www.playdeb.net/updates/ubuntu/14.10/?q=xonotic). Unfortunately, Xonotic is not in the Debian repositories yet. You can check the status of the bug report [here](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=646377). If you can help us expedite this process, please contact us!
+There is an unofficial package available on [playdeb.net](http://www.playdeb.net/updates/ubuntu/17.04/?q=xonotic). Unfortunately, Xonotic is not in the Debian repositories yet. You can check the status of the bug report [here](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=646377). If you can help us expedite this process, please contact us!
 
 ## How and why did you choose the name?
 
