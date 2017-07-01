@@ -14,7 +14,7 @@ Avoid the April foolery with some fast-paced fragging: Xonotic 0.8.2 is availabl
 
 [Download via HTTP](http://dl.xonotic.org/xonotic-0.8.2.zip)  
 [Download via torrent](http://dl.xonotic.org/xonotic-0.8.2.zip.torrent)  
-MD5: 324aee42e9f3e5e254adc8f3f7d4cb00  
+MD5: 1bd46c1fb79aae42bb13e74f5a0ff46e
 Package size: 946M  
 
 Already have Xonotic on your machine? There's no need to download the game again to get into the action. Use the following steps to upgrade your client to the 0.8.2 release:
