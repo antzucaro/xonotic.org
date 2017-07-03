@@ -8,7 +8,7 @@ title: XonPickup’s database examined
 categories:
 - Announcements
 ---
-Did not you ever wonder which would be the best time to join [#xonotic.pickup] [Pickup IRC] for a match?
+Did you ever wonder which would be the best time to join [#xonotic.pickup] [Pickup IRC] for a match?
 We can answer not only this question in the following article about the activity of the [pickup] [XonPickup thread] community.
 
 
@@ -60,7 +60,7 @@ The only day without any game in almost five years is the 31st of December.
 <a href="/m/uploads/2017/07/dia13.jpg"><img src="/m/uploads/2017/07/dia13.jpg" title="Diagram 13"></a>
 
 For some strange reason the most matches happen Mondays around 20:30 (8:30 PM), while Monday is the least active day after all.
-Single graphs for each day of the week: [Monday][Diagram 14]; [Tuesday][Diagram 15]; [Wednesday][Diagram 16]; [Thursday][Diagram 17]; [Friday][Diagram 18]; [Saturday][Diagram 19]; [Sunday][Diagram 20]
+Single graphs for each day of the week: [Monday] [Diagram 14]; [Tuesday] [Diagram 15]; [Wednesday] [Diagram 16]; [Thursday] [Diagram 17]; [Friday] [Diagram 18]; [Saturday] [Diagram 19]; [Sunday] [Diagram 20]
 
 <a href="/m/uploads/2017/07/dia21.jpg"><img src="/m/uploads/2017/07/dia21.jpg" title="Diagram 21"></a>
 
