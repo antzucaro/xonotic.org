@@ -32,7 +32,7 @@ According to this graph the most active time is April - June. Apparently Xonotic
 
 <a href="/m/uploads/2017/07/dia5.jpg"><img src="/m/uploads/2017/07/dia5.jpg" title="Diagram 5"></a>
 
-This graph confirms the previous conclusion as it shows a huge decrease of matches in July
+This graph confirms the previous conclusion as it shows a huge decrease of matches in July.
 
 <a href="/m/uploads/2017/07/dia7.jpg"><img src="/m/uploads/2017/07/dia7.jpg" title="Diagram 7"></a>
 
@@ -46,8 +46,8 @@ All the following graphs about times display UTC+2 times since (Central) Europe 
 <a href="/m/uploads/2017/07/dia9.jpg"><img src="/m/uploads/2017/07/dia9.jpg" title="Diagram 9"></a>
 
 The best time to join would be 19:00 – 21:00 (7:00 – 9:00 PM).
-The North American community is the reason for the spike around 5:00 AM
-
+The North American community is the reason for the spike around 5:00 AM.
+.
 <a href="/m/uploads/2017/07/dia10.jpg"><img src="/m/uploads/2017/07/dia10.jpg" title="Diagram 10"></a>
 
 If we take a close look your best chance to find a match would be 20:00 – 20:30 (8:00 – 8:30 PM). An even more detailed graph can be found [here][Diagram 11].
