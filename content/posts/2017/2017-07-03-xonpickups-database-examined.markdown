@@ -66,9 +66,11 @@ Single graphs for each day of the week: [Monday] [Diagram 14]; [Tuesday] [Diagra
 
 The last graph shows how much each gamemode is played during the week. It is actually distributed quite evenly.
 
+
 Top 10 most active players:
 
 packer 639 matches; Mirio 639; SpiKe 617; FOXYjouk 416; GATTS 391; Hotdog 367; SilenceKiller 334; proraide 327; Diomedes 301; Pendulla 297.
+
 
 Top 10 active players of 2017:
 
