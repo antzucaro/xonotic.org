@@ -20,6 +20,20 @@ shasum: 9a1726e3d0d4e5e23c1e799734397c63e5df6ec9
 MD5: 1bd46c1fb79aae42bb13e74f5a0ff46e  
 Package size: 946M  
 
+### Hardware requirements
+
+**Minimum (30 fps on low settings):**  
+1.6 GHz single-core CPU  
+2 GB RAM  
+GPU with 512 MB VRAM  
+
+**Optimal (60 fps on normal settings):**  
+2.5 GHz dual-core CPU (for background tasks - Xonotic is single threaded)  
+4 GB RAM  
+GPU with 512 MB VRAM  
+
+Linux or OSX or Windows XP and newer  
+
 ### Upgrading from an older version
 
 Since Xonotic version 0.5 we've offered an auto-update tool that will seamlessly upgrade your client to the latest release, provided you're using an official release or autobuild to begin with. You can find this tool in your Xonotic application directory. To use it, start by navigating to the misc->tools->rsync-updater subdirectory, then double-click (or otherwise execute in a terminal) the "update-to-release.sh" inside this directory. There is also a "update-to-release.bat" script for Windows users. This script will examine your installation and update only the files needed to bring your copy up to date using the "rsync" tool. In no time you'll have a shiny new client with which to play!
