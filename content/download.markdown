@@ -8,17 +8,17 @@ wordpress_id: 839
 type: page
 ---
 
-### LATEST RELEASE: Xonotic 0.8.2 for Linux, Windows, and Mac
+### Latest release: Xonotic 0.8.2 for Linux, Windows and Mac
 
 [<i class="fa fa-download"></i> Download as zip](http://dl.xonotic.org/xonotic-0.8.2.zip)  
 [<i class="fa fa-download"></i> Download via torrent](http://dl.xonotic.org/xonotic-0.8.2.zip.torrent)
 
 No installation required, just unpack and run. Got questions? See the [FAQ](/faq) or [live chat](/chat) with us.
 
-sha256sum: a22f7230f486c5825b55cfdadd73399c9b0fae98c9e081dd8ac76eca08359ad5  
-shasum: 9a1726e3d0d4e5e23c1e799734397c63e5df6ec9  
-MD5: 1bd46c1fb79aae42bb13e74f5a0ff46e  
-Package size: 946M  
+<p style="font-size: 100%">
+sha256sum: a22f7230f486c5825b55cfdadd73399c9b0fae98c9e081dd8ac76eca08359ad5</br>
+Package size: 946 MB  
+</p>
 
 ### Upgrading from an older version
 
