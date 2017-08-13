@@ -22,10 +22,10 @@ Package size: 946M
 
 ### Hardware requirements
 
-**Minimum (30 fps on low settings):**  
+**Minimum (low settings):**  
 1.6 GHz single-core CPU  
 2 GB RAM  
-GPU with 512 MB VRAM  
+onboard GPU  
 
 **Optimal (60 fps on normal settings):**  
 2.5 GHz dual-core CPU (for background tasks - Xonotic is single threaded)  
