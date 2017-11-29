@@ -1,3 +1,10 @@
+---
+author: halogene
+comments: false
+type: tutorials
+title: Halogene's Newbie Corner
+---
+
 [![Halogene's Newbie Corner](/m/uploads/2014/04/newbie-corner-banner-thumb.png)](/m/uploads/2012/09/newbie-corner-banner2.png)
 
 Contents

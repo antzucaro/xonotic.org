@@ -2,10 +2,8 @@
 author: martin-t, LX
 comments: false
 type: tutorials
+title: Overkill tutorial
 ---
-
-Overkill Tutorial
-=================
 
 Overkill is a Xonotic mod defined by fast movement, fewer but more powerful weapons, nades and respawning near team mates.
 
