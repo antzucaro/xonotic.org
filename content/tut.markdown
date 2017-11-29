@@ -158,7 +158,7 @@ You will find ramps on a lot of maps, if you look for them. Now that I’ve show
     *click to view full size*
 
 -   One of the most tricky ramp jumps I’m going to show you here is the one from devastator to mega health. Unless you do a [circle jump](http://www.xonotic.org/2013/02/a-strafe-jumping-lesson-from-hero), this one is not possible to my knowledge to do with walking speed, so you’ll have to do a bunny hop onto the ramp. I always start between the devastator’s spawn point and the wall behind it, start a bunny hop and usually hit the ramp at the right time then. You’ll have to experiment a bit and find the good starting point for you, then you can reproduce that jump and start to get a feeling how you can do it in-game on the fly, without stopping at your favorite starting point. When turning around after the ramp jump you can switch from the forward key to the appropriate strafe key in order to lose less speed, but it’s not required to perform that jump.  
-    [![Ramp to Mega Health on Xoylent](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-3-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-3-thumb.png)  
+    [![Ramp to Mega Health on Xoylent](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-3-thumb.png)](http://www.xonotic.org/m/uploads/2014/04/xoylent-ramp-3.png)  
     *click to view full size*
 
 ### Afterslime
