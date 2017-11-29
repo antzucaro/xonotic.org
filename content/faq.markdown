@@ -42,20 +42,6 @@ The phoenix image of the logo obviously refers to the concept of  "rising from t
 
 Another aspect of the logo is the center ring, which has some  similarities to the Quake logo; it has a fatter bottom edge and thinner  top edge, though quake didn't use a complete ring shape. This is  intended as a pay of respect to the Quake origins of the game, as the  Darkplaces engine was originally based on the Quake 1 engine.
 
-## What is going to be different between Xonotic and the current Nexuiz  GPL?
-
-  * A more unified and consistent art direction
-  * New player models and animations
-  * New set of default maps, some of them will get a makeover
-  * New sounds and music
-  * New stronger bot AI
-  * Low quality textures will be dropped and replaced with higher  quality ones
-  * Some weapon models may be changed
-  * More frequent releases
-  * Global player stats tracking system, supporting anonymous player as  well
-  * So much more ...
-
-
 # Troubleshooting
 
 ## When I join a server or after a map change I see nothing but a black screen, but I can still move and shoot
