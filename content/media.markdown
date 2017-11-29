@@ -27,5 +27,5 @@ View other action-packed videos in the [video gallery](/media/video-gallery/).
   <li><a href="/m/uploads/2012/07/frontpage_012.jpg"><img src="/m/uploads/2012/07/frontpage_012_small.jpg" /></a></li>
   <li><a href="/m/uploads/2012/07/frontpage_021.jpg"><img src="/m/uploads/2012/07/frontpage_021_small.jpg" /></a></li>
 </ul>
-        
+
 View other stunning pictures in the [image gallery](/media/image-gallery/).

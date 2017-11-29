@@ -79,9 +79,9 @@
 
     {{ partial "includes.html" . }}
 
-    {{ if eq .Title "FAQ" }}
-        <link rel="stylesheet" href="/static/css/faq.css" />
-    {{ end }}
+    <!-- don't put this in includes.html or it'll break cacs -->
+    <link rel="stylesheet" href="/static/css/faq.css" />
+
   </head>
 
   <body>
