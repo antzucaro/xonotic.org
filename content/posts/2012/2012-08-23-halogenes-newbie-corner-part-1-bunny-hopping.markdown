@@ -17,7 +17,7 @@ aliases:
 - /2012/08/halogenes-newbie-corner-part-1-bunny-hopping
 ---
 
-*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+*Edit: Visit the complete and updated tutorial [here](/tut)*
 
 _This is a guest post from our good friend [Halogene](http://forums.xonotic.org/member.php?action=profile&uid=53), an experienced Xonotic player and all-around good guy._
 

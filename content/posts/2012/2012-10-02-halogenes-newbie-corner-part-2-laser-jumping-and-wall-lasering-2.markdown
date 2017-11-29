@@ -20,7 +20,7 @@ aliases:
 
 [![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)
 
-*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+*Edit: Visit the complete and updated tutorial [here](/tut)*
 
 Hello and welcome back to another short introduction into Xonotic gameplay! Today I'll show you two important aspects of a very useful movement tool in Xonotic, THE LASER!
 

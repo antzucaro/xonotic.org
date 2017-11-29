@@ -28,12 +28,12 @@ To excel at Overkill there are two things to practice: aim and speed. If you're 
 Movement
 ========
 
-Every [vanilla movement tip](Halogenes_Newbie_Corner#movement) also applies in Overkill. However there is one key aspect making the game way faster - **dodging**. But let's review the basics first:
+Every [vanilla movement tip](/tut#movement) also applies in Overkill. However there is one key aspect making the game way faster - **dodging**. But let's review the basics first:
 
 Bunny Hopping
 -------------
 
-[Same as vanilla](Halogenes_Newbie_Corner#bunny-hopping) - instead of just walking around you should always jump because it's much faster. Basically keep the `jump` key (by default `space bar`) pressed all the time. The are only two exceptions to this rule:
+[Same as vanilla](/tut#bunny-hopping) - instead of just walking around you should always jump because it's much faster. Basically keep the `jump` key (by default `space bar`) pressed all the time. The are only two exceptions to this rule:
 
 1. you *want* to be slow (to not fall off a ledge)
 2. you need to *sneak*, since bunny hopping makes a lot of noise (you can crouch additionally to further minimize your movement noises).
@@ -49,7 +49,7 @@ Its main uses are:
 
 - jumping higher - just aim at the floor and shoot ([video](https://www.youtube.com/watch?v=V3a127HCT0E))
 - climbing walls - no matter how high, just keep shooting the laser at roughly 45° down against the wall
-- accelerating - shoot the floor or wall [slightly behind you](Halogenes_Newbie_Corner#wall-blastering) for a noticeable boost.
+- accelerating - shoot the floor or wall [slightly behind you](/tut#wall-blastering) for a noticeable boost.
 - shooting nades or the flag on the ground to make them bounce a little - this is great for separating the flag and the nade when a killed FC drops both.
 
 Dodging
