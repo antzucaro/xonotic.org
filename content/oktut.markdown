@@ -28,6 +28,8 @@ To excel at Overkill there are two things to practice: aim and speed. If you're 
 Movement
 ========
 
+{{% youtube "omrOV09Oo04" %}}
+
 Every [vanilla movement tip](/tut#movement) also applies in Overkill. However there is one key aspect making the game way faster - **dodging**. But let's review the basics first:
 
 Bunny Hopping
@@ -66,8 +68,6 @@ You should do this **every time after spawning** because this is the fastest way
 Dodging does not only apply to starting a movement, but can be used on every (more or less) smooth surface next to you. For example you can bunny hop alongside a wall and press the `forward` key in quick succession to gain more speed. You can do this multiple times with only a short cooldown time. You can reach very high speeds using wall dodging. Good maps to try this out are Tarx and Implosion.
 
 The fastest way to accelerate is a combination of both wall-dodging and blastering. This can **double your speed** when done right.
-
-{{% youtube "omrOV09Oo04" %}}
 
 Nade Jumping
 ------------
