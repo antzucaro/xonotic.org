@@ -71,14 +71,14 @@ This happens when the engine can't load the data*.pk3 file or has trouble to ini
   * You unpacked the zip file without folder names, see [How do I install Xonotic?]({{< relref "#how-do-i-install-xonotic" >}})
   * On Linux: the current directory is not your Xonotic/ folder.
   * On Mac: you tried to extract and move the files from a Xonotic update and it deleted the old files. When using the mac GUI please be sure to move only the files not the folders as that will delete the old files or use the mv console command which will not delete the old files.
-  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com) [ati](http://ati.com) [nvidia](http://nvidia.com).
+  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com), [AMD](http://amd.com), [nvidia](http://nvidia.com).
   * Your download might be corrupted, please download Xonotic again.
 
 ## Using Linux I only see the map but no players and items
 
 This happens when the engine has trouble initializing OpenGL. The reasons could be:
 
-  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com) [ati](http://ati.com) [nvidia](http://nvidia.com)
+  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com), [AMD](http://amd.com), [nvidia](http://nvidia.com).
   * You do not have permissions needed for 3d acceleration. Usually you need to add yourself to the group video, you can do that via console as root like this: _usermod -a -G video YOURUSERNAME_. You need to logoff/in afterwards.
 
 ## When I start Xonotic my screen is flickering
