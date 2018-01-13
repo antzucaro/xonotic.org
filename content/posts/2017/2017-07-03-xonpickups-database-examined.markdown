@@ -2,7 +2,6 @@
 author: Mirio
 comments: false
 date: 2017-07-03 17:00:00+02:00
-layout: post
 slug: xonpickups-database-examined
 title: XonPickup’s database examined
 categories:

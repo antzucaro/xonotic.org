@@ -2,7 +2,6 @@
 author: Halogene
 comments: false
 date: 2013-02-22 13:41:55+00:00
-layout: post
 slug: halogenes-newbie-corner-part-5-gameplay-tips
 title: 'Halogene''s Newbie Corner - Part 5: Gameplay tips'
 wordpress_id: 3311

@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2011-11-16 03:33:13+00:00
-layout: post
 slug: wox-blox-issue-1-developer-news
 title: 'WoX-BloX Issue #1 - Developer news'
 wordpress_id: 1346

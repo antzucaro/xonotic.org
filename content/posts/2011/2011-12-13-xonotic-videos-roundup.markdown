@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2011-12-13 13:39:12+00:00
-layout: post
 slug: xonotic-videos-roundup
 title: Xonotic videos roundup
 wordpress_id: 1886

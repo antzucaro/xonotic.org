@@ -2,7 +2,6 @@
 author: merlijn
 comments: false
 date: 2012-07-29 17:32:53+00:00
-layout: post
 slug: heads-up-for-osx-mountain-lion-users
 title: Heads up for OSX Mountain Lion users
 wordpress_id: 2865

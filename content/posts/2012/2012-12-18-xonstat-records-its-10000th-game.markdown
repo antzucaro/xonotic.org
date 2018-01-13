@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2012-12-18 23:49:57+00:00
-layout: post
 slug: xonstat-records-its-10000th-game
 title: XonStat Records Its 100,000th Game!
 wordpress_id: 3270

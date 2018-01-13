@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2012-09-08 00:29:29+00:00
-layout: post
 slug: a-big-thanks-to-gronkh
 title: A Big Thanks to Gronkh
 wordpress_id: 2947

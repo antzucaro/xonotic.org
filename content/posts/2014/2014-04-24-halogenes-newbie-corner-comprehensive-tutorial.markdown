@@ -2,7 +2,6 @@
 author: Halogene
 comments: false
 date: 2014-04-24 21:28:58+00:00
-layout: post
 slug: halogenes-newbie-corner-comprehensive-tutorial
 title: Halogene's Newbie Corner - Comprehensive Tutorial
 wordpress_id: 3558

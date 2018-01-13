@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2016-02-10 21:05:00+00:00
-layout: post
 title: That Pesky Armor on Hub
 categories:
 - Announcements

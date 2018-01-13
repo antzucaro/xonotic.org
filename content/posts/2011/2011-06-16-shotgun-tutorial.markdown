@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2011-06-16 12:16:12+00:00
-layout: post
 slug: shotgun-tutorial
 title: Shotgun Tutorial
 wordpress_id: 938

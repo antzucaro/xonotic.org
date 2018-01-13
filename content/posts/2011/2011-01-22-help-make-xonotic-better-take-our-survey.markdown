@@ -2,7 +2,6 @@
 author: detrate
 comments: false
 date: 2011-01-22 15:35:31+00:00
-layout: post
 slug: help-make-xonotic-better-take-our-survey
 title: Help Make Xonotic Better, Take Our Survey
 wordpress_id: 857

@@ -2,7 +2,6 @@
 author: FruitieX
 comments: true
 date: 2010-05-31 15:42:57+00:00
-layout: post
 slug: first-development-update-theres-a-lot-to-mention
 title: First development update - There's a lot to mention
 wordpress_id: 156

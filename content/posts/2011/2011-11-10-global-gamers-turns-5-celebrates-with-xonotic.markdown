@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2011-11-10 21:48:18+00:00
-layout: post
 slug: global-gamers-turns-5-celebrates-with-xonotic
 title: Global Gamers turns 5, celebrates with Xonotic!
 wordpress_id: 1498

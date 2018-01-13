@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2015-08-26 19:55:00+00:00
-layout: post
 slug: xonotic-0-8-1-release
 title: Xonotic 0.8.1 Release
 categories:

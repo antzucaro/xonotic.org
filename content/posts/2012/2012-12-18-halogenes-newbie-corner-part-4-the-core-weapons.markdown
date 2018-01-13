@@ -2,7 +2,6 @@
 author: Halogene
 comments: false
 date: 2012-12-18 22:02:11+00:00
-layout: post
 slug: halogenes-newbie-corner-part-4-the-core-weapons
 title: 'Halogene''s Newbie Corner - Part 4: The Core Weapons'
 wordpress_id: 3121

@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2011-12-02 13:40:59+00:00
-layout: post
 slug: wox-blox-issue-2-community-news
 title: 'WoX-BloX Issue #2 - Community news'
 wordpress_id: 1608

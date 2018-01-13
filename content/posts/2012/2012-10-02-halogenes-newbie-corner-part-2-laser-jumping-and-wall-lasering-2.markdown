@@ -2,7 +2,6 @@
 author: Halogene
 comments: false
 date: 2012-10-02 15:32:02+00:00
-layout: post
 slug: halogenes-newbie-corner-part-2-laser-jumping-and-wall-lasering-2
 title: 'Halogene''s Newbie Corner - Part 2: Laser Jumping and Wall Lasering'
 wordpress_id: 2957

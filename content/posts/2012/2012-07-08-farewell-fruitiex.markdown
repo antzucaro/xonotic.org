@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2012-07-08 20:06:52+00:00
-layout: post
 slug: farewell-fruitiex
 title: Farewell, FruitieX!
 wordpress_id: 2698

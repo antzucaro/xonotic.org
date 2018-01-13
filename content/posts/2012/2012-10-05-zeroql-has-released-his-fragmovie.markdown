@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2012-10-05 21:52:30+00:00
-layout: post
 slug: zeroql-has-released-his-fragmovie
 title: ZeroQL has released his fragmovie!
 wordpress_id: 3008

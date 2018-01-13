@@ -2,7 +2,6 @@
 author: Halogene
 comments: false
 date: 2013-09-13 16:44:41+00:00
-layout: post
 slug: halogenes-newbie-corner-part-6-optimizing-perception
 title: 'Halogene''s Newbie Corner - Part 6: Optimizing Perception'
 wordpress_id: 3448

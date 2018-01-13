@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2011-10-26 19:57:51+00:00
-layout: post
 slug: good-news-everyone
 title: Good news everyone!
 wordpress_id: 1233

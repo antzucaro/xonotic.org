@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2013-02-03 22:36:02+00:00
-layout: post
 slug: xonotic-fragmovie-trevnacho-2013
 title: 'Xonotic fragmovie: Trev&Nacho 2013'
 wordpress_id: 3280

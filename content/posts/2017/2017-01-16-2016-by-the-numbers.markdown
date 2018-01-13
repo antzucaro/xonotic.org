@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2017-01-17 21:55:00+00:00
-layout: post
 slug: 2016-by-the-numbers
 title: 2016 By The Numbers
 categories:

@@ -2,7 +2,6 @@
 author: detrate
 comments: false
 date: 2010-12-23 20:05:54+00:00
-layout: post
 slug: xonotic-0-1-preview-released
 title: Xonotic 0.1 Preview Released
 wordpress_id: 512

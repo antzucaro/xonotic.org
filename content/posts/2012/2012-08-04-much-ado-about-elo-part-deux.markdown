@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2012-08-04 02:36:03+00:00
-layout: post
 slug: much-ado-about-elo-part-deux
 title: 'Much Ado About Elo: Part Deux'
 wordpress_id: 2875

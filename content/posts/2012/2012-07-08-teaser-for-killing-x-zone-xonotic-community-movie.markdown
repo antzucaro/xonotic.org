@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2012-07-08 15:09:36+00:00
-layout: post
 slug: teaser-for-killing-x-zone-xonotic-community-movie
 title: 'Teaser for Killing X-Zone - Xonotic Community movie '
 wordpress_id: 2686

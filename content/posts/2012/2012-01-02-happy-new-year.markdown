@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2012-01-02 21:08:21+00:00
-layout: post
 slug: happy-new-year
 title: Happy New Year!
 wordpress_id: 1931

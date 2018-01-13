@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2013-02-07 23:28:22+00:00
-layout: post
 slug: a-strafe-jumping-lesson-from-hero
 title: A strafe-jumping lesson from Hero
 wordpress_id: 3301

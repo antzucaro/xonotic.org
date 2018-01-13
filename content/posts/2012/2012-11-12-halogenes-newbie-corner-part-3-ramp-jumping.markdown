@@ -2,7 +2,6 @@
 author: Halogene
 comments: false
 date: 2012-11-12 16:41:07+00:00
-layout: post
 slug: halogenes-newbie-corner-part-3-ramp-jumping
 title: 'Halogene''s Newbie Corner - Part 3: Ramp Jumping'
 wordpress_id: 3021

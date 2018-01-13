@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2011-10-28 16:37:10+00:00
-layout: post
 slug: xonotic-1v1-tournament-by-bot
 title: Xonotic 1v1 tournament by [BOT]
 wordpress_id: 1264
