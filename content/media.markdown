@@ -7,11 +7,11 @@ title: Media
 ---
 ### Featured Video
 
-##### Duel: Mossepo vs. ZeroQL
+##### Duel: Mirio vs. ZeroQL
 
-{{% youtube "Io920ID423A" %}}
+{{% youtube "ghp4HoYgL_Y" %}}
 
-Another thrilling duel between two of the best players in Xonotic: ZeroQL and Mossepo. This one is on the map Silentsiege, which is by Justin. Enjoy the carnage!
+A duel on Xoylent between Mirio and ZeroQL for the Xonotic Duel League (XDL) grand final.
 
 View other action-packed videos in the [video gallery](/media/video-gallery/).
 
