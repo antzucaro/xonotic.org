@@ -2,7 +2,6 @@
 author: Samual
 comments: false
 date: 2011-10-14 07:05:01+00:00
-layout: post
 slug: free-game-alliance
 title: Free Game Alliance
 wordpress_id: 1210

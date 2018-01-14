@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2011-06-15 15:14:37+00:00
-layout: post
 slug: tournament-last-man-standing-melee-only
 title: 'Tournament: Last Man Standing, Melee Only!'
 wordpress_id: 932

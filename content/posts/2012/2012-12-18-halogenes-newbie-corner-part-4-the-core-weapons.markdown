@@ -2,7 +2,6 @@
 author: Halogene
 comments: false
 date: 2012-12-18 22:02:11+00:00
-layout: post
 slug: halogenes-newbie-corner-part-4-the-core-weapons
 title: 'Halogene''s Newbie Corner - Part 4: The Core Weapons'
 wordpress_id: 3121
@@ -19,7 +18,7 @@ aliases:
 
 ![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)
 
-*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+*Edit: Visit the complete and updated tutorial [here](/guide)*
 
 Now that I've bored everyone to death with nifty movement tricks, let's have a look at what everyone is keen on getting its hands on when it comes to first person shooters:
 

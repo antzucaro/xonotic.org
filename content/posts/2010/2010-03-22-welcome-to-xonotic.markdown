@@ -2,7 +2,6 @@
 author: xonotic
 comments: true
 date: 2010-03-22 04:14:33+00:00
-layout: post
 slug: welcome-to-xonotic
 title: Welcome to Xonotic!
 wordpress_id: 126

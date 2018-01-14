@@ -1,7 +1,6 @@
 ---
 author: Antibody
 date: 2014-12-24 15:07:06+00:00
-layout: post
 slug: a-sneak-peek-of-xonotic-0-8
 title: A Sneak Peek of Xonotic 0.8
 categories:

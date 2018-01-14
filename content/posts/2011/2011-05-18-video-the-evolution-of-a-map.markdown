@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2011-05-18 19:17:58+00:00
-layout: post
 slug: video-the-evolution-of-a-map
 title: 'Video: The Evolution of a Map'
 wordpress_id: 913

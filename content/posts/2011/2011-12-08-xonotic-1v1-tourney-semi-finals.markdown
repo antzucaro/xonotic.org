@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2011-12-08 23:35:58+00:00
-layout: post
 slug: xonotic-1v1-tourney-semi-finals
 title: Xonotic 1v1 Tourney semi finals!
 wordpress_id: 1854

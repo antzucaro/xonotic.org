@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2011-11-27 21:19:47+00:00
-layout: post
 slug: xonotic-duel-commentary-by-antibody
 title: Xonotic Duel Commentary by Antibody
 wordpress_id: 1645

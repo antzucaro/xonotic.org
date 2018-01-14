@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2011-06-28 16:23:53+00:00
-layout: post
 slug: two-vids-by-justin
 title: Two Videos by Justin
 wordpress_id: 942

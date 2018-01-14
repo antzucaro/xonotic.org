@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2014-06-26 23:14:58+00:00
-layout: post
 slug: capturing-your-favorite-xonotic-moments
 title: Capturing Your Favorite Xonotic Moments
 wordpress_id: 3722

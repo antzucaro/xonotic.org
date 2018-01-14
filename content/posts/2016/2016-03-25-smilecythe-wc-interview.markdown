@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2016-03-25 18:16:00+00:00
-layout: post
 title: World Cup Interview - Smilecythe
 categories:
 - interviews

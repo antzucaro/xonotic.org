@@ -2,7 +2,6 @@
 author: Halogene
 comments: false
 date: 2013-09-13 16:44:41+00:00
-layout: post
 slug: halogenes-newbie-corner-part-6-optimizing-perception
 title: 'Halogene''s Newbie Corner - Part 6: Optimizing Perception'
 wordpress_id: 3448
@@ -18,7 +17,7 @@ aliases:
 
 ![Newbie Corner Banner](/m/uploads/2012/09/Halogenes-newbiecorner.png)
 
-*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+*Edit: Visit the complete and updated tutorial [here](/guide)*
 
 Welcome back to the (probably) final part of my Newbie Corner. This time, as announced in my last post, I will turn to tweaking the game appearance in order to optimize perception. The concept is easy and straight-forward: the better you can see and hear other players and their actions, the better you can react to them.
 

@@ -2,7 +2,6 @@
 author: xonotic
 comments: true
 date: 2010-06-19 14:52:08+00:00
-layout: post
 slug: the-organizational-structure-of-xonotic
 title: The Organizational Structure of Xonotic
 wordpress_id: 279

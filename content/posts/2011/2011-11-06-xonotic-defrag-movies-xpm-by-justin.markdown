@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2011-11-06 21:09:10+00:00
-layout: post
 slug: xonotic-defrag-movies-xpm-by-justin
 title: Xonotic Defrag Movies (XPM) by Justin
 wordpress_id: 1337

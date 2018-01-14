@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2012-06-17 20:26:08+00:00
-layout: post
 slug: wox-blox-issue-4-developer-news
 title: 'WoX-BloX Issue #4: Developer news'
 wordpress_id: 2525

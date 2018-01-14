@@ -2,7 +2,6 @@
 author: Samual
 comments: false
 date: 2013-06-08 22:30:49+00:00
-layout: post
 slug: xonotic-0-7-release
 title: Xonotic 0.7 Release
 wordpress_id: 3373

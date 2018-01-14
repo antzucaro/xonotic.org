@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2013-10-14 07:13:57+00:00
-layout: post
 slug: about-xonotic-and-steam
 title: About Xonotic and Steam
 wordpress_id: 3542

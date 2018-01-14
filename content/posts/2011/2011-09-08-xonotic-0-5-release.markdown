@@ -2,7 +2,6 @@
 author: Samual
 comments: false
 date: 2011-09-08 02:34:26+00:00
-layout: post
 slug: xonotic-0-5-release
 title: 'Xonotic 0.5 Release '
 wordpress_id: 953

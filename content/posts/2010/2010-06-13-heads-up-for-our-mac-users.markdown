@@ -2,7 +2,6 @@
 author: merlijn
 comments: true
 date: 2010-06-13 19:11:34+00:00
-layout: post
 slug: heads-up-for-our-mac-users
 title: Heads up for our Mac users
 wordpress_id: 275

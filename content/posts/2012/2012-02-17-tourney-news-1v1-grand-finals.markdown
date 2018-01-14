@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2012-02-17 16:13:48+00:00
-layout: post
 slug: tourney-news-1v1-grand-finals
 title: 'Tourney news: 1v1 Grand finals'
 wordpress_id: 2218

@@ -2,7 +2,6 @@
 author: detrate
 comments: true
 date: 2010-05-30 22:30:58+00:00
-layout: post
 slug: mainsite-overhaul-xonotic-org-just-got-useful
 title: Mainsite Overhaul - Xonotic.org Just Got Useful
 wordpress_id: 145

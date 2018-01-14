@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2011-11-03 23:23:18+00:00
-layout: post
 slug: deathmatchers-the-movie
 title: Deathmatchers - The Movie
 wordpress_id: 1313

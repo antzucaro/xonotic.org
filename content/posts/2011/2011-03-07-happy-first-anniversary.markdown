@@ -2,7 +2,6 @@
 author: merlijn
 comments: false
 date: 2011-03-07 17:09:47+00:00
-layout: post
 slug: happy-first-anniversary
 title: Happy first anniversary!
 wordpress_id: 869

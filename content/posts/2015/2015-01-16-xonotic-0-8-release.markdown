@@ -2,10 +2,8 @@
 author: Antibody
 comments: false
 date: 2015-01-16 01:41:28+00:00
-layout: post
 slug: xonotic-0-8-release
 title: Xonotic 0.8 Release
-wordpress_id: 3775
 categories:
 - Announcements
 aliases:

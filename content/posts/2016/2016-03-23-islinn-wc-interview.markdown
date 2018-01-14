@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2016-03-23 7:47:00+00:00
-layout: post
 title: World Cup Interview - Islinn
 categories:
 - interviews

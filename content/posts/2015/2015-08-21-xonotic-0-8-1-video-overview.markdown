@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2015-08-28 12:51:00+00:00
-layout: post
 title: Xonotic 0.8.1 Video Overview
 categories:
 - Announcements

@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2012-08-23 00:08:07+00:00
-layout: post
 slug: halogenes-newbie-corner-part-1-bunny-hopping
 title: 'Halogene''s Newbie Corner - Part 1: Bunny Hopping'
 wordpress_id: 2926
@@ -17,7 +16,7 @@ aliases:
 - /2012/08/halogenes-newbie-corner-part-1-bunny-hopping
 ---
 
-*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+*Edit: Visit the complete and updated tutorial [here](/guide)*
 
 _This is a guest post from our good friend [Halogene](http://forums.xonotic.org/member.php?action=profile&uid=53), an experienced Xonotic player and all-around good guy._
 

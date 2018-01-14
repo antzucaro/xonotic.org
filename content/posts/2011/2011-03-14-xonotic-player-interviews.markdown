@@ -2,7 +2,6 @@
 author: Antibody
 comments: true
 date: 2011-03-14 21:40:25+00:00
-layout: post
 slug: xonotic-player-interviews
 title: Xonotic Player Interviews
 wordpress_id: 452

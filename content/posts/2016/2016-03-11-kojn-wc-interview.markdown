@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2016-03-11 15:11:00+00:00
-layout: post
 title: World Cup Interview - kojn
 categories:
 - interviews

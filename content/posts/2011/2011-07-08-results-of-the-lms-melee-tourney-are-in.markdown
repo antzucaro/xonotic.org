@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2011-07-08 19:42:33+00:00
-layout: post
 slug: results-of-the-lms-melee-tourney-are-in
 title: Results of the LMS Melee Tourney are in!
 wordpress_id: 950

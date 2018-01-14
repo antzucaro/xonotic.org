@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2016-03-09 20:42:00+00:00
-layout: post
 title: World Cup Interview - SPLAT
 categories:
 - interviews

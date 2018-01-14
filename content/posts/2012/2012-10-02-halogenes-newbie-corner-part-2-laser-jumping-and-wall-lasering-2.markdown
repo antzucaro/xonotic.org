@@ -2,7 +2,6 @@
 author: Halogene
 comments: false
 date: 2012-10-02 15:32:02+00:00
-layout: post
 slug: halogenes-newbie-corner-part-2-laser-jumping-and-wall-lasering-2
 title: 'Halogene''s Newbie Corner - Part 2: Laser Jumping and Wall Lasering'
 wordpress_id: 2957
@@ -20,7 +19,7 @@ aliases:
 
 [![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)
 
-*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+*Edit: Visit the complete and updated tutorial [here](/guide)*
 
 Hello and welcome back to another short introduction into Xonotic gameplay! Today I'll show you two important aspects of a very useful movement tool in Xonotic, THE LASER!
 

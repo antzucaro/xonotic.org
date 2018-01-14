@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2012-03-08 23:03:22+00:00
-layout: post
 slug: xonotic-0-6-is-now-available
 title: Xonotic 0.6 is now available!
 wordpress_id: 2070

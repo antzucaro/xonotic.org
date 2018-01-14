@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2011-05-31 16:21:43+00:00
-layout: post
 slug: automatic-update-script-for-autobuilds-released
 title: Automatic Update Script for Autobuilds Released
 wordpress_id: 926

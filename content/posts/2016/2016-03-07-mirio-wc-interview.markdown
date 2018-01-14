@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2016-03-07 19:44:00+00:00
-layout: post
 title: World Cup Interview - Mirio
 categories:
 - interviews

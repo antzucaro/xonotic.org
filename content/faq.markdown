@@ -42,20 +42,6 @@ The phoenix image of the logo obviously refers to the concept of  "rising from t
 
 Another aspect of the logo is the center ring, which has some  similarities to the Quake logo; it has a fatter bottom edge and thinner  top edge, though quake didn't use a complete ring shape. This is  intended as a pay of respect to the Quake origins of the game, as the  Darkplaces engine was originally based on the Quake 1 engine.
 
-## What is going to be different between Xonotic and the current Nexuiz  GPL?
-
-  * A more unified and consistent art direction
-  * New player models and animations
-  * New set of default maps, some of them will get a makeover
-  * New sounds and music
-  * New stronger bot AI
-  * Low quality textures will be dropped and replaced with higher  quality ones
-  * Some weapon models may be changed
-  * More frequent releases
-  * Global player stats tracking system, supporting anonymous player as  well
-  * So much more ...
-
-
 # Troubleshooting
 
 ## When I join a server or after a map change I see nothing but a black screen, but I can still move and shoot
@@ -71,14 +57,14 @@ This happens when the engine can't load the data*.pk3 file or has trouble to ini
   * You unpacked the zip file without folder names, see [How do I install Xonotic?]({{< relref "#how-do-i-install-xonotic" >}})
   * On Linux: the current directory is not your Xonotic/ folder.
   * On Mac: you tried to extract and move the files from a Xonotic update and it deleted the old files. When using the mac GUI please be sure to move only the files not the folders as that will delete the old files or use the mv console command which will not delete the old files.
-  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com) [ati](http://ati.com) [nvidia](http://nvidia.com).
+  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com), [AMD](http://amd.com), [nvidia](http://nvidia.com).
   * Your download might be corrupted, please download Xonotic again.
 
 ## Using Linux I only see the map but no players and items
 
 This happens when the engine has trouble initializing OpenGL. The reasons could be:
 
-  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com) [ati](http://ati.com) [nvidia](http://nvidia.com)
+  * The engine could not initialize OpenGL. Please install the latest drivers for your graphic card. You will probably find one for your card there: [intel](http://intel.com), [AMD](http://amd.com), [nvidia](http://nvidia.com).
   * You do not have permissions needed for 3d acceleration. Usually you need to add yourself to the group video, you can do that via console as root like this: _usermod -a -G video YOURUSERNAME_. You need to logoff/in afterwards.
 
 ## When I start Xonotic my screen is flickering

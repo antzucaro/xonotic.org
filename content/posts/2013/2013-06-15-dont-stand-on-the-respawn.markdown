@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2013-06-15 21:19:11+00:00
-layout: post
 slug: dont-stand-on-the-respawn
 title: Don't Stand on the Respawn!
 wordpress_id: 3428

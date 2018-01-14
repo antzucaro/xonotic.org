@@ -2,7 +2,6 @@
 author: Antibody
 comments: false
 date: 2012-07-22 22:15:43+00:00
-layout: post
 slug: much-ado-about-elo
 title: Much Ado About Elo
 wordpress_id: 2861

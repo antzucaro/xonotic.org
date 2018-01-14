@@ -2,7 +2,6 @@
 author: C.Brutail
 comments: false
 date: 2012-01-21 12:31:39+00:00
-layout: post
 slug: public-xervice-announcement
 title: Public Xervice Announcement
 wordpress_id: 2131

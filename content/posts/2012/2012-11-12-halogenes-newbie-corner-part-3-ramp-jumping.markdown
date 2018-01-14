@@ -2,7 +2,6 @@
 author: Halogene
 comments: false
 date: 2012-11-12 16:41:07+00:00
-layout: post
 slug: halogenes-newbie-corner-part-3-ramp-jumping
 title: 'Halogene''s Newbie Corner - Part 3: Ramp Jumping'
 wordpress_id: 3021
@@ -19,7 +18,7 @@ aliases:
 
 ![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)
 
-*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+*Edit: Visit the complete and updated tutorial [here](/guide)*
 
 Yay it's time again for a new episode of my newbie tutorials! Today I'll show you a very useful movement trick:
 
