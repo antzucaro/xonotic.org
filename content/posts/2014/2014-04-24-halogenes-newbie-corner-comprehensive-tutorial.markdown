@@ -24,4 +24,4 @@ New features include (but are not limited to)
   * showing ramp jumps on the map Glowplant, and
   * Crylink running added to crylink description!
 
-You can access the entire Tutorial [here](/tut). Enjoy!
+You can access the entire Tutorial [here](/guide). Enjoy!
