@@ -18,7 +18,7 @@ aliases:
 
 ![](/m/uploads/2012/09/newbie-corner-banner2-800x239.png)
 
-*Edit: Visit the complete and updated tutorial [here](http://gitlab.com/xonotic/xonotic/wikis/Halogenes_Newbie_Corner)*
+*Edit: Visit the complete and updated tutorial [here](/tut)*
 
 Yay it's time again for a new episode of my newbie tutorials! Today I'll show you a very useful movement trick:
 
