@@ -50,6 +50,12 @@ This is probably because you don't have the map that's running on the server or 
 
 For Linux users: you need to have libcurl installed, otherwise you won't be able to download any maps. libcurl should be available in any Linux distribution, just search for "libcurl" and install it in your distribution's package manager.
 
+## When launching Xonotic on OSX I get "You have reached this menu due to missing or unlocatable content/data. You may consider adding -basedir /path/to/game to your launch commandline."
+
+In the Finder, control-click the app icon, then choose Open from the shortcut menu. Click Open on the dialog.
+
+This happens because Xonotic is not signed using an Apple developer key.
+
 ## When I start Xonotic all I see is a black screen or a black screen with some checkered squares
 
 This happens when the engine can't load the data*.pk3 file or has trouble to initialize OpenGL. The reasons could be:
