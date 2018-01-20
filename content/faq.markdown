@@ -12,9 +12,9 @@ aliases:
 <a name="install"></a>
 ## How do I install Xonotic?
 
-**There is no need to install Xonotic!** The zip file you downloaded from the homepage has everything. All binaries to run the game on Linux, Windows and OSX are inside of it. Just unzip the archive and run the appropriate executable for your OS.
+**There is no need to install Xonotic!** The zip file you downloaded from the homepage has everything. All binaries to run the game on Linux, Windows and macOS are inside of it. Just unzip the archive and run the appropriate executable for your OS.
 
-For example, on Windows or OSX you can start the game by double-clicking the Xonotic logo. On Linux you can run xonotic-linux-glx.sh or xonotic-linux-sdl.sh - whichever one works better on your hardware.
+For example, on Windows or macOS you can start the game by double-clicking the Xonotic logo. On Linux you can run xonotic-linux-glx.sh or xonotic-linux-sdl.sh - whichever one works better on your hardware.
 
 ## Is there a Debian package available?
 
@@ -50,7 +50,9 @@ This is probably because you don't have the map that's running on the server or 
 
 For Linux users: you need to have libcurl installed, otherwise you won't be able to download any maps. libcurl should be available in any Linux distribution, just search for "libcurl" and install it in your distribution's package manager.
 
-## When launching Xonotic on OSX I get "You have reached this menu due to missing or unlocatable content/data. You may consider adding -basedir /path/to/game to your launch commandline."
+## Can't launch Xonotic on macOS Sierra or later
+
+(Full error message: "You have reached this menu due to missing or unlocatable content/data. You may consider adding -basedir /path/to/game to your launch commandline.")
 
 In the Finder, control-click the app icon, then choose Open from the shortcut menu. Click Open on the dialog.
 
