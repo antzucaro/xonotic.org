@@ -1,0 +1,93 @@
+---
+author: Antibody
+comments: false
+date: 2018-01-21 14:00:00+00:00
+slug: 2017-by-the-numbers
+title: 2017 By The Numbers
+categories:
+- Announcements
+---
+We said goodbye to the year 2017 quite a while ago, so now it is time once again to see what 
+that year's worth of data had to tell us. As I did last year, I unleashed [Pandas][pandas] and 
+[Matplotlib][matplotlib] on 2017 data from the database that powers XonStat:
+[XonStatDB][xonstatdb]. Let's see what it has to tell us!
+
+Let's first look at the number of games throughout the year:
+
+<a href="/m/uploads/2018/01/2017_games_per_month.png">
+  <img src="/m/uploads/2018/01/2017_games_per_month.png" title="2017 Games Per Month" class="th m10">
+</a>
+
+The number of games for the first part of the year - through July - is lower than the year
+before, in most cases only by a little. What's interesting is that the rest of the year has higher
+numbers! Unfortunately they weren't enough to make up the huge two months we had in January and
+February last year, so the overall amount of games through the year is down by just over 19K. The
+discrepancy might be explained by the heightened interest in the game through all of the practice
+sessions, YouTube videos, and player interviews for the Xonotic World Cup that was going on at 
+the time. Perhaps it is time to do another one of those!
+
+Next let's check the most popular time to find games:
+
+<a href="/m/uploads/2018/01/2017_hours_heatmap.png">
+  <img src="/m/uploads/2018/01/2017_hours_heatmap.png" title="2017 Hours Heatmap" class="th m10">
+</a>
+
+Once again 8PM UTC takes the cake for the most popular time to play. This corresponds to the
+evening time for EU residents, so it appears that they enjoy de-stressing by fragging. As far
+as days go, Friday is unsurprisingly the best one. Everyone is getting their weekends started
+right!
+
+The next chart shows the number of distinct players per month.
+
+<a href="/m/uploads/2018/01/2017_players_per_month.png">
+  <img src="/m/uploads/2018/01/2017_players_per_month.png" title="2017 Players Per Month" class="th m10">
+</a>
+
+As with the number of games, the number of players is down for the first half of the year compared
+with 2016. However, unlike the number of games measure the overall number of distinct players for 2017 is much higher! 
+Approximately 3K more players played in 2017. It follows
+that the bigger the pool of players that we have available to play in games, the more games we'll end up
+having, so let's do our best to welcome these new players into our community so we can have an
+awesome 2018.
+
+Next let's have a look at weapons: 
+
+<a href="/m/uploads/2018/01/2017_weapon_damage_per_month.png">
+  <img src="/m/uploads/2018/01/2017_weapon_damage_per_month.png" title="2017 Weapon Damage Per Month" class="th m10">
+</a>
+
+We can't extrapolate a ton of information from this chart given that it contains data from
+all game modes and all configurations, but it is useful to get a high level view of what weapons
+players are using. On that front it is good to see that each weapon has a place or "band" on the
+vertical bars, which indicates that all of them are being used. We'd have a concern if any
+of the "core" weapons were only represented with tiny slivers.
+
+As a fun side note to this chart, please be aware that the blaster metrics are excluded. When I
+ran the numbers this time I saw some truly whacky numbers for that weapon that I've yet to explain.
+I'll defer that explanation to another time so I can do some analysis! It's likely that some server
+was misconfigured. Who knows - someone could have hosted a week long blaster-only tournament. The
+jury is still out on this one.
+
+Moving on to the frags dealt by all of those weapons:
+
+<a href="/m/uploads/2018/01/2017_weapon_frags_per_month.png">
+  <img src="/m/uploads/2018/01/2017_weapon_frags_per_month.png" title="2017 Weapon Frags Per Month" class="th m10">
+</a>
+
+This one also has representation from each of the weapons in the game, which is good to see! One point to
+note is that the devastator almost always leads in frags versus, say, the vortex. A common
+complaint is that the vortex is overpowered (op), but the data both on damage and frags indicates
+otherwise, at least in the general sense. More digging into different modes may yield different
+conclusions.
+
+That's it for this year's data exploration. As mentioned before, I've placed the code
+that generated these charts on [Github][repo] if you're the coding type. If you're not, I hope 
+to see you out on the servers instead - let's get out there and do our best to bump up
+the 2018 numbers! 
+
+[xonstatdb]: https://gitlab.com/xonotic/xonstatdb
+[pandas]: http://pandas.pydata.org/
+[matplotlib]: http://matplotlib.org/
+[worldtimebuddy]: http://www.worldtimebuddy.com/
+[repo]: https://github.com/antzucaro/xonotic-by-the-numbers
+[nvd3]: http://nvd3.org/
