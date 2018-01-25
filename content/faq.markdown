@@ -40,7 +40,7 @@ The logo design process took about a week, with a handful of people  contributin
 
 The phoenix image of the logo obviously refers to the concept of  "rising from the ashes".
 
-Another aspect of the logo is the center ring, which has some  similarities to the Quake logo; it has a fatter bottom edge and thinner  top edge, though quake didn't use a complete ring shape. This is  intended as a pay of respect to the Quake origins of the game, as the  Darkplaces engine was originally based on the Quake 1 engine.
+Another aspect of the logo is the center ring, which has some  similarities to the Quake logo; it has a fatter bottom edge and thinner  top edge, though quake didn't use a complete ring shape. This is intended as a pay of respect to the Quake origins of the game, as the Darkplaces engine was originally based on the Quake 1 engine.
 
 # Troubleshooting
 
