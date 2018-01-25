@@ -20,12 +20,6 @@ For example, on Windows or OSX you can start the game by double-clicking the Xon
 
 There is an unofficial package available on [playdeb.net](http://www.playdeb.net/updates/ubuntu/17.04/?q=xonotic). Unfortunately, Xonotic is not in the Debian repositories yet. You can check the status of the bug report [here](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=646377). If you can help us expedite this process, please contact us!
 
-## How and why did you choose the name?
-
-Brainstorming of the name started on day 1 of  our discussions, and  the process took about 4-5 days.
-
-We had about 30 key community members onboard at the time of the name  choosing. We all submitted ideas and voted on the best names. Some  names were ruled out because of domain availability and name-conflicts  with other software projects or companies in the software industry. Some  names were ruled out because of how common they were in Google  searches. Xonotic was a unique name with an available .com/.net/.org and  google search results were almost none.
-
 ## How do you pronounce the name Xonotic?
 
 There are two pronunciations, depending on where you live.
@@ -203,18 +197,6 @@ It should also be noted that IllFonic's code may be in violation of  the GPL as 
 Yes, many in the Nexuiz community tried to [reach a compromise](http://alientrap.org/forum/viewtopic.php?f=4&t=6079), such as having Illfonic  contribute some artwork and/or gamecode back to Nexuiz GPL and for them  to use a derivative name for their project, e.g. "Nexuiz Reloaded".  <del>Illfonic [flatly refused](https://web.archive.org/web/20101212220555/http://alientrap.org/forum/viewtopic.php?p=76108&f=7) all such suggestions.</del> This, along  with the clear stance that Alientrap has taken on this issue, made it  clear that no compromise could be reached.
 
 **Update** It has been clarified that, despite some of misleading wording in previous communication, Illfonic will be contributing _some_ of the game code back to Nexuiz GPL, mainly having to do with bandwidth improvements and animation blending.
-
-## How will the management of Xonotic differ from Alientrap/Nexuiz GPL?
-
-From the very start, we all discussed organizing the Xonotic Team  with a handful of caretakers to make decisions on big/difficult issues  for the game, and a committee underneath with community contributors who  make decisions on most issues. The caretakers will also act to keep the  project on track and maintain organization. All decisions will be made  with input of the committee. The names of the caretakers are:
-
-  * **DivVerent** [GER] : Lead developer
-  * **-z-** [US] : Lead web developer, Server admin
-  * **Samual** [US] : Developer, Server admin
-  * **tZork** [SWE] : Developer, Server admin, Mapper, Modeler
-  * **mand1nga** [ARG] : Developer
-  * **merlijn** [HOL] : Developer, Server admin
-  * **Morphed** [POL] : Modeler, Developer
 
 ## Do you despise Vermeulen, LordHavoc or Illfonic?
 
