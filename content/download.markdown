@@ -52,6 +52,7 @@ Since Xonotic version 0.5 we've offered an auto-update tool that will seamlessly
 **[Our project page on GitLab](https://gitlab.com/groups/xonotic)**
 
 ### Older downloads
+
 [Download 0.8.1 via torrent](https://dl.xonotic.org/xonotic-0.8.1.zip.torrent) (940M, md5: f7a9cd8ab68a00336acca164f983b569)  
 [Download 0.8.1 via HTTP](https://dl.xonotic.org/xonotic-0.8.1.zip) (940M, md5: f7a9cd8ab68a00336acca164f983b569)  
 
