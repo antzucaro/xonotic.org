@@ -32,7 +32,7 @@ onboard GPU
 4 GB RAM  
 GPU with 512 MB VRAM  
 
-Linux or OSX or Windows XP and newer  
+Linux, macOS, or Windows 7 and later  
 
 ### Upgrading from an older version
 
@@ -41,7 +41,7 @@ Since Xonotic version 0.5 we've offered an auto-update tool that will seamlessly
 ### Extra downloads
 
 **[Download NetRadiant via HTTP](https://dl.xonotic.org/xonotic-0.8.2-mappingsupport.zip)**  
-**Description:** Official Xonotic map editor with all the required textures to create maps. The download only contains binaries for Windows and OSX, Linux users will need to compile from source- which is also provided in the package.  
+**Description:** Official Xonotic map editor with all the required textures to create maps. The download only contains binaries for Windows and macOS, Linux users will need to compile from source- which is also provided in the package.  
 
 **[Lower quality download via HTTP](https://dl.xonotic.org/xonotic-0.8.2-low.zip)**  
 **Description:** Release build with JPEG texture compression instead of using DDS textures compiled with S3TC. This build has smaller file size and has better support for opensource/legacy drivers, but the textures take slightly longer while loading the game.  
