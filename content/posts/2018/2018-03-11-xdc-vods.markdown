@@ -1,0 +1,47 @@
+---
+author: Antibody
+comments: false
+date: 2018-03-11 14:10:00+00:00
+slug: packers-xdc-vods
+title: packer's Xonotic Duel Cup VODs available
+categories:
+- Announcements
+---
+Long time player and contributor [packer][packer] has uploaded a ton of videos on demand from the
+last Xonotic Duel Cup. If you want hours and hours of exciting gaming content, look no further!
+He went far beyond simple demo-rendering for this one. You get *both* player perspectives in one
+along with their country of origin, the map being played, and the current set points for each
+player. It's really a great piece of work. Check them out!
+
+1. [Xonotic Duel Cup, Game #01, Smilecythe vs kwakkie, Bo3](https://youtube.com/watch?v=5p8KGVTkCSM)
+2. [Xonotic Duel Cup, Game #02, Diomedes vs Ramses, Bo3](https://youtube.com/watch?v=839vNnpSenU)
+3. [Xonotic Duel Cup, Game #03, SpiKe vs Freddy, Bo3](https://youtube.com/watch?v=cMCOajReS-g)
+4. [Xonotic Duel Cup, Game #04, pillow vs proraide, Bo3](https://youtube.com/watch?v=q8TsmVQ8KiM)
+5. [Xonotic Duel Cup, Game #05, Dodger vs Lightbringer, Bo3](https://youtube.com/watch?v=jf1AhMebZVA)
+6. [Xonotic Duel Cup, Game #06, packer vs Hotdog, Bo3](https://youtube.com/watch?v=sdq_vfeeuxU)
+7. [Xonotic Duel Cup, Game #07, Mirio vs Morosophos, Bo3](https://youtube.com/watch?v=K3D65pD_Se4)
+8. [Xonotic Duel Cup, Game #08, Halogene vs sinety, Bo3](https://youtube.com/watch?v=vqL1jqtrct8)
+9. [Xonotic Duel Cup, Game #09, kwakkie vs Ramses, Bo3](https://youtube.com/watch?v=DMGL9FxiUgI)
+10. [Xonotic Duel Cup, Game #10, Freddy vs proraide, Bo3](https://youtube.com/watch?v=XwFHdeipa1Q)
+11. [Xonotic Duel Cup, Game #11, Lightbringer vs Hotdog, Bo3](https://youtube.com/watch?v=eiGXtb_K4eQ)
+12. [Xonotic Duel Cup, Game #12, Morosophos vs sinety, Bo3](https://youtube.com/watch?v=hFv3Cq4Mty8)
+13. [Xonotic Duel Cup, Game #13, Smilecythe vs Diomedes, Bo3](https://youtube.com/watch?v=VWtTHMzpobY)
+14. [Xonotic Duel Cup, Game #14, SpiKe vs pillow, Bo3](https://youtube.com/watch?v=lN9p9pPfV-o)
+15. [Xonotic Duel Cup, Game #15, Dodger vs packer, Bo3](https://youtube.com/watch?v=unJSF-w5TkI)
+16. [Xonotic Duel Cup, Game #16, Mirio vs Halogene, Bo3](https://youtube.com/watch?v=lKpLtdJCjrc)
+17. [Xonotic Duel Cup, Game #17, Diomedes vs sinety, Bo3](https://youtube.com/watch?v=wQMeuBt72bQ)
+18. [Xonotic Duel Cup, Game #18, pillow vs Hotdog, Bo3](https://youtube.com/watch?v=Xqaw-KIbrs4)
+19. [Xonotic Duel Cup, Game #19, packer vs Freddy, Bo3](https://youtube.com/watch?v=V1xzBd2i5k0)
+20. [Xonotic Duel Cup, Game #20, Halogene vs Ramses, Bo3](https://youtube.com/watch?v=bmSQKvGw11I)
+21. [Xonotic Duel Cup, Game #21, pillow vs Diomedes, Bo3](https://youtube.com/watch?v=sKOy3J6LYI4)
+22. [Xonotic Duel Cup, Game #22, Halogene vs packer, Bo3](https://youtube.com/watch?v=FwdCfKA3L8w)
+23. [Xonotic Duel Cup, Game #23, Smilecythe vs SpiKe, Bo5](https://youtube.com/watch?v=3MG_AfUl2Do)
+24. [Xonotic Duel Cup, Game #24, Dodger vs Mirio, Bo5](https://youtube.com/watch?v=2WGORG-VMM8)
+25. [Xonotic Duel Cup, Game #25, Halogene vs SpiKe, Bo5](https://youtube.com/watch?v=osReyp9y3OU)
+26. [Xonotic Duel Cup, Game #26, Mirio vs pillow, Bo5](https://youtube.com/watch?v=6ZdeYpcwYSE)
+27. [Xonotic Duel Cup, Game #27, SpiKe vs Mirio, Bo5](https://youtube.com/watch?v=EP_aeaFVEoo)
+28. [Xonotic Duel Cup, Game #30, Smilecythe vs Mirio, Bo7](https://youtube.com/watch?v=aKhyL4nRTnk)
+
+Thank you packer for doing an awesome job. 
+
+[packer]: https://www.youtube.com/user/packerxonotic/videos
