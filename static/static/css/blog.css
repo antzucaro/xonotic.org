@@ -91,12 +91,12 @@ ul, ol, dl {
 
 /* Sections */
 body > section.pad {
-  padding: 7rem 0 7rem 0;
+  padding: 5rem 0 5rem 0;
 }
 
 /* Main section */
 #download-button {
-  margin: 3rem;
+  margin: 2rem;
 }
 
 #download-button > a.button {
@@ -106,6 +106,11 @@ body > section.pad {
 /* Section Backgrounds */
 .section-summary {
   background-color: #171717;
+}
+.section-summarystats {
+  padding: 1rem 0rem 1rem 0rem;
+  background-color: #001021;
+  border: 1px solid #04264a;
 }
 .section-summary > .screenshots {
   margin-top: 3rem;
