@@ -1,7 +1,12 @@
 clean:
 	rm -r ./public/*
 
-gen:
+data: 
+	scripts/summary_data.py ./data/summary/summarystats.json
+
+.PHONY: data
+
+gen: data
 	hugo
 
 server:
