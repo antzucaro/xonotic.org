@@ -5,7 +5,7 @@
   <div class="row">
     <div class="small-12 columns">
       <img src="/static/img/xonotic-logo.png">
-      <h2 class="slogan">The Free and Fast Arena Shooter</h2>
+      <h3 class="slogan">The Free and Fast Arena Shooter</h3>
       <div id="download-button">
         <a href="https://dl.xonotic.org/xonotic-0.8.2.zip" class="button round alert">
           <i class="fa fa-download"></i> Download<br />
@@ -28,6 +28,21 @@
   </div>
 
 </section>
+
+<!-- SUMMARY STATS -->
+{{ if gt $.Site.Data.summary.summarystats.games 0 }}
+<section class="section-summarystats text-center">
+  <div class="row">
+    <div class="small-12 columns">
+        <h5>
+            {{ $.Site.Data.summary.summarystats.players }} <a href="https://stats.xonotic.org/">players</a> and
+            {{ $.Site.Data.summary.summarystats.games }} <a href="https://stats.xonotic.org/games">games</a> in the past day.
+            {{ $.Site.Data.summary.summarystats.commits }} <a href="https://gitlab.com/groups/xonotic/-/activity">commits</a> by {{ $.Site.Data.summary.summarystats.committers }} committers in the past month.
+        </h5>
+    </div>
+  </div>
+</section>
+{{ end }}
 
 <!-- SUMMARY SECTION -->
 <section class="section-summary pad text-center">
