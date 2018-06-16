@@ -1,13 +1,13 @@
 ---
 author: Antibody
 comments: false
-date: 2018-05-23 00:22:00+00:00
+date: 2018-06-16 00:22:00+00:00
 slug: tos
 title: Terms of Service
 type: page
 ---
 
-*Last Updated May 23, 2018*
+*Last Updated June 16, 2018*
 
 Please read these Terms of Service carefully before using Xonotic's [forums][forums] or [player
 statistics][player statistics] services operated by Team Xonotic. 
@@ -68,7 +68,7 @@ Usage of our player statistics system and other web properties constitutes accep
 policies outlined in this document. If you have any questions about how we handle user data and 
 personal information, feel free to contact us.
 
-This policy is effective as of 23 May 2018.
+This policy is effective as of 16 June 2018.
 
 [forums]: https://forums.xonotic.org
 [player statistics]: https://stats.xonotic.org
