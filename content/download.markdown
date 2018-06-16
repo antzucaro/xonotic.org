@@ -13,6 +13,8 @@ type: page
 [<i class="fa fa-download"></i> Download as zip](https://dl.xonotic.org/xonotic-0.8.2.zip)  
 [<i class="fa fa-download"></i> Download via torrent](https://dl.xonotic.org/xonotic-0.8.2.zip.torrent)
 
+[*Terms and Privacy Policy*][tos]
+
 No installation required, just unpack and run. Got questions? See the [FAQ](/faq) or [live chat](/chat) with us.
 
 <p style="font-size: 90%">
@@ -70,3 +72,5 @@ Since Xonotic version 0.5 we've offered an auto-update tool that will seamlessly
 
 [Download 0.1.0 via torrent](https://dl.xonotic.org/xonotic-0.1.0preview.zip.torrent) (1.3G, md5: aafb43893aa66e01488c817e3a60d96d)  
 [Download 0.1.0 via HTTP](https://dl.xonotic.org/xonotic-0.1.0preview.zip) (1.3G, md5: aafb43893aa66e01488c817e3a60d96d)  
+
+[tos]: /tos/
