@@ -38,6 +38,12 @@ Another aspect of the logo is the center ring, which has some  similarities to t
 
 # Troubleshooting
 
+## When i try to launch Xonotic on linux, nothing happens
+
+It's possible you've accidentally launched the dedicated server (e.g. `xonotic-linux64-dedicated`) which runs silently in the background. It shares a lockfile (`~/.xonotic/lock`) with the normal executable and prevents it from launching. Kill any processes which have xonotic in the name (you might also need to remove the lockfile manually) and try again.
+
+Use the executables with sdl or xgl in their name to launch Xonotic.
+
 ## When I join a server or after a map change I see nothing but a black screen, but I can still move and shoot
 
 This is probably because you don't have the map that's running on the server or it didn't download correctly. Try clearing your _dlcache_ (in [\<your config folder\>](#config)/data/dlcache) and restarting Xonotic.
