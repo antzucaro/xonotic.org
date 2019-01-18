@@ -38,7 +38,7 @@ Another aspect of the logo is the center ring, which has some  similarities to t
 
 # Troubleshooting
 
-## When i try to launch Xonotic on linux, nothing happens
+## When I try to launch Xonotic on Linux, nothing happens
 
 It's possible you've accidentally launched the dedicated server (e.g. `xonotic-linux64-dedicated`) which runs silently in the background. It shares a lockfile (`~/.xonotic/lock`) with the normal executable and prevents it from launching. Kill any processes which have xonotic in the name (you might also need to remove the lockfile manually) and try again.
 
