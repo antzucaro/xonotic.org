@@ -18,7 +18,7 @@ For example, on Windows or macOS you can start the game by double-clicking the X
 
 ## Is there a Debian package available?
 
-There is an unofficial package available on [playdeb.net](http://www.playdeb.net/updates/ubuntu/17.04/?q=xonotic). Unfortunately, Xonotic is not in the Debian repositories yet. You can check the status of the bug report [here](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=646377). If you can help us expedite this process, please contact us!
+Unfortunately, Xonotic is not in the Debian repositories yet. You can check the status of the bug report [here](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=646377). If you can help us expedite this process, please contact us!
 
 ## How do you pronounce the name Xonotic?
 
@@ -37,6 +37,12 @@ The phoenix image of the logo obviously refers to the concept of  "rising from t
 Another aspect of the logo is the center ring, which has some  similarities to the Quake logo; it has a fatter bottom edge and thinner  top edge, though quake didn't use a complete ring shape. This is intended as a pay of respect to the Quake origins of the game, as the Darkplaces engine was originally based on the Quake 1 engine.
 
 # Troubleshooting
+
+## When i try to launch Xonotic on linux, nothing happens
+
+It's possible you've accidentally launched the dedicated server (e.g. `xonotic-linux64-dedicated`) which runs silently in the background. It shares a lockfile (`~/.xonotic/lock`) with the normal executable and prevents it from launching. Kill any processes which have xonotic in the name (you might also need to remove the lockfile manually) and try again.
+
+Use the executables with sdl or xgl in their name to launch Xonotic.
 
 ## When I join a server or after a map change I see nothing but a black screen, but I can still move and shoot
 
