@@ -18,7 +18,7 @@ type: page
 No installation required, just unpack and run. Got questions? See the [FAQ](/faq) or [live chat](/chat) with us.
 
 <p style="font-size: 90%">
-sha256sum: a22f7230f486c5825b55cfdadd73399c9b0fae98c9e081dd8ac76eca08359ad5</br>
+sha256sum: a22f7230f486c5825b55cfdadd73399c9b0fae98c9e081dd8ac76eca08359ad5<br/>
 Package size: 946 MB  
 </p>
 
