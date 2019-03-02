@@ -2,9 +2,11 @@
 author: Antibody
 comments: false
 date: 2018-07-22 14:00:00+00:00
-title: XDF Academy Part 1
+title: XDF Academy
 categories:
 - Announcements
+aliases:
+- /posts/2018/2018-07-22-xdf-academy-p1
 ---
 Yesterday [Dekry][dekry] and [Donald][donald] streamed a knowledge-sharing session about XDF, which employs a 
 completely different physics configuration from the default or "vanilla" in Xonotic. There's a 
@@ -23,6 +25,17 @@ treasure-trove of topics covered. From the video's description:
 Check it out! For more information, be sure to stop by the XDF section of [Discord][discord xdf].
 
 Thanks for covering this complex and fun aspect of the game, Dekry and Donald!
+
+**Update** - Part 2:
+
+1. Ramps/Teleporters/Jump pads
+2. Rocket Launcher
+3. Hagar
+4. Mortar
+5. Comboing (by situation or climbing)
+6. Crylink
+
+{{% youtube "C_-t_Z0Z2ic" %}}
 
 [dekry]: https://forums.xonotic.org/member.php?action=profile&uid=5955
 [discord xdf]: https://discord.gg/v447EHx
