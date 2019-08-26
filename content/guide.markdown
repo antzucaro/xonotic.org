@@ -49,9 +49,9 @@ Contents
 Preface
 =======
 
-This tutorial aims at showing all fundamental aspects of vanilla gameplay to enable new players to pick up the ropes quickly. It includes the information of all six blog posts of the [Newbie Corner](http://xonotic.org/posts/2014/halogenes-newbie-corner-comprehensive-tutorial/) as well as some new things that have changed or that I didn’t think about back then.
+This guide aims at showing all fundamental aspects of vanilla Xonotic gameplay to enable new players to pick up the ropes quickly.
 
-Note that all this applies to vanilla Xonotic. Whereas movement aspects should usually apply more or less unchanged to modified servers offering minstagib, vehicle ctf or [Overkill](/okguide) gameplay, I will not explain the specifics of these game modifications/mutators - I simply lack the expertise in non-vanilla game modes. So if you want to fully apply the knowledge gained from this tutorial, search for vanilla servers (Xonotic icon next to it in server browser) or use the official [HUB] ones.
+Note that whereas movement aspects should usually apply more or less unchanged to modified servers offering InstaGib, vehicle CTF or [Overkill](/okguide) gameplay, I will not explain the specifics of these game mutators/rulesets - I simply lack the expertise in non-vanilla game modes. The XDF ruleset has different physics and a separate video-guide called [XDF Academy](/posts/2018/2018-07-22-xdf-academy). If you want to fully apply the knowledge gained from this guide, search for vanilla servers - Normal category in the server browser.
 
 Remember that the Xonotic player community is generally considered a very friendly and helpful one and for many people (including me) this is the key aspect that gets one hooked to this game. If you meet very strong players online and wonder how they do certain things, it usually pays off to simply ask them. Most of the experienced players will take their time to shortly explain gameplay techniques to newbies if asked nicely. Some of them might even offer to show you around by giving you a short live tutorial. That’s how I myself learned about blaster jumping and strafe turning for example.
 
