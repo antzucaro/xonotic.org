@@ -38,13 +38,13 @@ Another aspect of the logo is the center ring, which has some similarities to th
 
 # Troubleshooting
 
-## Can't launch Xonotic on Linux
+## I can't launch Xonotic on Linux
 
-It's possible you've accidentally launched the dedicated server (e.g. `xonotic-linux64-dedicated`) which runs silently in the background. It shares a lockfile (`~/.xonotic/lock`) with the normal executable and prevents it from launching. Kill any processes which have xonotic in the name (you might also need to remove the lockfile manually) and try again.
+The most likely reason Xonotic won't start is that you've accidentally launched the dedicated server (e.g. `xonotic-linux64-dedicated`) which runs silently in the background. It shares a lockfile (`~/.xonotic/lock`) with the normal executable and prevents it from launching. Kill any processes which have xonotic in the name (you might also need to remove the lockfile manually) and try again.
 
-Use the executables with sdl or xgl in their name to launch Xonotic.
+Use the executables with sdl or glx in their name to launch Xonotic.
 
-## Can't launch Xonotic on macOS Sierra or later
+## I can't launch Xonotic on macOS Sierra or later
 
 (Full error message: "You have reached this menu due to missing or unlocatable content/data. You may consider adding -basedir /path/to/game to your launch commandline.")
 
@@ -99,11 +99,11 @@ Linux: A similar problem can arise on Linux. It's also Turn off OS mouse acceler
 
 Check if your desktop color depth is set to 32 bits per pixel. If it's just set to 16, Xonotic can't switch to 32 bit mode.
 
-## How to report crashes and bugs
+## How to report crashes and bugs?
 
 Use our [issue tracker](http://gitlab.com/xonotic/xonotic-data.pk3dir/issues) on Gitlab.
 
-If you want to investigate further:
+If you want to investigate crashes further:
 
 On Linux: In a xterm, cd into your Xonotic installation directory, start catchsegv ./xonotic-linux-686-sdl -condebug -developer > crash.txt 2>&1 and give the file crash.txt to the developers. Note that you can also use ./xonotic-linux-686-glx or if you have a 64bit system ./xonotic-linux-x86_64-sdl and ./xonotic-linux-x86_64-glx
 
