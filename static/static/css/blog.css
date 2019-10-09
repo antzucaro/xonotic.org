@@ -82,10 +82,10 @@ ul, ol, dl {
 .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p, .panel li, .panel dl {
   color: #777777;
 }
-.th {
+.thumb {
   box-shadow: 0 0 6px 1px rgba(0, 140, 186, 0.4);
 }
-.th:hover, .th:focus {
+.thumb:hover, .thumb:focus {
   box-shadow: 0 0 6px 1px rgba(0, 140, 186, 0.7);
 }
 
@@ -151,8 +151,10 @@ body > section.pad {
 }
 
 /* Thumbnails */
-.th {
+.thumb {
+  border: solid 4px white;
   border-color: #0E0E0E;
+  display: inline-block;
 }
 .m10 { margin: 10px; }
 
