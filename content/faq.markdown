@@ -131,9 +131,11 @@ The config directory (sometimes called user directory) has a specific [location]
 
 ## How do I install new maps?
 
-Maps usually ship as .pk3 file. All you have to do is to copy this file to the [\<config folder\>](#config)/data/ directory. Map packages that were downloaded from a server during playing end up in [\<your config folder\>](#config)/data/dlcache/ and are only used till you exit Xonotic. If you want to play them locally or use them to setup a server of your own you can "accept" the packages by moving it one level up - right next to your config.cfg.
+Maps usually ship as a .pk3 file. All you have to do is to copy this file to the [\<config folder\>](#config)/data/ directory. To detect the new map, either restart Xonotic or run `fs_rescan` in console.
 
-An extensive list of maps is at [xonotic.co](http://xonotic.co)
+Map packages that were downloaded from a server when playing on it end up in [\<your config folder\>](#config)/data/dlcache/ and are only used till you exit Xonotic. If you want to play them locally or use them to setup a server of your own you can "accept" the packages by moving them one level up (right next to your config.cfg).
+
+There are multiple [unofficial map repositories](https://gitlab.com/xonotic/xonotic/wikis/Home#unofficial-map-repositories).
 
 ## How can I place a shortcut to Xonotic on my Linux desktop?
 
