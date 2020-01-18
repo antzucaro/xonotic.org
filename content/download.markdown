@@ -8,7 +8,7 @@ wordpress_id: 839
 type: page
 ---
 
-### Latest release: Xonotic 0.8.2 for Linux, Windows and Mac
+### <a name="latest"></a>Latest release: Xonotic 0.8.2 for Linux, Windows and Mac
 
 [<i class="fas fa-download"></i> Download as zip](https://dl.xonotic.org/xonotic-0.8.2.zip)  
 [<i class="fas fa-download"></i> Download via torrent](https://dl.xonotic.org/xonotic-0.8.2.zip.torrent)
@@ -22,7 +22,7 @@ sha256sum: a22f7230f486c5825b55cfdadd73399c9b0fae98c9e081dd8ac76eca08359ad5<br/>
 Package size: 946 MB  
 </p>
 
-### Hardware requirements
+### <a name="hardware-requirements"></a>Hardware requirements
 
 **Minimum (low settings):**  
 1.6 GHz single-core CPU  
@@ -36,24 +36,24 @@ GPU with 512 MB VRAM
 
 Linux, macOS, or Windows 7 and later  
 
-### Upgrading from an older version
+### <a name="upgrading"></a>Upgrading from an older version
 
 Since Xonotic version 0.5 we've offered an auto-update tool that will seamlessly upgrade your client to the latest release, provided you're using an official release or autobuild to begin with. You can find this tool in your Xonotic application directory. To use it, start by navigating to the misc->tools->rsync-updater subdirectory, then double-click (or otherwise execute in a terminal) the "update-to-release.sh" inside this directory. There is also a "update-to-release.bat" script for Windows users. This script will examine your installation and update only the files needed to bring your copy up to date using the "rsync" tool. In no time you'll have a shiny new client with which to play!
 
-### Extra downloads
+### <a name="extra-downloads"></a>Extra downloads
 
-**[Download NetRadiant via HTTP](https://dl.xonotic.org/xonotic-0.8.2-mappingsupport.zip)**  
+**<a name="netradiant"></a>[Download NetRadiant via HTTP](https://dl.xonotic.org/xonotic-0.8.2-mappingsupport.zip)**  
 **Description:** Official Xonotic map editor with all the required textures to create maps. The download only contains binaries for Windows, macOS and Linux users will need to compile from source- which is also provided in the package.  
 
-**[Lower quality download via HTTP](https://dl.xonotic.org/xonotic-0.8.2-low.zip)**  
+**<a name="lower-quality"></a>[Lower quality download via HTTP](https://dl.xonotic.org/xonotic-0.8.2-low.zip)**  
 **Description:** Release build with JPEG texture compression instead of using DDS textures compiled with S3TC. This build has smaller file size and has better support for opensource/legacy drivers, but the textures take slightly longer while loading the game.  
 
-**[Source download via HTTP](https://dl.xonotic.org/xonotic-0.8.2-source.zip)**  
+**<a name="source"></a>[Source download via HTTP](https://dl.xonotic.org/xonotic-0.8.2-source.zip)**  
 **Description:** Source of all code parts (also included with the other downloads).  
 
-**[Our project page on GitLab](https://gitlab.com/groups/xonotic)**
+**<a name="gitlab"></a>[Our project page on GitLab](https://gitlab.com/groups/xonotic)**
 
-### Older downloads
+### <a name="older-downloads"></a>Older downloads
 
 [Download 0.8.1 via torrent](https://dl.xonotic.org/xonotic-0.8.1.zip.torrent) (940M, md5: f7a9cd8ab68a00336acca164f983b569)  
 [Download 0.8.1 via HTTP](https://dl.xonotic.org/xonotic-0.8.1.zip) (940M, md5: f7a9cd8ab68a00336acca164f983b569)  
