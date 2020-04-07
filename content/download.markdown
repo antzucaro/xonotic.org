@@ -22,19 +22,25 @@ sha256sum: a22f7230f486c5825b55cfdadd73399c9b0fae98c9e081dd8ac76eca08359ad5<br/>
 Package size: 946 MB  
 </p>
 
-### <a name="hardware-requirements"></a>Hardware requirements
+### <a name="system-requirements"></a>System requirements
 
-**Minimum (low settings):**  
-1.6 GHz single-core CPU  
-2 GB RAM  
-onboard GPU  
+**Official builds support these platforms:**<br/>
+Windows: XP or newer, 32 and 64 bit<br/>
+Linux: x86_64<br/>
+macOS: Intel 64 bit<br/>
 
-**Optimal (60 fps on normal settings):**  
-2.5 GHz dual-core CPU (for background tasks - Xonotic is single threaded)  
-4 GB RAM  
-GPU with 512 MB VRAM  
+Xonotic can run on other platforms if you compile the darkplaces engine yourself.<br/>
 
-Linux, macOS, or Windows 7 and later  
+**Minimum GPU:** OpenGL 2.1 (hardware accelerated)<br/>
+Xonotic can run on OpenGL 1.x GPUs but this is unlikely to be a good experience.<br/>
+
+**Minimum memory: 2GB**<br/>
+- Xonotic is playable with 2GB RAM if all programs are closed including Steam and other "system tray" entries<br/>
+- Under Linux, use a "light" desktop environment to save some RAM<br/>
+- Swap space/virtual memory must be enabled<br/>
+- Integrated GPUs use some RAM, you might be able to adjust this in BIOS settings<br/>
+- Some servers may have custom content that requires more memory<br/>
+- Git builds require more than 2GB RAM for the uncompressed textures<br/>
 
 ### <a name="upgrading"></a>Upgrading from an older version
 
