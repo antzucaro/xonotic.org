@@ -63,6 +63,11 @@ The source of all code parts (also included with the other downloads).
 
 ---
 
+### <a name="please-note"></a>Attention: Developers, Artists and Mappers
+Files linked on this page must not be used as the basis for developing code or improving official content.<br/>This is because you may be working from outdated sources which will make it difficult to merge your improvements into Xonotic. Please use the [GitLab repositories as the basis for your development.](https://gitlab.com/xonotic/xonotic/-/wikis/Repository_Access#contributing-and-getting-write-access)
+
+---
+
 ### <a name="older-downloads"></a>Older downloads
 
 [Download 0.8.1 via torrent](https://dl.xonotic.org/xonotic-0.8.1.zip.torrent) (940M, md5: f7a9cd8ab68a00336acca164f983b569)  
