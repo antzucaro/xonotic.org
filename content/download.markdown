@@ -22,29 +22,35 @@ sha256sum: a22f7230f486c5825b55cfdadd73399c9b0fae98c9e081dd8ac76eca08359ad5<br/>
 Package size: 946 MB  
 </p>
 
+---
+
 ### <a name="system-requirements"></a>System requirements
 
-**Official builds support these platforms:**<br/>
-Windows: XP or newer, 32 and 64 bit<br/>
-Linux: x86_64<br/>
-macOS: Intel 64 bit<br/>
+Recent builds support Windows XP or newer (32 and 64 bit), Linux x86_64 and macOS x86_64.<br/>
+Xonotic can be run on other platforms if you compile the darkplaces engine yourself.
 
-Xonotic can run on other platforms if you compile the darkplaces engine yourself.<br/>
+##### At least an OpenGL 2.1 GPU
+Xonotic may run on OpenGL 1.x GPUs but this is unlikely to be a good experience.
 
-**Minimum GPU:** OpenGL 2.1 (hardware accelerated)<br/>
-Xonotic can run on OpenGL 1.x GPUs but this is unlikely to be a good experience.<br/>
+##### At least 2GB of memory
+- Xonotic is playable with only 2GB RAM, if all other programs including "system tray" applications are closed.<br/>
+- Integrated GPUs use some RAM, you might be able to adjust this in BIOS settings.<br/>
+- Swap space/virtual memory must be enabled.<br/>
+- Under Linux, use a "light" desktop environment.<br/>
+- Some servers may have custom content that requires more memory.<br/>
+- Git builds require more than 2GB RAM for the uncompressed textures.<br/>
 
-**Minimum memory: 2GB**<br/>
-- Xonotic is playable with 2GB RAM if all programs are closed including Steam and other "system tray" entries<br/>
-- Under Linux, use a "light" desktop environment to save some RAM<br/>
-- Swap space/virtual memory must be enabled<br/>
-- Integrated GPUs use some RAM, you might be able to adjust this in BIOS settings<br/>
-- Some servers may have custom content that requires more memory<br/>
-- Git builds require more than 2GB RAM for the uncompressed textures<br/>
+---
 
 ### <a name="upgrading"></a>Upgrading from an older version
 
-Since Xonotic version 0.5 we've offered an auto-update tool that will seamlessly upgrade your client to the latest release, provided you're using an official release or autobuild to begin with. You can find this tool in your Xonotic application directory. To use it, start by navigating to the misc->tools->rsync-updater subdirectory, then double-click (or otherwise execute in a terminal) the "update-to-release.sh" inside this directory. There is also a "update-to-release.bat" script for Windows users. This script will examine your installation and update only the files needed to bring your copy up to date using the "rsync" tool. In no time you'll have a shiny new client with which to play!
+Since Xonotic version 0.5, official releases (and autobuilds) have included an auto-update tool in the Xonotic application directory.
+
+To use it, navigate to the *misc->tools->rsync-updater* subdirectory, then double-click (or execute in a terminal) the `update-to-release.sh` (Linux/Mac) script, or the `update-to-release.bat` (Windows) script.
+
+This script will examine your installation and update only the files needed to bring your copy up to date using the `rsync` tool. In no time you'll have a shiny new client with which to play!
+
+---
 
 ### <a name="extra-downloads"></a>Extra downloads
 
@@ -56,6 +62,8 @@ A release build with JPEG textures, instead of DDS textures with S3 compression.
 
 **<a name="source"></a>[Source code download (7MB)](https://dl.xonotic.org/xonotic-0.8.2-source.zip)**  
 The source of all code parts (also included with the other downloads).  
+
+---
 
 ### <a name="older-downloads"></a>Older downloads
 
