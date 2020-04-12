@@ -64,7 +64,7 @@ The source of all code parts (also included with the other downloads).
 ---
 
 ### <a name="please-note"></a>Attention: Developers, Artists and Mappers
-Files linked on this page must not be used as the basis for developing code or improving official content.<br/>This is because you may be working from outdated sources which will make it difficult to merge your improvements into Xonotic. Please use the [GitLab repositories as the basis for your development.](https://gitlab.com/xonotic/xonotic/-/wikis/Repository_Access#contributing-and-getting-write-access)
+Files linked on this page must not be used as the basis for developing code or improving official content.<br/>This is because you would be working from outdated sources.<br/>Please refer to the [GitLab README](https://gitlab.com/xonotic/xonotic/blob/master/README.md) for information about accessing the latest sources and contributing.
 
 ---
 
