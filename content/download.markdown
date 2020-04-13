@@ -26,7 +26,7 @@ Package size: 946 MB
 
 ### <a name="system-requirements"></a>System requirements
 
-Recent builds support Windows XP or newer (32 and 64 bit), Linux x86_64 and macOS x86_64.<br/>
+Release builds support Windows XP or newer (32 and 64 bit), Linux x86_64 and macOS x86_64.<br/>
 Xonotic can be run on other platforms if you compile the included DarkPlaces engine source code yourself.
 
 ##### At least an OpenGL 2.1 GPU
@@ -64,7 +64,8 @@ The source of all code parts (also included with the other downloads).
 ---
 
 ### <a name="please-note"></a>Attention: Developers, Artists and Mappers
-Files linked on this page must not be used as the basis for developing code or improving official content.<br/>This is because you would be working from outdated sources.<br/>Please refer to the [GitLab README](https://gitlab.com/xonotic/xonotic/blob/master/README.md) for information about accessing the latest sources and contributing.
+Please refer to the [GitLab README](https://gitlab.com/xonotic/xonotic/blob/master/README.md) for information about compiling the latest sources and contributing.<br/>
+It's important to base your work on the latest git sources, rather than the files on this download page.
 
 ---
 
