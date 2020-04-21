@@ -30,10 +30,9 @@ Release builds support Windows XP or newer (32 and 64 bit), Linux x86_64 and mac
 Xonotic can be run on other platforms if you compile the included DarkPlaces engine source code yourself.
 
 ##### At least an OpenGL 2.1 GPU
-Xonotic may run on OpenGL 1.x GPUs but this is unlikely to be a good experience.
 
 ##### At least 4GB of memory
-Xonotic may be playable with less memory, but system tweaks might be required.
+Xonotic might be playable with less memory, but system tweaks may be required.
 
 ---
 
