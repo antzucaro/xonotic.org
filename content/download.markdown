@@ -63,8 +63,9 @@ The source of all code parts (also included with the other downloads).
 ---
 
 ### <a name="please-note"></a>Attention: Developers, Artists and Mappers
-Please refer to the [GitLab README](https://gitlab.com/xonotic/xonotic/blob/master/README.md) for information about compiling the latest sources and contributing.<br/>
-It's important to base your work on the latest git sources, rather than the files on this download page.
+Please refer to the [Xonotic Git README](https://gitlab.com/xonotic/xonotic/blob/master/README.md) for information about compiling the latest sources and contributing.<br/>
+It's important to base your work on the latest git sources, rather than the files on this download page.<br/>
+Joining the [development community discussions](https://gitlab.com/xonotic/xonotic/blob/master/README.md#community) is strongly encouraged.
 
 ---
 
