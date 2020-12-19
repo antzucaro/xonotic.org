@@ -16,7 +16,7 @@ going on and what there is moving forward, shall we?
 
 First of all, let's talk briefly about the General Data Protection Regulation (GDPR). I'm sure
 many of you are familiar with this regulation, either as privacy buffs or through those cookie
-pop-ups you see on most websites nowadays... in short, the GDPR is is a law that passed to
+pop-ups you see on most websites nowadays... in short, the GDPR is a law that passed to
 protect the privacy of users on the internet, to ensure you are not tracked without giving
 your consent.
 
