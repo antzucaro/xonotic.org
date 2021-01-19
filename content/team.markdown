@@ -22,17 +22,13 @@ The Core team consists of members who discuss and vote on large project changes.
 
 ### Extended Team
 
-  * [Archer](http://forums.xonotic.org/member.php?action=profile&uid=3351)
   * [Cloudwalk](http://forums.xonotic.org/member.php?action=profile&uid=8922)
-  * [GATTS](http://forums.xonotic.org/member.php?action=profile&uid=4680)
+  * [Freddy](http://forums.xonotic.org/member.php?action=profile&uid=5301)
   * [Halogene](http://forums.xonotic.org/member.php?action=profile&uid=53)
-  * [JH0nny](http://forums.xonotic.org/member.php?action=profile&uid=4193)
-  * [kuniuthefrogg](http://forums.xonotic.org/member.php?action=profile&uid=184)
-  * [matthiaskrgr](http://forums.xonotic.org/member.php?action=profile&uid=2969)
-  * [Peter Pielak ("Morphed")](http://forums.xonotic.org/member.php?action=profile&uid=8)
   * [morosophos](http://forums.xonotic.org/member.php?action=profile&uid=7970)
   * [MrBougo](http://forums.xonotic.org/member.php?action=profile&uid=30)
   * [Nitroxis](http://forums.xonotic.org/member.php?action=profile&uid=1003)
+  * [nyov](http://forums.xonotic.org/member.php?action=profile&uid=842)
   * [packer](http://forums.xonotic.org/member.php?action=profile&uid=373)
   * [SpiKe](http://forums.xonotic.org/member.php?action=profile&uid=3421)
   * [sev](http://forums.xonotic.org/member.php?action=profile&uid=46)
@@ -57,6 +53,7 @@ Coordinators are here to guide contributors, provide information both in and out
 
 #### Level Design
 
+  * [kuniuthefrogg](http://forums.xonotic.org/member.php?action=profile&uid=184)
   * [Mirio](http://forums.xonotic.org/member.php?action=profile&uid=213)
 
 #### Engine Code
@@ -68,6 +65,7 @@ Coordinators are here to guide contributors, provide information both in and out
 
   * [Mario](http://forums.xonotic.org/member.php?action=profile&uid=1258)
   * [martin-t](http://forums.xonotic.org/member.php?action=profile&uid=5337)
+  * [matthiaskrgr](http://forums.xonotic.org/member.php?action=profile&uid=2969)
   * [terencehill](http://forums.xonotic.org/member.php?action=profile&uid=620)
 
 #### Marketing / PR
