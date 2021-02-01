@@ -15,7 +15,7 @@ libraries for Python, some interesting visuals appeared!
 First up, let's look at the number of games throughout the year:
 
 <a href="/m/uploads/2017/01/2016_games_per_month.png">
-  <img src="/m/uploads/2017/01/2016_games_per_month.png" title="2016 Games Per Month" class="th m10">
+  <img src="/m/uploads/2017/01/2016_games_per_month.png" title="2016 Games Per Month" class="thumb m10">
 </a>
 
 It's interesting to see that the winter months hold the most amount of games! I
@@ -30,7 +30,7 @@ Next, a question that I've always wanted to answer: what time of day and what da
 best for getting a game? A heatmap of the games played will help us answer that. Behold:
 
 <a href="/m/uploads/2017/01/2016_hours_heatmap.png">
-  <img src="/m/uploads/2017/01/2016_hours_heatmap.png" title="2016 Hours Heatmap" class="th m10">
+  <img src="/m/uploads/2017/01/2016_hours_heatmap.png" title="2016 Hours Heatmap" class="thumb m10">
 </a>
 
 It comes as no surprise, but the evening hours are the best times to play games. That's when
@@ -42,7 +42,7 @@ Looking at the number of games is one thing, but what about the players who crea
 those numbers? This next chart looks at the number of distinct players per month.
 
 <a href="/m/uploads/2017/01/2016_players_per_month.png">
-  <img src="/m/uploads/2017/01/2016_players_per_month.png" title="2016 Players Per Month" class="th m10">
+  <img src="/m/uploads/2017/01/2016_players_per_month.png" title="2016 Players Per Month" class="thumb m10">
 </a>
 
 I'm not sure what to extrapolate from this one, but it comforts me to know that we don't
@@ -54,7 +54,7 @@ what it looked like when plotted out! Were there any trends? Was any weapon pred
 at the weapons data by damage dealt first.
 
 <a href="/m/uploads/2017/01/2016_weapon_damage_per_month.png">
-  <img src="/m/uploads/2017/01/2016_weapon_damage_per_month.png" title="2016 Weapon Damage Per Month" class="th m10">
+  <img src="/m/uploads/2017/01/2016_weapon_damage_per_month.png" title="2016 Weapon Damage Per Month" class="thumb m10">
 </a>
 
 I am rather surprised to see representation from all the various weapons in here (including some non-standard ones
@@ -67,7 +67,7 @@ The number of frags dealt by all that damage is another lens through which we ca
 that looks like:
 
 <a href="/m/uploads/2017/01/2016_weapon_frags_per_month.png">
-  <img src="/m/uploads/2017/01/2016_weapon_frags_per_month.png" title="2016 Weapon Frags Per Month" class="th m10">
+  <img src="/m/uploads/2017/01/2016_weapon_frags_per_month.png" title="2016 Weapon Frags Per Month" class="thumb m10">
 </a>
 
 Similar to the per-damage one above, this one also has a somewhat-even distribution. It's slightly weighted

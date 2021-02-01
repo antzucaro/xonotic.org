@@ -15,7 +15,7 @@ that year's worth of data had to tell us. As I did last year, I unleashed [Panda
 Let's first look at the number of games throughout the year:
 
 <a href="/m/uploads/2018/01/2017_games_per_month.png">
-  <img src="/m/uploads/2018/01/2017_games_per_month.png" title="2017 Games Per Month" class="th m10">
+  <img src="/m/uploads/2018/01/2017_games_per_month.png" title="2017 Games Per Month" class="thumb m10">
 </a>
 
 The number of games for the first part of the year - through July - is lower than the year
@@ -29,7 +29,7 @@ the time. Perhaps it is time to do another one of those!
 Next let's check the most popular time to find games:
 
 <a href="/m/uploads/2018/01/2017_hours_heatmap.png">
-  <img src="/m/uploads/2018/01/2017_hours_heatmap.png" title="2017 Hours Heatmap" class="th m10">
+  <img src="/m/uploads/2018/01/2017_hours_heatmap.png" title="2017 Hours Heatmap" class="thumb m10">
 </a>
 
 Once again 8PM UTC takes the cake for the most popular time to play. This corresponds to the
@@ -40,7 +40,7 @@ right!
 The next chart shows the number of distinct players per month.
 
 <a href="/m/uploads/2018/01/2017_players_per_month.png">
-  <img src="/m/uploads/2018/01/2017_players_per_month.png" title="2017 Players Per Month" class="th m10">
+  <img src="/m/uploads/2018/01/2017_players_per_month.png" title="2017 Players Per Month" class="thumb m10">
 </a>
 
 As with the number of games, the number of players is down for the first half of the year compared
@@ -53,7 +53,7 @@ awesome 2018.
 Next let's have a look at weapons: 
 
 <a href="/m/uploads/2018/01/2017_weapon_damage_per_month.png">
-  <img src="/m/uploads/2018/01/2017_weapon_damage_per_month.png" title="2017 Weapon Damage Per Month" class="th m10">
+  <img src="/m/uploads/2018/01/2017_weapon_damage_per_month.png" title="2017 Weapon Damage Per Month" class="thumb m10">
 </a>
 
 We can't extrapolate a ton of information from this chart given that it contains data from
@@ -71,7 +71,7 @@ jury is still out on this one.
 Moving on to the frags dealt by all of those weapons:
 
 <a href="/m/uploads/2018/01/2017_weapon_frags_per_month.png">
-  <img src="/m/uploads/2018/01/2017_weapon_frags_per_month.png" title="2017 Weapon Frags Per Month" class="th m10">
+  <img src="/m/uploads/2018/01/2017_weapon_frags_per_month.png" title="2017 Weapon Frags Per Month" class="thumb m10">
 </a>
 
 This one also has representation from each of the weapons in the game, which is good to see! One point to
