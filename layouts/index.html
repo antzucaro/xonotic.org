@@ -38,11 +38,20 @@
 <section class="section-summarystats text-center">
   <div class="row">
     <div class="small-12 columns">
+        {{ if gt $.Site.Data.summary.summarystats.commits 0 }}
         <h5>
             {{ $.Site.Data.summary.summarystats.players }} <a href="https://stats.xonotic.org/">players</a> and
             {{ $.Site.Data.summary.summarystats.games }} <a href="https://stats.xonotic.org/games">games</a> in the past day.
-            {{ $.Site.Data.summary.summarystats.commits }} <a href="https://gitlab.com/groups/xonotic/-/activity">changes</a> by {{ $.Site.Data.summary.summarystats.committers }} contributors in the past month.
+            {{ $.Site.Data.summary.summarystats.commits }} <a href="https://gitlab.com/groups/xonotic/-/activity">changes</a> by
+            {{ $.Site.Data.summary.summarystats.committers }} contributors in the past month.
         </h5>
+        {{ else }}
+        <!-- fallback in case there's trouble fetching data from GitLab to avoid showing zeros -->
+        <h5>
+          {{ $.Site.Data.summary.summarystats.players }} <a href="https://stats.xonotic.org/">players</a> and
+          {{ $.Site.Data.summary.summarystats.games }} <a href="https://stats.xonotic.org/games">games</a> in the past day.
+        </h5>
+        {{ end }}
     </div>
   </div>
 </section>

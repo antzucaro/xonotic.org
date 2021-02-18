@@ -15,8 +15,6 @@ The Core team consists of members who discuss and vote on large project changes.
   * [divVerent](http://forums.xonotic.org/member.php?action=profile&uid=4)
   * [-z-](http://forums.xonotic.org/member.php?action=profile&uid=1)
   * [Merlijn Hofstra](http://forums.xonotic.org/member.php?action=profile&uid=34)
-  * [Peter Pielak ("Morphed")](http://forums.xonotic.org/member.php?action=profile&uid=8)
-  * [Samual](http://forums.xonotic.org/member.php?action=profile&uid=164)
   * [Antibody](http://forums.xonotic.org/member.php?action=profile&uid=530)
   * [CuBe0wL](http://forums.xonotic.org/member.php?action=profile&uid=15)
   * [Mirio](http://forums.xonotic.org/member.php?action=profile&uid=213)
@@ -24,31 +22,19 @@ The Core team consists of members who discuss and vote on large project changes.
 
 ### Extended Team
 
-  * [Archer](http://forums.xonotic.org/member.php?action=profile&uid=3351)
-  * [bitbomb](http://forums.xonotic.org/member.php?action=profile&uid=446)
-  * [Debugger](http://forums.xonotic.org/member.php?action=profile&uid=222)
-  * [FruitieX](http://forums.xonotic.org/member.php?action=profile&uid=29)
-  * [GATTS](http://forums.xonotic.org/member.php?action=profile&uid=4680)
+  * [Cloudwalk](http://forums.xonotic.org/member.php?action=profile&uid=8922)
+  * [Freddy](http://forums.xonotic.org/member.php?action=profile&uid=5301)
   * [Halogene](http://forums.xonotic.org/member.php?action=profile&uid=53)
-  * [IDWMaster](http://forums.xonotic.org/member.php?action=profile&uid=574)
-  * [JH0nny](http://forums.xonotic.org/member.php?action=profile&uid=4193)
-  * [kuniuthefrogg](http://forums.xonotic.org/member.php?action=profile&uid=184)
-  * [matthiaskrgr](http://forums.xonotic.org/member.php?action=profile&uid=2969)
+  * [morosophos](http://forums.xonotic.org/member.php?action=profile&uid=7970)
   * [MrBougo](http://forums.xonotic.org/member.php?action=profile&uid=30)
-  * [nilyt](http://forums.xonotic.org/member.php?action=profile&uid=842)
   * [Nitroxis](http://forums.xonotic.org/member.php?action=profile&uid=1003)
+  * [nyov](http://forums.xonotic.org/member.php?action=profile&uid=842)
   * [packer](http://forums.xonotic.org/member.php?action=profile&uid=373)
-  * [s1lence](http://forums.xonotic.org/member.php?action=profile&uid=1879)
+  * [SpiKe](http://forums.xonotic.org/member.php?action=profile&uid=3421)
   * [sev](http://forums.xonotic.org/member.php?action=profile&uid=46)
-  * [Soelen](http://forums.xonotic.org/member.php?action=profile&uid=813)
-  * Sydes
   * [terencehill](http://forums.xonotic.org/member.php?action=profile&uid=620)
-  * [theShadow](http://forums.xonotic.org/member.php?action=profile&uid=153)
-  * [unfa](http://forums.xonotic.org/member.php?action=profile&uid=234)
   * [zykure](http://forums.xonotic.org/member.php?action=profile&uid=3578)
 
-
-Follow the [RSS Feed](http://xonpickbot.designxenon.com:27500/feed) to read the latest decisions in development.
 
 ### List of Coordinators
 
@@ -58,7 +44,6 @@ Coordinators are here to guide contributors, provide information both in and out
 
   * [Diabolik](http://forums.xonotic.org/member.php?action=profile&uid=14)
   * [Peter Pielak ("Morphed")](http://forums.xonotic.org/member.php?action=profile&uid=8)
-  * [FruitieX](http://forums.xonotic.org/member.php?action=profile&uid=29)
 
 #### Website
 
@@ -68,29 +53,24 @@ Coordinators are here to guide contributors, provide information both in and out
 
 #### Level Design
 
-  * [FruitieX](http://forums.xonotic.org/member.php?action=profile&uid=29)
-
-#### Music / Sound FX
-
-  * [mand1nga](http://forums.xonotic.org/member.php?action=profile&uid=13)
-  * [merlijn](http://forums.xonotic.org/member.php?action=profile&uid=34)
+  * [kuniuthefrogg](http://forums.xonotic.org/member.php?action=profile&uid=184)
+  * [Mirio](http://forums.xonotic.org/member.php?action=profile&uid=213)
 
 #### Engine Code
 
   * [divVerent](http://forums.xonotic.org/member.php?action=profile&uid=4)
+  * [Cloudwalk](http://forums.xonotic.org/member.php?action=profile&uid=8922)
 
 #### Game Code
 
-  * [divVerent](http://forums.xonotic.org/member.php?action=profile&uid=4)
-  * [FruitieX](http://forums.xonotic.org/member.php?action=profile&uid=29)
-  * [tZork](http://forums.xonotic.org/member.php?action=profile&uid=39)
-  * [Samual](http://forums.xonotic.org/member.php?action=profile&uid=164)
+  * [Mario](http://forums.xonotic.org/member.php?action=profile&uid=1258)
+  * [martin-t](http://forums.xonotic.org/member.php?action=profile&uid=5337)
+  * [matthiaskrgr](http://forums.xonotic.org/member.php?action=profile&uid=2969)
+  * [terencehill](http://forums.xonotic.org/member.php?action=profile&uid=620)
 
 #### Marketing / PR
 
   * [-z-](http://forums.xonotic.org/member.php?action=profile&uid=1)
-  * [mand1nga](http://forums.xonotic.org/member.php?action=profile&uid=13)
-  * [Samual](http://forums.xonotic.org/member.php?action=profile&uid=164)
 
 #### Legal
 
@@ -100,11 +80,10 @@ Coordinators are here to guide contributors, provide information both in and out
 #### Stats
 
   * [Antibody](http://forums.xonotic.org/member.php?action=profile&uid=530)
-  * [zykure](http://forums.xonotic.org/member.php?action=profile&uid=3578)
 
 **Note:** Many of the core members are serving double roles as coordinators. This is not a considered a conflict of interests in decision making because these members are largely filling the role until someone else who fits the description can fill it.
 
-These coordination positions are time-consuming roles that require dedication, knowledge of the area and sharpened communication skills. If you believe you can be of assistance in this area, you may contact the team at [admin@xonotic.org](mailto:admin@xonotic.org) or in [FreeNode #xonotic](https://webchat.freenode.net/?channels=xonotic). Don't forget, you can still contribute in other ways without the responsibilities of a coordinator.
+These coordination positions are time-consuming roles that require dedication, knowledge of the area and sharpened communication skills. If you believe you can be of assistance in this area, you may contact the team on IRC at [FreeNode #xonotic](https://webchat.freenode.net/?channels=xonotic). Don't forget, you can still [contribute in other ways](https://gitlab.com/xonotic/xonotic/-/wikis/Repository_Access) without the responsibilities of a coordinator.
 
 ### Other Contributors and Supporters
 
