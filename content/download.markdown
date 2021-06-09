@@ -54,8 +54,10 @@ The official Xonotic map editor with all the assets required to create maps. Thi
 **<a name="netradiant-illwieckz"></a>[illwieckz’s NetRadiant builds](https://netradiant.gitlab.io/page/download)**  
 Recent NetRadiant binaries built by illwieckz for Windows and Linux. This is a much newer version of the NetRadiant program than is found in the 0.8.2 Mapping Support download. The assets are not included so you also need the above Mapping Support pack.
 
-**<a name="lower-quality"></a>[Lower quality Xonotic download (708MB)](https://dl.xonotic.org/xonotic-0.8.2-low.zip)**  
-A release build with JPEG textures, instead of DDS textures with S3 compression. This build has a smaller file size and is compatible with old open source GPU drivers that lack S3TC support. It uses significantly more RAM and has longer loading times.  
+<!--
+**<a name="higher-quality"></a>[Higher quality Xonotic download (???MB)](https://dl.xonotic.org/xonotic-0.8.2-high.zip)**  
+A release build with JPEG textures, instead of DDS textures with S3 compression. This build has a larger file size and is compatible with old GPU drivers that lack S3TC support. It uses significantly more RAM and has longer loading times.  
+-->
 
 **<a name="source"></a>[Source code download (7MB)](https://dl.xonotic.org/xonotic-0.8.2-source.zip)**  
 The source of all code parts (also included with the other downloads).  
