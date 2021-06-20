@@ -7,7 +7,7 @@ import sys
 import urllib.parse
 import urllib.request
 
-STATS_BASE_URL = "https://stats.xonotic.org"
+STATS_BASE_URL = "http://stats.xonotic.org"
 
 GITLAB_BASE_URL = "https://gitlab.com/api/v4"
 
