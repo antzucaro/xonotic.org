@@ -4,9 +4,6 @@ static/uploads/
 # The destination/output directory
 public/
 
-# Local paths updated in the Makefile
-Makefile
-
 # Data that gets refreshed via external processes
 data/**
 
