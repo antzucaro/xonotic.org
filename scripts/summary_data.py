@@ -1,10 +1,11 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 
 import argparse
 import datetime
 import json
 import sys
-import urllib2
+import urllib.parse
+import urllib.request
 
 STATS_BASE_URL = "https://stats.xonotic.org"
 
@@ -18,7 +19,7 @@ def get_xonstat_summary_data():
     """ Get the summary of the past 24 hours worth of data from XonStat. """
     url = "{}/summary?scope=day".format(STATS_BASE_URL)
     try:
-        response = urllib2.urlopen(url)
+        response = urllib.request.urlopen(url)
         data = json.loads(response.read())
         return data
     except:
@@ -29,7 +30,7 @@ def get_gitlab_projects(group_id=GITLAB_GROUP_ID):
     """ Returns a list of gitlab project IDs from a group number. """
     url = "{}/groups/{}/projects".format(GITLAB_BASE_URL, GITLAB_GROUP_ID)
     try:
-        response = urllib2.urlopen(url)
+        response = urllib.request.urlopen(url)
         data = json.loads(response.read())
         return [e["id"] for e in data]
     except:
@@ -39,13 +40,13 @@ def get_gitlab_projects(group_id=GITLAB_GROUP_ID):
 def get_project_commits_committers(project_id, since):
     """ Gets the list of commits and committers for a given project within a given time frame. """
     # the 'since' parameter is an ISO8601 date string
-    since_str = urllib2.quote(since.isoformat())
+    since_str = urllib.parse.quote(since.isoformat())
 
     url = ("{}/projects/{}/repository/commits?since={}"
            .format(GITLAB_BASE_URL, project_id, since_str))
 
     try:
-        response = urllib2.urlopen(url)
+        response = urllib.request.urlopen(url)
         data = json.loads(response.read())
 
         commits = 0
