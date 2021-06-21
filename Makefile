@@ -1,7 +1,7 @@
 clean:
-	rm -r ./public/*
+	rm -rf ./public
 
-data: 
+data:
 	scripts/summary_data.py ./data/summary/summarystats.json
 
 .PHONY: data
