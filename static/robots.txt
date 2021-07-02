@@ -1,9 +1,5 @@
 Sitemap: https://xonotic.org/sitemap.xml
 
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/
-
 User-agent: aipbot
 Disallow: /
 
@@ -397,7 +393,3 @@ Disallow: /
 
 User-agent: Zeus Link Scout
 Disallow: /
-
-User-Agent: *
-Disallow: block.php
-Disallow: /block.php
