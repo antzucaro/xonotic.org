@@ -3,11 +3,8 @@ title: "Xonotic: The Free and Fast Arena Shooter"
 indexes:
   category: "categories"
   tag: "tags"
-baseurl: "http://xonotic.org/"
+baseurl: "https://xonotic.org/"
 markup:
-  # As of 09-04-2020, xonotic.org is using pre-0.60 hugo with blackfriday as markdown handler
-  # so you may want to uncomment this line when previewing with newer hugo:
-  #defaultMarkdownHandler: "blackfriday"
   goldmark:
     renderer:
       # xonotic.org includes inline html which is disabled by default in goldmark
