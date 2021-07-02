@@ -3,6 +3,7 @@ author: bones_was_here
 comments: false
 type: page
 url: /integ/error.html
+sitemap_exclude: true
 ---
 
 ## <span style="color:red">Quake Error: {{<raw>}}{{placeholder "http.error.status_code"}} {{placeholder "http.error.status_text"}}{{</raw>}}</span>
