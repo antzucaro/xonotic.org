@@ -1,4 +1,6 @@
 Sitemap: https://xonotic.org/sitemap.xml
+User-agent: *
+Disallow: /integ/
 
 User-agent: aipbot
 Disallow: /
