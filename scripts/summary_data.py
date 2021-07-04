@@ -3,6 +3,8 @@
 import argparse
 import datetime
 import json
+import os
+import os.path
 import sys
 import urllib.parse
 import urllib.request
@@ -66,6 +68,12 @@ def main():
     parser.add_argument("output_json_file", help="the output file in JSON format")
     args = parser.parse_args()
 
+    # ensure the target directory exists
+    dest_path = os.path.abspath(args.output_json_file)
+    dest_dir = os.path.dirname(dest_path)
+    if not os.path.exists(dest_dir):
+        os.makedirs(dest_dir)
+
     # this is the data to be rendered to the JSON file, eventually
     data = {
         "players": 0,
@@ -94,7 +102,7 @@ def main():
     data["commits"] = commits
     data["committers"] = len(committers)
 
-    with open(args.output_json_file, "w") as f:
+    with open(dest_path, "w") as f:
         f.write(json.dumps(data, sort_keys=True, indent=4))
 
     return 0
