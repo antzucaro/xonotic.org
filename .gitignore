@@ -1,11 +1,5 @@
-# Uploaded media files
-static/uploads/
-
 # The destination/output directory
 public/
 
 # Data that gets refreshed via external processes
 data/**
-
-# Legacy static files
-static/m/**
