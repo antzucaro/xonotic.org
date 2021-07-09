@@ -1,8 +1,0 @@
-version: '2'
-services:
-  hugo:
-    build: .
-    volumes:
-        - .:/usr/share/blog
-    ports:
-        - "1313:1313"

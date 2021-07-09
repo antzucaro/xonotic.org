@@ -1,15 +1,10 @@
 This is a rethink of Xonotic's main website. It uses [hugo](https://gohugo.io/) so it's simple and
 static, making administration and ongoing maintenance a good deal easier.
 
-# For development (optional)
+# For development
 
-The quickest way to get started is with docker. docker and docker-compose are required as
-dependencies.
+[Install Hugo](https://gohugo.io/getting-started/installing)
 
-```
-docker-compose up
-```
+Run it in the xonotic.org repo's root: `hugo server --watch`
 
-***
-
-Alternatively, install hugo and run it in the repo's root via `hugo server --watch`.
+It will offer a [localhost link](http://localhost:1313/) to preview the site and the page(s) will be refreshed automatically when you save a change.
