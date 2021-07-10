@@ -10,7 +10,7 @@ wordpress_id: 97
 
 ## Core Team
 
-The Core team consists of members who discuss and vote on large project changes. This international group of leaders is a classic group of collaborators who above all else, will try and do what's best for the game and community. You can find most of them on our [Freenode channel](https://webchat.freenode.net/?channels=xonotic).
+The Core team consists of members who discuss and vote on large project changes. This international group of leaders is a classic group of collaborators who above all else, will try and do what's best for the game and community. You can find most of them in [#dev:xonotic.org](https://matrix.to/#/#dev:xonotic.org) on Matrix.
 
   * [divVerent](http://forums.xonotic.org/member.php?action=profile&uid=4)
   * [-z-](http://forums.xonotic.org/member.php?action=profile&uid=1)
@@ -83,7 +83,7 @@ Coordinators are here to guide contributors, provide information both in and out
 
 **Note:** Many of the core members are serving double roles as coordinators. This is not a considered a conflict of interests in decision making because these members are largely filling the role until someone else who fits the description can fill it.
 
-These coordination positions are time-consuming roles that require dedication, knowledge of the area and sharpened communication skills. If you believe you can be of assistance in this area, you may contact the team on IRC at [FreeNode #xonotic](https://webchat.freenode.net/?channels=xonotic). Don't forget, you can still [contribute in other ways](https://gitlab.com/xonotic/xonotic/-/wikis/Repository_Access) without the responsibilities of a coordinator.
+These coordination positions are time-consuming roles that require dedication, knowledge of the area and sharpened communication skills. If you believe you can be of assistance in this area, you may contact the team at [#dev:xonotic.org](https://matrix.to/#/#dev:xonotic.org) on Matrix. Don't forget, you can still [contribute in other ways](https://gitlab.com/xonotic/xonotic/-/wikis/Repository_Access) without the responsibilities of a coordinator.
 
 ### Other Contributors and Supporters
 
